@@ -1,0 +1,2001 @@
+Order ID,Order Date,Customer ID,Product,Category,Sub-Category,Region,City,Quantity,Sales,Profit,Discount
+ORD00001,2024-08-09,CUST7248,Phone,Technology,Phone,North,Delhi,8,29126.4,6525.4,20
+ORD00002,2023-06-03,CUST1562,Keyboard,Technology,Keyboard,East,Patna,8,15696.0,946.07,0
+ORD00003,2023-06-14,CUST5132,Keyboard,Technology,Keyboard,West,Pune,2,7204.5,666.37,25
+ORD00004,2023-08-20,CUST2170,Phone,Technology,Phone,South,Hyderabad,10,31455.0,1905.92,10
+ORD00005,2023-08-07,CUST5887,Desk,Furniture,Desk,South,Chennai,3,803.25,109.78,25
+ORD00006,2024-04-13,CUST4217,Laptop,Technology,Laptop,East,Kolkata,7,10221.75,1716.7,25
+ORD00007,2024-08-17,CUST1785,Monitor,Technology,Monitor,East,Kolkata,5,9135.0,1019.95,0
+ORD00008,2023-08-02,CUST1386,Desk,Furniture,Desk,South,Bangalore,3,7668.0,1891.71,10
+ORD00009,2023-02-27,CUST4214,Keyboard,Technology,Keyboard,South,Chennai,7,18195.1,3868.29,15
+ORD00010,2023-09-16,CUST5760,Monitor,Technology,Monitor,West,Pune,5,11191.0,3705.02,5
+ORD00011,2023-09-27,CUST4648,Pen,Office Supplies,Pen,West,Ahmedabad,2,1267.2,302.3,20
+ORD00012,2024-12-04,CUST8227,Keyboard,Technology,Keyboard,South,Bangalore,8,1137.6,62.39,10
+ORD00013,2023-04-07,CUST1684,Notebook,Office Supplies,Notebook,South,Hyderabad,10,18662.0,1906.34,30
+ORD00014,2024-04-05,CUST3971,Sofa,Furniture,Sofa,North,Delhi,4,6445.6,1860.39,30
+ORD00015,2024-11-13,CUST3478,Monitor,Technology,Monitor,East,Patna,4,4416.0,1432.18,25
+ORD00016,2024-12-30,CUST3132,Table,Furniture,Table,North,Chandigarh,7,22610.0,6728.51,0
+ORD00017,2024-07-01,CUST4905,Monitor,Technology,Monitor,East,Bhubaneswar,10,16128.0,1777.97,30
+ORD00018,2024-03-01,CUST9859,Notebook,Office Supplies,Notebook,South,Chennai,2,636.0,181.75,25
+ORD00019,2024-02-04,CUST2249,Bookcase,Furniture,Bookcase,East,Kolkata,6,23742.0,2674.07,0
+ORD00020,2023-11-07,CUST7689,Desk,Furniture,Desk,East,Kolkata,10,6817.0,1278.6,15
+ORD00021,2024-10-22,CUST5312,Desk,Furniture,Desk,East,Kolkata,9,37799.55,12426.29,5
+ORD00022,2023-10-20,CUST3236,Printer,Technology,Printer,East,Kolkata,1,1725.5,537.23,15
+ORD00023,2024-06-11,CUST5728,Desk,Furniture,Desk,West,Pune,6,26718.0,6842.41,0
+ORD00024,2024-08-10,CUST3337,Sofa,Furniture,Sofa,South,Bangalore,3,10225.5,1118.38,15
+ORD00025,2023-07-05,CUST4252,Printer,Technology,Printer,North,Lucknow,2,4836.8,1272.0,20
+ORD00026,2023-05-17,CUST4095,Monitor,Technology,Monitor,West,Ahmedabad,5,8317.25,1412.78,5
+ORD00027,2023-05-23,CUST9042,Desk,Furniture,Desk,West,Pune,4,7153.6,1118.79,15
+ORD00028,2023-08-29,CUST5928,Printer,Technology,Printer,East,Patna,9,41809.5,6230.58,5
+ORD00029,2023-12-04,CUST5456,Binder,Office Supplies,Binder,North,Lucknow,8,2922.0,731.17,25
+ORD00030,2024-03-16,CUST7914,Table,Furniture,Table,South,Bangalore,10,26214.0,7443.21,15
+ORD00031,2023-08-13,CUST5937,Printer,Technology,Printer,East,Kolkata,2,5095.8,1480.18,10
+ORD00032,2023-06-03,CUST5720,Laptop,Technology,Laptop,North,Chandigarh,8,15618.0,1009.12,5
+ORD00033,2024-01-17,CUST9143,Binder,Office Supplies,Binder,North,Lucknow,9,32327.1,5027.39,10
+ORD00034,2024-01-24,CUST3564,Stapler,Office Supplies,Stapler,East,Bhubaneswar,5,10718.5,3168.35,15
+ORD00035,2024-06-20,CUST9401,Desk,Furniture,Desk,South,Chennai,9,5220.0,883.88,0
+ORD00036,2024-07-06,CUST9401,Stapler,Office Supplies,Stapler,North,Lucknow,1,3778.0,661.85,0
+ORD00037,2024-03-23,CUST5612,Desk,Furniture,Desk,West,Ahmedabad,4,10347.0,2448.03,25
+ORD00038,2024-09-25,CUST2225,Monitor,Technology,Monitor,South,Hyderabad,3,6680.25,2119.73,25
+ORD00039,2024-02-27,CUST1359,Sofa,Furniture,Sofa,West,Pune,8,14682.0,2250.34,25
+ORD00040,2024-09-12,CUST5822,Phone,Technology,Phone,West,Mumbai,3,2317.05,624.51,5
+ORD00041,2024-09-25,CUST5772,Sofa,Furniture,Sofa,South,Chennai,8,9192.0,482.71,25
+ORD00042,2024-05-15,CUST5201,Chair,Furniture,Chair,West,Pune,7,12986.4,3634.0,20
+ORD00043,2023-06-05,CUST8251,Paper,Office Supplies,Paper,West,Ahmedabad,6,1755.0,159.7,25
+ORD00044,2023-07-15,CUST9103,Stapler,Office Supplies,Stapler,South,Chennai,4,456.4,58.63,30
+ORD00045,2024-12-23,CUST2473,Table,Furniture,Table,West,Ahmedabad,1,1280.6,265.22,5
+ORD00046,2024-03-20,CUST6121,Chair,Furniture,Chair,South,Hyderabad,5,14144.0,3778.44,15
+ORD00047,2024-06-13,CUST3869,Bookcase,Furniture,Bookcase,West,Ahmedabad,2,1094.0,120.47,0
+ORD00048,2024-05-09,CUST3916,Notebook,Office Supplies,Notebook,East,Patna,4,6738.0,1552.18,25
+ORD00049,2024-04-05,CUST5508,Binder,Office Supplies,Binder,South,Chennai,5,6303.25,1011.19,5
+ORD00050,2024-03-18,CUST6427,Stapler,Office Supplies,Stapler,South,Hyderabad,1,2049.35,572.4,15
+ORD00051,2023-01-28,CUST8126,Laptop,Technology,Laptop,North,Chandigarh,9,15242.4,3683.81,20
+ORD00052,2024-11-05,CUST8747,Stapler,Office Supplies,Stapler,East,Patna,3,1785.0,603.67,30
+ORD00053,2024-03-13,CUST6158,Sofa,Furniture,Sofa,West,Mumbai,6,10983.6,1347.55,10
+ORD00054,2024-02-20,CUST7675,Monitor,Technology,Monitor,North,Delhi,4,2195.2,215.57,20
+ORD00055,2024-07-19,CUST1119,Chair,Furniture,Chair,East,Kolkata,3,7973.1,1371.65,10
+ORD00056,2023-10-03,CUST1933,Bookcase,Furniture,Bookcase,West,Mumbai,3,11793.6,1526.69,20
+ORD00057,2024-09-01,CUST3276,Laptop,Technology,Laptop,South,Bangalore,3,10908.9,3469.28,15
+ORD00058,2023-08-01,CUST6324,Stapler,Office Supplies,Stapler,South,Bangalore,4,9027.0,725.33,15
+ORD00059,2024-07-24,CUST7387,Desk,Furniture,Desk,West,Pune,4,9642.4,646.93,15
+ORD00060,2023-06-19,CUST3534,Pen,Office Supplies,Pen,South,Hyderabad,1,566.95,125.94,15
+ORD00061,2024-09-15,CUST9474,Sofa,Furniture,Sofa,West,Pune,1,3945.35,786.02,5
+ORD00062,2024-12-11,CUST7166,Keyboard,Technology,Keyboard,South,Bangalore,2,7612.6,1488.36,15
+ORD00063,2024-01-22,CUST5257,Table,Furniture,Table,West,Mumbai,6,5712.0,873.09,30
+ORD00064,2023-03-29,CUST8340,Monitor,Technology,Monitor,West,Mumbai,4,9273.6,2038.84,30
+ORD00065,2023-04-21,CUST3107,Laptop,Technology,Laptop,South,Hyderabad,2,4308.0,855.07,25
+ORD00066,2024-09-21,CUST2598,Desk,Furniture,Desk,West,Mumbai,1,2698.5,916.45,30
+ORD00067,2024-10-13,CUST9895,Desk,Furniture,Desk,South,Hyderabad,3,8753.4,2230.84,10
+ORD00068,2024-04-03,CUST8727,Desk,Furniture,Desk,North,Lucknow,6,24510.6,2320.74,15
+ORD00069,2024-07-27,CUST6941,Monitor,Technology,Monitor,South,Hyderabad,7,9618.0,2465.76,25
+ORD00070,2024-09-14,CUST4335,Printer,Technology,Printer,North,Lucknow,4,4866.4,500.72,30
+ORD00071,2023-08-08,CUST6692,Chair,Furniture,Chair,East,Kolkata,2,5156.6,1235.65,5
+ORD00072,2023-01-04,CUST5829,Chair,Furniture,Chair,North,Chandigarh,6,6372.0,997.17,10
+ORD00073,2024-04-23,CUST2410,Phone,Technology,Phone,South,Bangalore,9,2332.8,600.69,10
+ORD00074,2024-04-29,CUST3060,Desk,Furniture,Desk,South,Bangalore,8,8826.4,1792.13,15
+ORD00075,2024-05-21,CUST5482,Pen,Office Supplies,Pen,North,Chandigarh,7,882.0,110.01,25
+ORD00076,2024-07-03,CUST1512,Monitor,Technology,Monitor,North,Delhi,7,20143.9,4987.75,30
+ORD00077,2023-09-09,CUST1029,Table,Furniture,Table,South,Bangalore,10,19792.0,1490.32,20
+ORD00078,2024-04-03,CUST2449,Keyboard,Technology,Keyboard,West,Mumbai,7,23562.0,7165.87,15
+ORD00079,2024-05-28,CUST3995,Binder,Office Supplies,Binder,East,Patna,10,6570.0,1969.26,10
+ORD00080,2023-02-12,CUST8426,Notebook,Office Supplies,Notebook,West,Ahmedabad,8,30355.2,4719.17,20
+ORD00081,2024-02-22,CUST4969,Pen,Office Supplies,Pen,North,Lucknow,10,9232.5,1802.88,25
+ORD00082,2024-10-09,CUST5418,Printer,Technology,Printer,West,Pune,2,8914.0,2146.82,0
+ORD00083,2024-12-09,CUST8364,Stapler,Office Supplies,Stapler,East,Patna,5,2793.0,963.95,30
+ORD00084,2024-10-23,CUST1245,Chair,Furniture,Chair,North,Lucknow,3,7443.9,1460.57,10
+ORD00085,2024-01-06,CUST3905,Phone,Technology,Phone,East,Kolkata,8,29253.6,7608.53,10
+ORD00086,2023-01-17,CUST9235,Notebook,Office Supplies,Notebook,South,Bangalore,1,2520.75,331.94,25
+ORD00087,2024-03-20,CUST3782,Phone,Technology,Phone,North,Delhi,2,5680.0,1479.63,0
+ORD00088,2023-11-04,CUST2561,Stapler,Office Supplies,Stapler,East,Patna,8,15732.0,3142.43,25
+ORD00089,2024-02-05,CUST3566,Table,Furniture,Table,North,Delhi,5,8914.5,2322.45,10
+ORD00090,2023-04-04,CUST8578,Pen,Office Supplies,Pen,West,Ahmedabad,10,6471.0,1134.18,10
+ORD00091,2024-05-22,CUST7489,Paper,Office Supplies,Paper,West,Mumbai,7,5865.3,1236.92,30
+ORD00092,2024-07-06,CUST6186,Laptop,Technology,Laptop,South,Chennai,7,23914.8,5793.6,10
+ORD00093,2024-01-09,CUST8999,Printer,Technology,Printer,West,Ahmedabad,10,26304.0,4979.02,20
+ORD00094,2023-04-05,CUST2474,Desk,Furniture,Desk,East,Patna,2,6476.8,713.48,20
+ORD00095,2024-09-04,CUST7583,Sofa,Furniture,Sofa,North,Chandigarh,3,9145.5,1959.01,30
+ORD00096,2024-05-01,CUST3423,Binder,Office Supplies,Binder,North,Chandigarh,2,9418.0,1583.96,0
+ORD00097,2023-08-25,CUST3247,Bookcase,Furniture,Bookcase,North,Chandigarh,6,12117.6,1916.56,15
+ORD00098,2023-05-16,CUST7989,Binder,Office Supplies,Binder,South,Hyderabad,5,13960.0,3884.75,20
+ORD00099,2023-04-16,CUST7709,Chair,Furniture,Chair,West,Pune,4,12732.0,4272.0,0
+ORD00100,2024-06-18,CUST6080,Phone,Technology,Phone,South,Hyderabad,2,1216.0,172.37,5
+ORD00101,2023-09-27,CUST1086,Stapler,Office Supplies,Stapler,North,Delhi,8,17197.2,3851.66,15
+ORD00102,2024-09-18,CUST7513,Phone,Technology,Phone,West,Mumbai,4,13742.4,4011.83,30
+ORD00103,2024-02-14,CUST8746,Binder,Office Supplies,Binder,West,Ahmedabad,4,4377.6,1347.65,10
+ORD00104,2024-06-03,CUST4457,Phone,Technology,Phone,South,Chennai,8,29541.6,10336.87,10
+ORD00105,2023-02-23,CUST3824,Table,Furniture,Table,North,Lucknow,5,20079.0,1555.32,10
+ORD00106,2024-10-27,CUST3179,Keyboard,Technology,Keyboard,North,Chandigarh,7,6515.25,2258.61,15
+ORD00107,2023-10-12,CUST7845,Laptop,Technology,Laptop,West,Pune,2,3344.6,432.11,30
+ORD00108,2024-05-28,CUST4205,Phone,Technology,Phone,West,Mumbai,2,5176.8,1649.23,10
+ORD00109,2023-10-29,CUST9769,Keyboard,Technology,Keyboard,South,Hyderabad,1,2054.4,212.64,20
+ORD00110,2024-02-13,CUST4646,Binder,Office Supplies,Binder,West,Mumbai,7,24201.1,3389.01,30
+ORD00111,2024-02-16,CUST6682,Notebook,Office Supplies,Notebook,South,Bangalore,3,8917.65,873.04,5
+ORD00112,2023-09-05,CUST1992,Table,Furniture,Table,East,Patna,3,6160.8,2038.81,15
+ORD00113,2023-04-29,CUST9837,Bookcase,Furniture,Bookcase,South,Bangalore,10,4156.5,1381.56,15
+ORD00114,2023-03-04,CUST8162,Sofa,Furniture,Sofa,East,Kolkata,4,1957.0,310.44,5
+ORD00115,2024-09-06,CUST3403,Notebook,Office Supplies,Notebook,East,Kolkata,10,4151.5,933.51,5
+ORD00116,2023-08-27,CUST8336,Sofa,Furniture,Sofa,East,Patna,9,2639.7,763.83,30
+ORD00117,2023-07-14,CUST3843,Bookcase,Furniture,Bookcase,South,Hyderabad,10,5377.0,272.89,5
+ORD00118,2023-09-08,CUST9033,Stapler,Office Supplies,Stapler,South,Hyderabad,7,21687.75,5496.27,25
+ORD00119,2024-10-04,CUST3761,Printer,Technology,Printer,North,Chandigarh,3,3131.4,367.73,15
+ORD00120,2024-09-04,CUST7844,Laptop,Technology,Laptop,South,Hyderabad,3,11533.65,1714.65,15
+ORD00121,2023-07-20,CUST9873,Monitor,Technology,Monitor,West,Ahmedabad,10,27216.0,4751.98,30
+ORD00122,2024-07-19,CUST5389,Bookcase,Furniture,Bookcase,South,Hyderabad,10,24031.0,3402.01,30
+ORD00123,2023-01-20,CUST6156,Pen,Office Supplies,Pen,West,Pune,5,15993.0,1754.63,10
+ORD00124,2024-01-23,CUST4743,Binder,Office Supplies,Binder,North,Chandigarh,1,548.1,188.21,30
+ORD00125,2023-07-19,CUST7330,Binder,Office Supplies,Binder,South,Bangalore,3,12191.55,2923.91,15
+ORD00126,2024-08-13,CUST5573,Notebook,Office Supplies,Notebook,South,Hyderabad,4,698.4,117.79,10
+ORD00127,2024-11-12,CUST6635,Chair,Furniture,Chair,North,Lucknow,6,11088.0,2853.24,0
+ORD00128,2024-05-24,CUST3217,Monitor,Technology,Monitor,North,Lucknow,5,19332.5,1322.78,5
+ORD00129,2023-06-15,CUST4056,Table,Furniture,Table,East,Patna,9,25213.95,2718.87,5
+ORD00130,2023-02-13,CUST6533,Printer,Technology,Printer,East,Bhubaneswar,2,264.0,73.48,20
+ORD00131,2023-01-04,CUST4500,Laptop,Technology,Laptop,West,Pune,1,3132.0,636.39,0
+ORD00132,2023-09-26,CUST4046,Sofa,Furniture,Sofa,South,Hyderabad,9,27777.15,5705.15,15
+ORD00133,2023-03-06,CUST4018,Notebook,Office Supplies,Notebook,West,Ahmedabad,3,10550.4,1326.23,20
+ORD00134,2023-11-21,CUST4204,Phone,Technology,Phone,North,Lucknow,8,15211.6,982.32,15
+ORD00135,2024-05-23,CUST7093,Monitor,Technology,Monitor,West,Ahmedabad,3,3871.2,885.66,20
+ORD00136,2024-04-18,CUST6709,Bookcase,Furniture,Bookcase,South,Hyderabad,10,25193.0,6524.7,30
+ORD00137,2024-03-04,CUST3927,Table,Furniture,Table,East,Bhubaneswar,7,12442.15,3312.35,5
+ORD00138,2023-07-23,CUST8631,Stapler,Office Supplies,Stapler,North,Lucknow,1,1714.5,144.15,10
+ORD00139,2023-04-29,CUST4283,Desk,Furniture,Desk,North,Lucknow,7,7168.0,2283.74,20
+ORD00140,2023-03-29,CUST3687,Binder,Office Supplies,Binder,South,Hyderabad,3,679.2,64.26,20
+ORD00141,2024-09-13,CUST4931,Paper,Office Supplies,Paper,South,Hyderabad,9,19494.0,3539.85,25
+ORD00142,2024-12-26,CUST2049,Phone,Technology,Phone,South,Hyderabad,5,7052.0,1805.26,20
+ORD00143,2023-08-09,CUST1888,Bookcase,Furniture,Bookcase,East,Kolkata,9,6993.0,1234.07,30
+ORD00144,2023-05-19,CUST2053,Table,Furniture,Table,South,Bangalore,5,16680.0,3198.04,25
+ORD00145,2024-07-08,CUST8099,Table,Furniture,Table,South,Hyderabad,2,6319.8,1179.4,10
+ORD00146,2024-02-10,CUST8198,Monitor,Technology,Monitor,East,Bhubaneswar,6,10578.6,1421.18,10
+ORD00147,2023-05-19,CUST4491,Monitor,Technology,Monitor,South,Hyderabad,8,26755.2,7935.97,10
+ORD00148,2024-01-01,CUST8246,Printer,Technology,Printer,North,Lucknow,2,972.0,187.08,0
+ORD00149,2023-07-07,CUST7083,Table,Furniture,Table,East,Kolkata,2,1504.8,468.62,5
+ORD00150,2023-06-13,CUST8326,Phone,Technology,Phone,South,Chennai,2,5501.2,1202.53,15
+ORD00151,2023-03-08,CUST6923,Bookcase,Furniture,Bookcase,East,Kolkata,7,18234.3,5307.54,5
+ORD00152,2023-12-06,CUST4991,Bookcase,Furniture,Bookcase,East,Patna,1,4642.65,1047.38,5
+ORD00153,2023-08-31,CUST2124,Bookcase,Furniture,Bookcase,East,Kolkata,2,4167.0,1436.28,25
+ORD00154,2024-02-15,CUST4286,Phone,Technology,Phone,West,Mumbai,9,1062.0,273.91,0
+ORD00155,2023-05-05,CUST8115,Sofa,Furniture,Sofa,North,Delhi,9,31564.8,10192.98,20
+ORD00156,2024-03-28,CUST3291,Binder,Office Supplies,Binder,East,Bhubaneswar,10,26943.0,7341.05,30
+ORD00157,2023-09-05,CUST6707,Bookcase,Furniture,Bookcase,West,Pune,6,20252.4,1851.46,30
+ORD00158,2024-08-25,CUST3977,Stapler,Office Supplies,Stapler,South,Chennai,9,1795.5,529.22,25
+ORD00159,2023-08-16,CUST7143,Chair,Furniture,Chair,North,Lucknow,8,33992.0,2284.65,0
+ORD00160,2023-12-09,CUST6551,Phone,Technology,Phone,North,Chandigarh,7,18101.3,1703.88,5
+ORD00161,2023-04-09,CUST4966,Keyboard,Technology,Keyboard,South,Bangalore,7,7973.0,2182.02,15
+ORD00162,2024-02-20,CUST8510,Phone,Technology,Phone,West,Pune,3,6596.1,638.06,10
+ORD00163,2023-02-11,CUST7258,Desk,Furniture,Desk,South,Hyderabad,9,38235.6,5624.81,5
+ORD00164,2023-11-08,CUST7691,Desk,Furniture,Desk,West,Mumbai,3,1843.2,130.04,20
+ORD00165,2024-10-31,CUST6437,Laptop,Technology,Laptop,North,Lucknow,5,7786.0,768.58,15
+ORD00166,2024-05-06,CUST4164,Printer,Technology,Printer,West,Pune,3,3746.25,246.59,25
+ORD00167,2023-02-11,CUST1421,Keyboard,Technology,Keyboard,East,Patna,7,29276.1,8928.66,10
+ORD00168,2023-05-02,CUST5765,Bookcase,Furniture,Bookcase,South,Bangalore,1,959.5,58.42,5
+ORD00169,2023-06-02,CUST7689,Notebook,Office Supplies,Notebook,North,Lucknow,1,3200.0,334.59,0
+ORD00170,2023-04-06,CUST9405,Keyboard,Technology,Keyboard,West,Mumbai,1,2470.3,418.06,30
+ORD00171,2024-09-19,CUST4411,Notebook,Office Supplies,Notebook,West,Mumbai,10,29580.0,6271.65,15
+ORD00172,2023-02-11,CUST5887,Sofa,Furniture,Sofa,South,Chennai,3,4110.6,726.39,15
+ORD00173,2024-08-11,CUST1704,Chair,Furniture,Chair,West,Ahmedabad,4,946.2,318.82,5
+ORD00174,2024-03-22,CUST9557,Notebook,Office Supplies,Notebook,South,Chennai,7,6316.8,1594.73,20
+ORD00175,2024-10-11,CUST5987,Laptop,Technology,Laptop,East,Bhubaneswar,10,17974.0,5696.53,5
+ORD00176,2024-06-01,CUST5187,Bookcase,Furniture,Bookcase,North,Delhi,4,4228.0,1346.51,30
+ORD00177,2024-12-21,CUST4879,Binder,Office Supplies,Binder,South,Chennai,9,32176.8,7830.48,20
+ORD00178,2024-09-05,CUST2635,Monitor,Technology,Monitor,East,Kolkata,2,9940.0,2539.06,0
+ORD00179,2023-07-30,CUST7017,Notebook,Office Supplies,Notebook,South,Bangalore,2,5346.0,1511.12,10
+ORD00180,2023-07-07,CUST2840,Stapler,Office Supplies,Stapler,North,Lucknow,6,5834.4,604.83,15
+ORD00181,2023-10-15,CUST2633,Paper,Office Supplies,Paper,West,Pune,3,1578.9,374.21,5
+ORD00182,2023-09-17,CUST7727,Desk,Furniture,Desk,East,Bhubaneswar,2,651.0,122.57,25
+ORD00183,2024-06-22,CUST5586,Printer,Technology,Printer,North,Lucknow,2,8379.3,2271.39,15
+ORD00184,2024-03-13,CUST2647,Sofa,Furniture,Sofa,North,Lucknow,5,11043.0,2184.65,10
+ORD00185,2024-04-04,CUST8180,Monitor,Technology,Monitor,East,Bhubaneswar,9,15876.0,4954.22,0
+ORD00186,2024-04-07,CUST7211,Bookcase,Furniture,Bookcase,South,Bangalore,2,6495.7,1662.51,15
+ORD00187,2024-04-23,CUST5141,Phone,Technology,Phone,West,Pune,10,35200.0,8041.57,0
+ORD00188,2023-12-08,CUST2883,Table,Furniture,Table,West,Pune,1,2812.0,246.91,20
+ORD00189,2024-06-23,CUST6433,Sofa,Furniture,Sofa,West,Ahmedabad,1,807.2,245.54,20
+ORD00190,2023-12-19,CUST5991,Desk,Furniture,Desk,East,Kolkata,2,3254.7,633.16,5
+ORD00191,2023-12-25,CUST4867,Stapler,Office Supplies,Stapler,North,Delhi,10,11347.0,1870.28,30
+ORD00192,2023-11-14,CUST8690,Phone,Technology,Phone,East,Kolkata,8,2072.0,243.75,30
+ORD00193,2024-12-26,CUST6692,Phone,Technology,Phone,South,Hyderabad,5,2632.0,227.57,30
+ORD00194,2024-01-11,CUST1117,Desk,Furniture,Desk,North,Chandigarh,3,8442.9,2318.02,10
+ORD00195,2023-07-23,CUST9974,Monitor,Technology,Monitor,West,Mumbai,6,1066.8,207.07,30
+ORD00196,2024-08-05,CUST3133,Chair,Furniture,Chair,West,Pune,10,19551.0,4911.26,30
+ORD00197,2023-05-12,CUST1936,Bookcase,Furniture,Bookcase,South,Chennai,9,18370.8,5174.99,30
+ORD00198,2024-03-07,CUST5490,Sofa,Furniture,Sofa,West,Pune,4,9153.2,1893.01,30
+ORD00199,2024-08-13,CUST9070,Stapler,Office Supplies,Stapler,East,Patna,10,18165.0,3716.1,25
+ORD00200,2023-08-26,CUST8506,Phone,Technology,Phone,South,Bangalore,3,10941.0,2652.04,0
+ORD00201,2023-07-17,CUST6236,Phone,Technology,Phone,East,Patna,6,20604.0,5903.02,0
+ORD00202,2023-05-17,CUST2410,Monitor,Technology,Monitor,South,Hyderabad,9,28830.6,2004.22,5
+ORD00203,2023-07-09,CUST6069,Phone,Technology,Phone,West,Mumbai,10,5823.0,1182.11,10
+ORD00204,2023-07-26,CUST5280,Pen,Office Supplies,Pen,East,Bhubaneswar,7,15535.45,1003.62,15
+ORD00205,2023-08-30,CUST9808,Binder,Office Supplies,Binder,East,Patna,6,24652.5,1441.69,5
+ORD00206,2023-05-10,CUST6221,Phone,Technology,Phone,South,Bangalore,1,581.0,157.13,0
+ORD00207,2023-12-08,CUST3901,Bookcase,Furniture,Bookcase,South,Hyderabad,5,20604.0,2314.49,15
+ORD00208,2023-07-25,CUST6364,Paper,Office Supplies,Paper,East,Patna,2,5690.0,1849.87,0
+ORD00209,2024-09-30,CUST8212,Phone,Technology,Phone,East,Bhubaneswar,9,29597.4,5415.28,10
+ORD00210,2023-05-26,CUST6269,Pen,Office Supplies,Pen,South,Hyderabad,9,21278.7,4568.28,10
+ORD00211,2023-03-26,CUST6838,Printer,Technology,Printer,West,Mumbai,5,2724.0,207.35,20
+ORD00212,2024-07-26,CUST5563,Table,Furniture,Table,East,Patna,8,33364.8,7119.26,10
+ORD00213,2024-08-08,CUST5554,Table,Furniture,Table,West,Mumbai,8,16347.2,2488.97,15
+ORD00214,2024-04-12,CUST8737,Monitor,Technology,Monitor,East,Patna,4,12078.0,3431.59,10
+ORD00215,2023-02-19,CUST5956,Desk,Furniture,Desk,East,Kolkata,9,32371.2,8637.85,20
+ORD00216,2023-12-24,CUST1322,Phone,Technology,Phone,North,Delhi,1,3923.6,313.93,15
+ORD00217,2023-10-06,CUST7519,Stapler,Office Supplies,Stapler,South,Chennai,4,3488.0,254.23,20
+ORD00218,2024-04-29,CUST2804,Table,Furniture,Table,East,Kolkata,4,16948.0,2310.48,0
+ORD00219,2023-08-03,CUST6264,Phone,Technology,Phone,West,Ahmedabad,1,2747.5,676.86,30
+ORD00220,2023-09-23,CUST1971,Stapler,Office Supplies,Stapler,South,Hyderabad,1,3745.6,510.35,20
+ORD00221,2024-12-23,CUST9025,Phone,Technology,Phone,North,Chandigarh,1,1238.25,146.13,25
+ORD00222,2024-05-10,CUST7216,Table,Furniture,Table,East,Patna,6,18009.6,1263.76,30
+ORD00223,2023-05-24,CUST1774,Laptop,Technology,Laptop,East,Bhubaneswar,8,26048.0,3130.42,20
+ORD00224,2023-09-21,CUST1292,Desk,Furniture,Desk,West,Mumbai,3,4277.25,1156.47,25
+ORD00225,2023-04-30,CUST9481,Stapler,Office Supplies,Stapler,East,Patna,2,5966.0,1074.7,5
+ORD00226,2023-03-26,CUST3324,Binder,Office Supplies,Binder,South,Chennai,4,4005.2,878.63,15
+ORD00227,2023-07-11,CUST7531,Stapler,Office Supplies,Stapler,South,Chennai,2,3779.1,670.3,5
+ORD00228,2024-07-05,CUST8487,Binder,Office Supplies,Binder,East,Patna,5,20500.0,3643.2,0
+ORD00229,2024-10-19,CUST6851,Keyboard,Technology,Keyboard,North,Lucknow,8,5844.0,535.35,25
+ORD00230,2024-04-26,CUST9881,Paper,Office Supplies,Paper,South,Bangalore,5,15345.0,4708.18,0
+ORD00231,2024-04-02,CUST1982,Printer,Technology,Printer,North,Chandigarh,4,2640.4,649.16,30
+ORD00232,2023-04-27,CUST5802,Chair,Furniture,Chair,West,Ahmedabad,6,10579.2,3678.47,20
+ORD00233,2023-07-06,CUST5845,Paper,Office Supplies,Paper,East,Kolkata,3,11646.0,4028.04,0
+ORD00234,2024-03-20,CUST5149,Laptop,Technology,Laptop,West,Ahmedabad,6,17356.5,5041.82,25
+ORD00235,2023-04-19,CUST8525,Desk,Furniture,Desk,North,Lucknow,9,39465.0,3146.4,0
+ORD00236,2023-02-24,CUST9645,Monitor,Technology,Monitor,South,Chennai,7,28018.55,7964.79,15
+ORD00237,2023-04-22,CUST7878,Chair,Furniture,Chair,West,Mumbai,1,1439.9,278.23,15
+ORD00238,2023-01-30,CUST2702,Pen,Office Supplies,Pen,South,Bangalore,2,1859.4,507.27,10
+ORD00239,2024-05-29,CUST1136,Phone,Technology,Phone,West,Ahmedabad,5,18776.0,5080.56,20
+ORD00240,2024-03-01,CUST7820,Notebook,Office Supplies,Notebook,West,Mumbai,4,14889.0,2432.59,25
+ORD00241,2024-07-13,CUST2716,Laptop,Technology,Laptop,North,Lucknow,3,480.0,112.64,0
+ORD00242,2023-04-19,CUST7780,Printer,Technology,Printer,West,Mumbai,9,11016.0,1953.56,15
+ORD00243,2023-09-19,CUST5995,Table,Furniture,Table,West,Pune,3,4121.1,1000.76,5
+ORD00244,2024-10-29,CUST5323,Laptop,Technology,Laptop,East,Patna,2,9922.0,2325.45,0
+ORD00245,2023-10-16,CUST6285,Sofa,Furniture,Sofa,North,Lucknow,2,4202.8,568.28,5
+ORD00246,2024-06-03,CUST7192,Paper,Office Supplies,Paper,West,Ahmedabad,10,24454.5,1958.84,15
+ORD00247,2023-11-16,CUST1971,Stapler,Office Supplies,Stapler,North,Delhi,3,4214.4,1199.77,20
+ORD00248,2024-03-13,CUST6514,Table,Furniture,Table,West,Ahmedabad,4,11324.8,996.88,20
+ORD00249,2024-02-16,CUST6631,Printer,Technology,Printer,East,Bhubaneswar,7,1071.0,351.22,15
+ORD00250,2024-12-19,CUST6703,Desk,Furniture,Desk,East,Bhubaneswar,9,29812.05,2703.17,15
+ORD00251,2024-03-15,CUST1718,Bookcase,Furniture,Bookcase,East,Patna,9,21286.8,5097.28,10
+ORD00252,2024-08-23,CUST1403,Phone,Technology,Phone,East,Kolkata,3,11110.35,2262.95,15
+ORD00253,2023-01-07,CUST7156,Laptop,Technology,Laptop,East,Bhubaneswar,1,1897.15,333.48,5
+ORD00254,2024-11-19,CUST5039,Keyboard,Technology,Keyboard,North,Lucknow,6,24092.4,7929.37,15
+ORD00255,2023-08-07,CUST4825,Binder,Office Supplies,Binder,North,Lucknow,6,25062.0,1338.82,0
+ORD00256,2024-08-08,CUST3135,Printer,Technology,Printer,South,Bangalore,9,31878.0,10986.0,0
+ORD00257,2023-04-08,CUST2644,Table,Furniture,Table,East,Patna,1,1274.0,353.15,30
+ORD00258,2024-06-27,CUST7596,Keyboard,Technology,Keyboard,North,Chandigarh,9,3006.45,805.7,15
+ORD00259,2023-04-12,CUST5356,Printer,Technology,Printer,West,Ahmedabad,6,23225.4,7053.79,10
+ORD00260,2023-07-23,CUST2800,Monitor,Technology,Monitor,West,Pune,7,23495.5,2399.45,30
+ORD00261,2023-04-07,CUST9100,Monitor,Technology,Monitor,North,Lucknow,3,6115.2,1015.63,30
+ORD00262,2024-12-13,CUST7464,Monitor,Technology,Monitor,North,Lucknow,8,13778.8,2403.08,5
+ORD00263,2023-09-24,CUST7797,Phone,Technology,Phone,South,Hyderabad,5,17072.25,2002.45,15
+ORD00264,2024-05-15,CUST3410,Desk,Furniture,Desk,West,Mumbai,3,6473.25,1948.27,25
+ORD00265,2023-05-12,CUST3452,Sofa,Furniture,Sofa,North,Chandigarh,7,1755.6,387.15,5
+ORD00266,2023-07-03,CUST2127,Printer,Technology,Printer,South,Chennai,2,6241.6,1161.48,20
+ORD00267,2023-12-20,CUST3715,Phone,Technology,Phone,West,Ahmedabad,2,6138.0,848.43,10
+ORD00268,2023-04-17,CUST7860,Paper,Office Supplies,Paper,North,Lucknow,7,9733.5,2492.3,10
+ORD00269,2024-07-19,CUST2691,Monitor,Technology,Monitor,East,Kolkata,10,35810.0,6534.34,0
+ORD00270,2024-02-17,CUST6944,Printer,Technology,Printer,North,Delhi,9,24589.8,1820.58,5
+ORD00271,2024-04-06,CUST6794,Stapler,Office Supplies,Stapler,West,Ahmedabad,4,12975.0,2845.98,25
+ORD00272,2024-05-09,CUST5049,Laptop,Technology,Laptop,North,Chandigarh,4,7397.6,2446.21,30
+ORD00273,2024-03-29,CUST1674,Stapler,Office Supplies,Stapler,South,Chennai,6,15846.6,1507.5,30
+ORD00274,2024-02-24,CUST9850,Desk,Furniture,Desk,South,Chennai,8,7509.6,1320.71,10
+ORD00275,2024-10-11,CUST9199,Chair,Furniture,Chair,East,Kolkata,6,508.2,57.84,30
+ORD00276,2023-05-25,CUST8879,Table,Furniture,Table,East,Kolkata,6,10616.4,3213.45,10
+ORD00277,2024-09-11,CUST4142,Binder,Office Supplies,Binder,North,Chandigarh,8,11930.4,2355.48,10
+ORD00278,2023-12-01,CUST7347,Table,Furniture,Table,West,Ahmedabad,5,18355.75,4848.29,15
+ORD00279,2024-10-20,CUST5881,Keyboard,Technology,Keyboard,South,Chennai,9,21169.8,7069.12,5
+ORD00280,2023-06-10,CUST9925,Bookcase,Furniture,Bookcase,West,Pune,6,21858.6,2432.59,15
+ORD00281,2024-07-29,CUST5538,Sofa,Furniture,Sofa,East,Patna,8,2408.0,492.51,0
+ORD00282,2024-11-02,CUST7203,Table,Furniture,Table,North,Lucknow,4,3782.8,802.39,30
+ORD00283,2023-07-19,CUST2160,Table,Furniture,Table,North,Chandigarh,8,4012.8,1281.21,5
+ORD00284,2024-10-07,CUST9764,Binder,Office Supplies,Binder,West,Mumbai,10,33635.0,11400.73,30
+ORD00285,2023-10-28,CUST8984,Printer,Technology,Printer,South,Hyderabad,5,16847.0,5472.12,15
+ORD00286,2023-11-28,CUST7367,Phone,Technology,Phone,North,Chandigarh,2,1263.6,70.54,10
+ORD00287,2024-08-27,CUST3388,Bookcase,Furniture,Bookcase,North,Delhi,2,1009.5,176.73,25
+ORD00288,2024-09-23,CUST7415,Desk,Furniture,Desk,South,Hyderabad,6,13465.2,4142.62,30
+ORD00289,2023-01-23,CUST7069,Chair,Furniture,Chair,West,Ahmedabad,2,3426.0,266.76,0
+ORD00290,2023-04-10,CUST4951,Laptop,Technology,Laptop,West,Mumbai,3,2643.9,240.36,30
+ORD00291,2024-12-15,CUST7394,Laptop,Technology,Laptop,South,Hyderabad,2,5113.6,1171.17,15
+ORD00292,2024-12-26,CUST5792,Stapler,Office Supplies,Stapler,West,Mumbai,5,10178.0,3276.49,30
+ORD00293,2023-06-21,CUST9914,Phone,Technology,Phone,South,Bangalore,9,14434.2,2777.14,10
+ORD00294,2024-05-13,CUST1161,Desk,Furniture,Desk,North,Lucknow,2,4723.5,729.35,25
+ORD00295,2024-03-11,CUST3602,Desk,Furniture,Desk,East,Bhubaneswar,2,574.2,95.99,10
+ORD00296,2024-03-14,CUST2153,Binder,Office Supplies,Binder,West,Pune,6,15217.2,2773.45,10
+ORD00297,2023-07-29,CUST1400,Phone,Technology,Phone,North,Delhi,8,32422.4,1903.24,15
+ORD00298,2023-07-25,CUST7558,Pen,Office Supplies,Pen,West,Pune,2,5652.5,1272.07,15
+ORD00299,2024-11-01,CUST7915,Chair,Furniture,Chair,East,Bhubaneswar,5,10864.0,1280.82,30
+ORD00300,2024-02-22,CUST2827,Binder,Office Supplies,Binder,South,Bangalore,10,11151.0,1339.44,30
+ORD00301,2024-02-28,CUST1979,Table,Furniture,Table,East,Patna,6,14170.2,1879.75,5
+ORD00302,2024-02-24,CUST9281,Bookcase,Furniture,Bookcase,West,Pune,4,12115.2,1800.56,20
+ORD00303,2024-08-10,CUST6923,Laptop,Technology,Laptop,South,Bangalore,4,10656.8,1946.76,30
+ORD00304,2024-09-15,CUST6772,Table,Furniture,Table,West,Mumbai,4,6323.2,354.11,5
+ORD00305,2023-02-25,CUST8818,Sofa,Furniture,Sofa,South,Chennai,2,1033.5,228.55,25
+ORD00306,2023-09-29,CUST1076,Binder,Office Supplies,Binder,South,Chennai,6,5191.2,999.67,30
+ORD00307,2024-03-06,CUST8186,Paper,Office Supplies,Paper,South,Chennai,5,18800.0,1184.26,0
+ORD00308,2024-03-25,CUST4100,Pen,Office Supplies,Pen,East,Bhubaneswar,9,20682.9,4556.91,30
+ORD00309,2023-01-01,CUST5835,Laptop,Technology,Laptop,West,Pune,10,13480.0,1358.96,20
+ORD00310,2023-06-28,CUST9918,Paper,Office Supplies,Paper,South,Bangalore,5,17560.0,1284.67,20
+ORD00311,2023-09-21,CUST2475,Paper,Office Supplies,Paper,West,Pune,5,15076.0,2134.43,20
+ORD00312,2024-03-07,CUST1551,Sofa,Furniture,Sofa,North,Chandigarh,9,14134.5,4611.89,25
+ORD00313,2023-05-12,CUST9540,Keyboard,Technology,Keyboard,South,Bangalore,6,22224.0,2230.93,0
+ORD00314,2024-01-04,CUST7988,Paper,Office Supplies,Paper,East,Kolkata,2,5008.2,398.1,15
+ORD00315,2024-10-01,CUST4281,Phone,Technology,Phone,North,Lucknow,8,21144.0,3189.48,25
+ORD00316,2024-08-26,CUST1261,Stapler,Office Supplies,Stapler,West,Ahmedabad,3,8359.2,630.55,10
+ORD00317,2023-12-18,CUST4352,Monitor,Technology,Monitor,East,Bhubaneswar,10,26550.0,9156.0,25
+ORD00318,2024-12-14,CUST8029,Printer,Technology,Printer,South,Bangalore,1,3406.9,394.01,30
+ORD00319,2023-02-19,CUST2344,Laptop,Technology,Laptop,North,Chandigarh,5,16804.0,3715.87,20
+ORD00320,2024-01-27,CUST5786,Paper,Office Supplies,Paper,West,Mumbai,9,14565.6,3090.72,20
+ORD00321,2024-05-29,CUST5163,Binder,Office Supplies,Binder,East,Bhubaneswar,7,13643.35,2990.39,15
+ORD00322,2023-12-11,CUST3764,Binder,Office Supplies,Binder,West,Mumbai,10,28642.5,8244.09,25
+ORD00323,2024-01-30,CUST4352,Phone,Technology,Phone,South,Chennai,10,23009.0,6483.34,5
+ORD00324,2023-08-18,CUST7227,Table,Furniture,Table,West,Pune,2,2400.4,156.41,15
+ORD00325,2024-09-18,CUST2235,Keyboard,Technology,Keyboard,East,Bhubaneswar,2,7804.7,598.58,15
+ORD00326,2023-12-01,CUST9546,Laptop,Technology,Laptop,South,Chennai,6,17185.5,903.36,25
+ORD00327,2023-04-29,CUST2802,Phone,Technology,Phone,North,Lucknow,2,4369.4,1183.74,30
+ORD00328,2024-09-06,CUST7424,Chair,Furniture,Chair,West,Pune,8,10267.6,2175.59,5
+ORD00329,2023-02-11,CUST6639,Laptop,Technology,Laptop,North,Delhi,9,18755.1,2323.29,30
+ORD00330,2024-09-18,CUST7167,Keyboard,Technology,Keyboard,East,Patna,6,8860.5,2037.39,25
+ORD00331,2023-08-13,CUST3757,Paper,Office Supplies,Paper,North,Delhi,6,8346.0,2797.45,0
+ORD00332,2024-09-02,CUST3019,Chair,Furniture,Chair,East,Patna,10,25447.5,6765.68,25
+ORD00333,2023-03-09,CUST9672,Stapler,Office Supplies,Stapler,South,Chennai,7,8344.7,2267.3,30
+ORD00334,2023-10-12,CUST7919,Phone,Technology,Phone,North,Delhi,2,3135.6,857.63,10
+ORD00335,2024-09-20,CUST2567,Phone,Technology,Phone,South,Bangalore,5,4590.0,758.05,25
+ORD00336,2023-01-02,CUST8462,Notebook,Office Supplies,Notebook,East,Bhubaneswar,4,5922.0,2046.3,30
+ORD00337,2024-10-07,CUST4547,Monitor,Technology,Monitor,North,Delhi,9,27426.6,3675.96,10
+ORD00338,2023-03-12,CUST4213,Laptop,Technology,Laptop,West,Mumbai,6,16977.6,2436.41,20
+ORD00339,2023-04-21,CUST2554,Bookcase,Furniture,Bookcase,South,Chennai,1,1937.6,647.63,20
+ORD00340,2024-12-14,CUST6226,Chair,Furniture,Chair,East,Patna,10,10983.0,1043.05,30
+ORD00341,2023-05-04,CUST9431,Phone,Technology,Phone,South,Chennai,1,825.3,166.97,10
+ORD00342,2023-04-28,CUST9652,Monitor,Technology,Monitor,South,Hyderabad,9,29824.2,9233.1,10
+ORD00343,2023-01-22,CUST6871,Desk,Furniture,Desk,East,Kolkata,6,2052.0,381.27,25
+ORD00344,2023-05-03,CUST7658,Printer,Technology,Printer,East,Patna,1,3637.15,873.74,15
+ORD00345,2024-07-23,CUST7530,Notebook,Office Supplies,Notebook,West,Ahmedabad,5,6881.25,445.94,25
+ORD00346,2023-03-04,CUST6166,Bookcase,Furniture,Bookcase,North,Delhi,3,8896.5,958.15,25
+ORD00347,2024-12-19,CUST3380,Laptop,Technology,Laptop,North,Chandigarh,3,523.8,77.75,10
+ORD00348,2023-12-21,CUST6507,Notebook,Office Supplies,Notebook,South,Chennai,5,5576.5,1754.69,5
+ORD00349,2023-01-19,CUST8094,Table,Furniture,Table,West,Ahmedabad,3,6021.0,1709.65,25
+ORD00350,2024-01-12,CUST8398,Chair,Furniture,Chair,West,Mumbai,4,14022.4,4316.3,20
+ORD00351,2023-09-01,CUST8726,Table,Furniture,Table,West,Pune,3,5214.75,836.51,15
+ORD00352,2024-04-30,CUST3886,Phone,Technology,Phone,West,Mumbai,1,1071.9,193.08,10
+ORD00353,2023-09-12,CUST6043,Monitor,Technology,Monitor,East,Patna,9,18257.4,3477.03,10
+ORD00354,2024-10-31,CUST6822,Sofa,Furniture,Sofa,West,Mumbai,4,1708.0,526.57,30
+ORD00355,2023-09-24,CUST1801,Phone,Technology,Phone,North,Chandigarh,9,27813.15,6395.91,5
+ORD00356,2024-09-01,CUST5066,Stapler,Office Supplies,Stapler,South,Chennai,2,2901.6,530.46,10
+ORD00357,2024-12-13,CUST5330,Paper,Office Supplies,Paper,South,Bangalore,8,32208.8,5376.14,5
+ORD00358,2023-07-13,CUST6938,Printer,Technology,Printer,North,Delhi,2,8166.0,901.9,0
+ORD00359,2023-02-24,CUST1180,Binder,Office Supplies,Binder,East,Bhubaneswar,2,183.6,62.56,15
+ORD00360,2024-01-27,CUST2980,Table,Furniture,Table,South,Bangalore,9,22389.75,1957.15,25
+ORD00361,2024-10-01,CUST2135,Binder,Office Supplies,Binder,South,Hyderabad,3,13848.15,3275.06,5
+ORD00362,2023-07-19,CUST7943,Keyboard,Technology,Keyboard,North,Chandigarh,8,3343.2,744.11,30
+ORD00363,2024-11-15,CUST9170,Table,Furniture,Table,West,Pune,7,30144.45,2147.8,5
+ORD00364,2023-05-20,CUST7540,Notebook,Office Supplies,Notebook,West,Pune,6,27428.4,3961.31,5
+ORD00365,2023-07-28,CUST9913,Desk,Furniture,Desk,North,Delhi,10,15674.0,1433.89,15
+ORD00366,2024-07-24,CUST4334,Pen,Office Supplies,Pen,North,Lucknow,6,13331.4,3516.48,15
+ORD00367,2024-02-08,CUST5035,Table,Furniture,Table,South,Hyderabad,10,34357.0,8792.88,15
+ORD00368,2024-06-12,CUST7835,Desk,Furniture,Desk,South,Chennai,2,1735.5,590.93,25
+ORD00369,2024-03-11,CUST6995,Paper,Office Supplies,Paper,East,Patna,7,14117.6,1851.27,20
+ORD00370,2024-01-07,CUST1455,Laptop,Technology,Laptop,West,Pune,1,1992.6,562.69,10
+ORD00371,2023-11-11,CUST2387,Binder,Office Supplies,Binder,West,Pune,6,4878.0,779.55,0
+ORD00372,2024-04-21,CUST3756,Keyboard,Technology,Keyboard,South,Chennai,10,23502.5,4737.24,15
+ORD00373,2023-11-20,CUST5676,Monitor,Technology,Monitor,North,Chandigarh,8,26054.4,1391.07,20
+ORD00374,2023-06-17,CUST9492,Paper,Office Supplies,Paper,East,Patna,3,1674.0,400.15,0
+ORD00375,2024-08-20,CUST2900,Monitor,Technology,Monitor,East,Bhubaneswar,7,33110.0,6359.83,0
+ORD00376,2023-04-01,CUST1120,Table,Furniture,Table,East,Bhubaneswar,6,21225.6,3244.03,20
+ORD00377,2024-03-27,CUST8939,Paper,Office Supplies,Paper,North,Chandigarh,6,22881.6,5298.0,20
+ORD00378,2024-10-23,CUST7425,Chair,Furniture,Chair,East,Kolkata,8,20882.4,4747.95,30
+ORD00379,2023-03-05,CUST9350,Notebook,Office Supplies,Notebook,North,Delhi,7,29087.1,2900.88,10
+ORD00380,2023-03-18,CUST7830,Chair,Furniture,Chair,South,Chennai,5,7259.0,1211.28,15
+ORD00381,2024-04-13,CUST4509,Binder,Office Supplies,Binder,North,Delhi,9,4957.2,569.33,15
+ORD00382,2024-08-15,CUST7700,Pen,Office Supplies,Pen,North,Delhi,2,817.6,134.48,30
+ORD00383,2024-05-22,CUST7554,Stapler,Office Supplies,Stapler,East,Kolkata,6,19364.4,4449.3,10
+ORD00384,2024-04-26,CUST8027,Printer,Technology,Printer,West,Pune,5,1496.25,333.27,25
+ORD00385,2024-07-18,CUST7690,Chair,Furniture,Chair,South,Hyderabad,7,33950.0,3321.2,0
+ORD00386,2023-05-16,CUST4140,Desk,Furniture,Desk,West,Pune,2,6161.4,1776.01,30
+ORD00387,2024-06-28,CUST4990,Pen,Office Supplies,Pen,South,Bangalore,1,3348.8,173.81,20
+ORD00388,2024-02-17,CUST6594,Phone,Technology,Phone,West,Ahmedabad,10,7568.0,2450.8,20
+ORD00389,2024-07-21,CUST3472,Table,Furniture,Table,West,Pune,4,18122.2,4046.88,5
+ORD00390,2024-12-09,CUST8184,Pen,Office Supplies,Pen,South,Bangalore,4,8433.6,717.32,30
+ORD00391,2024-01-12,CUST6893,Desk,Furniture,Desk,West,Ahmedabad,2,7900.0,1707.33,0
+ORD00392,2024-03-28,CUST7906,Keyboard,Technology,Keyboard,North,Chandigarh,4,4050.0,1163.77,10
+ORD00393,2024-09-19,CUST1484,Chair,Furniture,Chair,North,Chandigarh,1,2256.75,330.96,15
+ORD00394,2024-08-26,CUST2574,Monitor,Technology,Monitor,North,Chandigarh,7,6436.5,926.0,25
+ORD00395,2023-02-14,CUST4942,Chair,Furniture,Chair,East,Bhubaneswar,5,16330.0,5032.07,0
+ORD00396,2024-04-03,CUST5317,Sofa,Furniture,Sofa,West,Ahmedabad,3,4720.8,1409.33,30
+ORD00397,2024-11-07,CUST3951,Paper,Office Supplies,Paper,South,Hyderabad,2,3418.2,491.55,10
+ORD00398,2024-05-02,CUST5410,Table,Furniture,Table,North,Lucknow,10,20370.0,2623.27,30
+ORD00399,2023-03-23,CUST2553,Monitor,Technology,Monitor,East,Bhubaneswar,5,16477.25,5105.15,15
+ORD00400,2024-09-16,CUST7737,Laptop,Technology,Laptop,East,Patna,9,22635.9,7151.01,30
+ORD00401,2023-01-11,CUST2067,Laptop,Technology,Laptop,South,Chennai,3,7943.4,1056.43,10
+ORD00402,2024-07-12,CUST6295,Bookcase,Furniture,Bookcase,South,Chennai,7,26466.3,6969.85,10
+ORD00403,2024-04-23,CUST9200,Printer,Technology,Printer,East,Patna,5,2790.0,443.42,25
+ORD00404,2023-01-16,CUST4002,Notebook,Office Supplies,Notebook,South,Chennai,2,5470.6,321.13,15
+ORD00405,2024-02-25,CUST8922,Bookcase,Furniture,Bookcase,North,Delhi,7,22640.8,2279.81,20
+ORD00406,2023-08-16,CUST4016,Notebook,Office Supplies,Notebook,South,Chennai,3,264.6,74.1,30
+ORD00407,2024-09-15,CUST7761,Keyboard,Technology,Keyboard,West,Pune,9,37263.15,2692.53,15
+ORD00408,2023-09-05,CUST9887,Sofa,Furniture,Sofa,South,Chennai,9,1944.0,379.71,10
+ORD00409,2023-11-07,CUST8709,Phone,Technology,Phone,South,Hyderabad,1,3463.0,497.58,0
+ORD00410,2023-03-08,CUST9836,Paper,Office Supplies,Paper,South,Bangalore,4,5363.2,808.07,20
+ORD00411,2024-07-11,CUST9496,Laptop,Technology,Laptop,East,Bhubaneswar,6,4828.5,1505.04,25
+ORD00412,2023-04-05,CUST2952,Desk,Furniture,Desk,South,Chennai,2,2922.2,192.21,5
+ORD00413,2023-09-01,CUST7716,Desk,Furniture,Desk,East,Patna,7,9808.75,1467.85,5
+ORD00414,2023-11-20,CUST6042,Binder,Office Supplies,Binder,South,Chennai,5,13414.0,4297.76,5
+ORD00415,2024-06-06,CUST4783,Chair,Furniture,Chair,West,Ahmedabad,1,251.3,34.26,30
+ORD00416,2023-02-12,CUST4957,Printer,Technology,Printer,North,Chandigarh,7,15157.8,1824.69,10
+ORD00417,2024-04-29,CUST8526,Paper,Office Supplies,Paper,East,Kolkata,10,2422.5,825.57,25
+ORD00418,2024-01-16,CUST4254,Table,Furniture,Table,East,Patna,2,5859.0,1181.99,30
+ORD00419,2023-11-16,CUST5505,Laptop,Technology,Laptop,South,Hyderabad,7,1517.6,392.17,20
+ORD00420,2024-12-23,CUST8822,Bookcase,Furniture,Bookcase,North,Lucknow,4,12258.0,859.73,10
+ORD00421,2024-12-23,CUST6214,Monitor,Technology,Monitor,South,Bangalore,9,38028.15,9432.91,15
+ORD00422,2023-09-23,CUST9107,Stapler,Office Supplies,Stapler,South,Hyderabad,3,12396.0,2140.9,0
+ORD00423,2023-06-28,CUST6261,Chair,Furniture,Chair,East,Bhubaneswar,2,2914.5,679.81,25
+ORD00424,2024-01-14,CUST1081,Table,Furniture,Table,East,Patna,3,6358.5,1259.06,10
+ORD00425,2023-05-03,CUST6249,Binder,Office Supplies,Binder,South,Chennai,5,17684.0,1721.97,20
+ORD00426,2023-10-20,CUST7700,Printer,Technology,Printer,North,Lucknow,5,3712.5,450.79,25
+ORD00427,2024-11-28,CUST9860,Pen,Office Supplies,Pen,West,Ahmedabad,6,28842.0,6831.61,0
+ORD00428,2024-01-31,CUST8296,Paper,Office Supplies,Paper,East,Kolkata,1,864.5,170.9,5
+ORD00429,2024-03-08,CUST7275,Binder,Office Supplies,Binder,East,Kolkata,2,5900.0,1444.6,0
+ORD00430,2023-11-17,CUST5313,Desk,Furniture,Desk,North,Chandigarh,8,36864.0,7660.72,0
+ORD00431,2023-05-29,CUST3331,Notebook,Office Supplies,Notebook,East,Kolkata,6,15469.8,2971.05,5
+ORD00432,2024-11-25,CUST7680,Notebook,Office Supplies,Notebook,South,Bangalore,6,19350.0,6149.35,0
+ORD00433,2024-05-16,CUST9167,Laptop,Technology,Laptop,North,Chandigarh,1,4030.0,419.62,0
+ORD00434,2023-06-12,CUST5640,Sofa,Furniture,Sofa,South,Bangalore,6,11304.0,2556.26,25
+ORD00435,2023-02-12,CUST8640,Table,Furniture,Table,East,Patna,1,1156.0,62.43,20
+ORD00436,2024-11-04,CUST5353,Printer,Technology,Printer,West,Pune,10,9329.0,2070.51,5
+ORD00437,2024-12-05,CUST9774,Stapler,Office Supplies,Stapler,West,Mumbai,8,23148.8,4907.41,20
+ORD00438,2023-07-09,CUST8335,Notebook,Office Supplies,Notebook,East,Kolkata,1,1278.9,305.79,30
+ORD00439,2023-05-15,CUST2111,Paper,Office Supplies,Paper,West,Pune,6,13996.8,1540.36,20
+ORD00440,2023-05-07,CUST9661,Keyboard,Technology,Keyboard,East,Bhubaneswar,4,10346.4,1202.72,10
+ORD00441,2023-09-19,CUST7722,Keyboard,Technology,Keyboard,West,Ahmedabad,1,1521.0,468.24,10
+ORD00442,2024-05-12,CUST5658,Notebook,Office Supplies,Notebook,East,Kolkata,6,16182.3,939.4,5
+ORD00443,2024-02-02,CUST5366,Bookcase,Furniture,Bookcase,South,Bangalore,1,2993.6,608.57,20
+ORD00444,2024-12-02,CUST8941,Binder,Office Supplies,Binder,West,Ahmedabad,7,19218.5,2714.83,5
+ORD00445,2024-08-11,CUST6445,Phone,Technology,Phone,North,Chandigarh,8,27289.6,9197.12,20
+ORD00446,2023-07-16,CUST5972,Pen,Office Supplies,Pen,South,Hyderabad,10,4249.0,447.69,30
+ORD00447,2023-03-01,CUST8565,Monitor,Technology,Monitor,West,Mumbai,8,21508.0,7097.84,5
+ORD00448,2023-10-12,CUST3653,Laptop,Technology,Laptop,East,Kolkata,3,5643.0,1521.5,0
+ORD00449,2024-06-08,CUST6154,Table,Furniture,Table,East,Patna,6,21126.0,4305.24,0
+ORD00450,2024-09-10,CUST9778,Stapler,Office Supplies,Stapler,North,Lucknow,9,10740.6,3437.96,10
+ORD00451,2023-04-12,CUST5198,Printer,Technology,Printer,North,Chandigarh,10,24192.0,2091.0,30
+ORD00452,2024-10-10,CUST6936,Chair,Furniture,Chair,South,Hyderabad,8,27686.4,5518.69,30
+ORD00453,2024-11-13,CUST4821,Printer,Technology,Printer,East,Kolkata,4,8817.2,1121.89,30
+ORD00454,2024-12-01,CUST1667,Monitor,Technology,Monitor,West,Mumbai,10,25570.0,4137.96,0
+ORD00455,2024-04-06,CUST5377,Phone,Technology,Phone,South,Bangalore,10,35046.0,4990.71,10
+ORD00456,2024-01-17,CUST9122,Chair,Furniture,Chair,North,Delhi,9,3435.75,585.28,25
+ORD00457,2024-05-12,CUST1840,Keyboard,Technology,Keyboard,East,Kolkata,7,20337.1,3774.88,15
+ORD00458,2024-10-20,CUST9412,Monitor,Technology,Monitor,North,Lucknow,7,28759.5,6440.78,10
+ORD00459,2024-04-15,CUST8242,Phone,Technology,Phone,North,Delhi,9,6055.2,1960.02,20
+ORD00460,2024-08-10,CUST9586,Notebook,Office Supplies,Notebook,West,Pune,4,12241.6,1821.04,30
+ORD00461,2024-10-09,CUST5016,Keyboard,Technology,Keyboard,West,Ahmedabad,8,15600.0,5125.83,25
+ORD00462,2024-09-16,CUST3947,Chair,Furniture,Chair,West,Pune,4,2002.6,477.6,5
+ORD00463,2024-02-22,CUST4886,Keyboard,Technology,Keyboard,North,Chandigarh,3,12061.5,1746.0,15
+ORD00464,2024-12-27,CUST2191,Sofa,Furniture,Sofa,North,Delhi,6,20708.1,6723.68,5
+ORD00465,2023-05-05,CUST4823,Laptop,Technology,Laptop,North,Chandigarh,5,19364.0,3477.92,20
+ORD00466,2023-04-03,CUST1626,Monitor,Technology,Monitor,North,Lucknow,2,2917.8,511.01,10
+ORD00467,2023-08-12,CUST9743,Stapler,Office Supplies,Stapler,East,Bhubaneswar,2,912.0,102.69,0
+ORD00468,2023-04-02,CUST6531,Chair,Furniture,Chair,South,Chennai,1,420.0,46.91,30
+ORD00469,2024-05-01,CUST6091,Printer,Technology,Printer,East,Kolkata,8,18558.0,2033.41,25
+ORD00470,2024-06-22,CUST2180,Printer,Technology,Printer,West,Pune,6,22611.9,3394.46,5
+ORD00471,2024-09-24,CUST7692,Stapler,Office Supplies,Stapler,West,Ahmedabad,6,22195.2,2540.03,20
+ORD00472,2023-05-16,CUST7246,Phone,Technology,Phone,West,Pune,10,17865.0,1289.46,10
+ORD00473,2023-08-07,CUST7337,Notebook,Office Supplies,Notebook,West,Ahmedabad,7,2135.0,417.28,0
+ORD00474,2023-01-06,CUST7933,Monitor,Technology,Monitor,North,Chandigarh,1,1633.7,89.02,15
+ORD00475,2024-01-18,CUST1118,Paper,Office Supplies,Paper,East,Patna,5,7497.0,1992.3,30
+ORD00476,2023-06-04,CUST8742,Table,Furniture,Table,North,Chandigarh,7,5712.0,1188.92,15
+ORD00477,2023-05-09,CUST5826,Phone,Technology,Phone,East,Bhubaneswar,1,2108.25,512.96,25
+ORD00478,2023-12-22,CUST5403,Phone,Technology,Phone,East,Bhubaneswar,7,24757.6,3938.83,20
+ORD00479,2024-06-18,CUST2196,Keyboard,Technology,Keyboard,South,Bangalore,3,8185.2,409.36,5
+ORD00480,2024-02-02,CUST5302,Monitor,Technology,Monitor,East,Bhubaneswar,5,6124.25,1797.22,15
+ORD00481,2023-09-22,CUST2843,Desk,Furniture,Desk,East,Patna,4,7722.4,1662.91,30
+ORD00482,2023-04-10,CUST7878,Binder,Office Supplies,Binder,West,Mumbai,10,7352.5,1915.27,15
+ORD00483,2024-11-21,CUST8899,Table,Furniture,Table,North,Delhi,1,2206.0,257.89,0
+ORD00484,2023-09-30,CUST8939,Pen,Office Supplies,Pen,West,Mumbai,5,10973.5,1227.85,15
+ORD00485,2024-07-08,CUST8354,Stapler,Office Supplies,Stapler,West,Pune,3,12285.0,2797.12,10
+ORD00486,2023-11-25,CUST9703,Printer,Technology,Printer,South,Bangalore,4,14489.6,2988.38,20
+ORD00487,2023-11-04,CUST3715,Notebook,Office Supplies,Notebook,South,Chennai,2,6270.0,1451.0,25
+ORD00488,2024-01-18,CUST1611,Keyboard,Technology,Keyboard,East,Patna,7,16303.0,1804.62,0
+ORD00489,2024-05-12,CUST8159,Table,Furniture,Table,North,Chandigarh,10,17613.0,4009.44,10
+ORD00490,2024-06-30,CUST2010,Sofa,Furniture,Sofa,South,Bangalore,10,29430.0,6829.74,10
+ORD00491,2024-04-11,CUST2938,Pen,Office Supplies,Pen,East,Bhubaneswar,8,29214.0,5131.52,25
+ORD00492,2023-05-01,CUST2468,Table,Furniture,Table,East,Kolkata,6,19516.8,2331.62,20
+ORD00493,2023-05-27,CUST1030,Monitor,Technology,Monitor,North,Lucknow,3,8481.0,2485.9,0
+ORD00494,2024-08-10,CUST4907,Pen,Office Supplies,Pen,South,Chennai,7,14131.25,2132.66,5
+ORD00495,2023-12-24,CUST4437,Desk,Furniture,Desk,North,Chandigarh,6,20370.0,5546.83,30
+ORD00496,2023-01-01,CUST5164,Notebook,Office Supplies,Notebook,North,Lucknow,7,21716.8,6552.91,20
+ORD00497,2023-08-18,CUST9251,Chair,Furniture,Chair,West,Ahmedabad,9,35397.0,11376.63,0
+ORD00498,2023-12-16,CUST6255,Sofa,Furniture,Sofa,South,Hyderabad,7,23618.0,6441.6,30
+ORD00499,2023-09-08,CUST7882,Chair,Furniture,Chair,West,Mumbai,2,8064.0,1170.87,10
+ORD00500,2023-02-13,CUST5291,Printer,Technology,Printer,East,Kolkata,8,21996.8,5199.8,30
+ORD00501,2023-04-03,CUST6947,Notebook,Office Supplies,Notebook,West,Ahmedabad,9,28849.5,6915.22,25
+ORD00502,2023-01-30,CUST3217,Bookcase,Furniture,Bookcase,East,Patna,7,12398.4,3035.09,10
+ORD00503,2023-02-02,CUST6492,Phone,Technology,Phone,East,Bhubaneswar,5,7443.0,1917.02,10
+ORD00504,2024-02-17,CUST8801,Table,Furniture,Table,North,Delhi,9,2817.0,253.46,0
+ORD00505,2023-03-28,CUST1644,Paper,Office Supplies,Paper,West,Ahmedabad,6,9316.8,732.69,20
+ORD00506,2024-05-10,CUST1850,Bookcase,Furniture,Bookcase,South,Bangalore,4,16416.0,4767.01,10
+ORD00507,2024-06-06,CUST9696,Paper,Office Supplies,Paper,South,Bangalore,10,8570.0,480.94,0
+ORD00508,2024-04-16,CUST1726,Keyboard,Technology,Keyboard,North,Chandigarh,4,752.0,229.28,20
+ORD00509,2024-11-24,CUST1057,Phone,Technology,Phone,West,Ahmedabad,8,12894.0,1090.9,25
+ORD00510,2024-03-08,CUST4327,Table,Furniture,Table,West,Ahmedabad,10,34830.0,9452.45,0
+ORD00511,2024-10-14,CUST1601,Printer,Technology,Printer,North,Delhi,9,5737.05,1942.14,5
+ORD00512,2024-02-12,CUST5191,Laptop,Technology,Laptop,West,Mumbai,10,30404.5,7541.15,15
+ORD00513,2023-04-23,CUST2960,Paper,Office Supplies,Paper,North,Delhi,5,18962.0,5978.07,5
+ORD00514,2023-08-01,CUST4811,Printer,Technology,Printer,South,Bangalore,9,24675.3,3332.26,5
+ORD00515,2024-06-27,CUST3413,Sofa,Furniture,Sofa,North,Lucknow,9,42690.15,8363.25,5
+ORD00516,2024-02-09,CUST8459,Chair,Furniture,Chair,East,Patna,5,8666.25,1166.28,25
+ORD00517,2024-02-28,CUST9477,Pen,Office Supplies,Pen,West,Pune,7,13661.2,1461.97,15
+ORD00518,2024-07-28,CUST9231,Notebook,Office Supplies,Notebook,South,Bangalore,2,2699.2,371.98,30
+ORD00519,2024-07-24,CUST5811,Sofa,Furniture,Sofa,North,Lucknow,6,17470.5,2083.58,5
+ORD00520,2023-02-27,CUST3572,Pen,Office Supplies,Pen,South,Chennai,2,5167.5,1147.75,25
+ORD00521,2024-03-20,CUST6156,Stapler,Office Supplies,Stapler,West,Pune,10,21888.0,1133.29,10
+ORD00522,2023-06-06,CUST3855,Paper,Office Supplies,Paper,West,Pune,5,4142.0,984.81,5
+ORD00523,2023-04-27,CUST2660,Monitor,Technology,Monitor,South,Chennai,1,2126.6,473.59,30
+ORD00524,2024-01-29,CUST6345,Binder,Office Supplies,Binder,East,Patna,5,10967.75,3602.6,5
+ORD00525,2023-05-18,CUST8458,Bookcase,Furniture,Bookcase,South,Chennai,3,7193.25,718.41,25
+ORD00526,2024-09-06,CUST1584,Notebook,Office Supplies,Notebook,North,Delhi,7,27748.0,3358.93,0
+ORD00527,2023-07-18,CUST7511,Laptop,Technology,Laptop,East,Bhubaneswar,1,2898.0,691.82,10
+ORD00528,2024-06-19,CUST2648,Stapler,Office Supplies,Stapler,South,Chennai,2,7330.5,1959.41,25
+ORD00529,2023-08-03,CUST6134,Table,Furniture,Table,West,Pune,8,20171.2,6080.52,30
+ORD00530,2024-11-02,CUST9381,Bookcase,Furniture,Bookcase,North,Chandigarh,9,17136.0,1021.28,20
+ORD00531,2023-12-06,CUST1141,Paper,Office Supplies,Paper,South,Bangalore,1,3432.1,1015.54,30
+ORD00532,2023-02-15,CUST5156,Sofa,Furniture,Sofa,South,Hyderabad,5,19116.0,3644.39,10
+ORD00533,2023-11-25,CUST5739,Sofa,Furniture,Sofa,East,Bhubaneswar,2,2451.0,730.14,25
+ORD00534,2024-05-18,CUST3614,Pen,Office Supplies,Pen,East,Patna,1,144.4,42.94,5
+ORD00535,2024-02-14,CUST8435,Chair,Furniture,Chair,South,Bangalore,10,12456.0,3626.97,20
+ORD00536,2024-09-05,CUST6896,Bookcase,Furniture,Bookcase,North,Lucknow,7,4289.6,922.18,20
+ORD00537,2023-08-25,CUST9547,Binder,Office Supplies,Binder,North,Lucknow,10,20752.0,7199.08,20
+ORD00538,2023-10-27,CUST9756,Sofa,Furniture,Sofa,East,Kolkata,7,22211.7,7257.38,30
+ORD00539,2023-08-09,CUST3672,Chair,Furniture,Chair,East,Bhubaneswar,2,7848.0,1627.33,20
+ORD00540,2023-06-09,CUST1192,Sofa,Furniture,Sofa,West,Mumbai,2,4973.4,696.85,10
+ORD00541,2023-08-18,CUST9779,Keyboard,Technology,Keyboard,North,Delhi,1,3453.1,824.19,30
+ORD00542,2023-06-05,CUST1128,Binder,Office Supplies,Binder,West,Ahmedabad,6,15660.0,4426.3,25
+ORD00543,2024-12-02,CUST1377,Bookcase,Furniture,Bookcase,North,Lucknow,4,2056.0,249.61,0
+ORD00544,2023-01-13,CUST3733,Phone,Technology,Phone,East,Kolkata,4,5513.6,1405.86,20
+ORD00545,2024-06-16,CUST1912,Printer,Technology,Printer,East,Kolkata,1,831.75,286.33,25
+ORD00546,2024-01-15,CUST8669,Notebook,Office Supplies,Notebook,North,Chandigarh,5,2109.0,232.71,5
+ORD00547,2023-01-13,CUST6444,Phone,Technology,Phone,West,Ahmedabad,9,13104.0,3742.85,0
+ORD00548,2023-07-16,CUST9656,Binder,Office Supplies,Binder,North,Chandigarh,6,3267.0,381.56,25
+ORD00549,2024-10-30,CUST6297,Notebook,Office Supplies,Notebook,East,Bhubaneswar,4,11481.0,3258.12,25
+ORD00550,2024-01-05,CUST5379,Keyboard,Technology,Keyboard,South,Chennai,9,27590.4,6452.94,20
+ORD00551,2024-11-27,CUST8810,Phone,Technology,Phone,South,Bangalore,10,22667.0,5658.24,5
+ORD00552,2023-12-29,CUST2652,Desk,Furniture,Desk,West,Mumbai,4,7113.6,2049.48,5
+ORD00553,2024-05-01,CUST5765,Monitor,Technology,Monitor,East,Kolkata,5,5474.0,527.85,30
+ORD00554,2024-12-16,CUST8087,Phone,Technology,Phone,West,Ahmedabad,1,3691.2,1225.96,20
+ORD00555,2024-11-02,CUST3284,Pen,Office Supplies,Pen,South,Chennai,10,15817.5,2795.98,25
+ORD00556,2023-11-21,CUST9254,Printer,Technology,Printer,North,Delhi,9,4932.9,552.7,30
+ORD00557,2023-03-27,CUST7268,Printer,Technology,Printer,West,Mumbai,9,19950.3,6555.64,10
+ORD00558,2024-06-19,CUST2496,Sofa,Furniture,Sofa,East,Kolkata,6,26362.8,7811.6,10
+ORD00559,2023-10-09,CUST2793,Keyboard,Technology,Keyboard,South,Chennai,5,14301.0,3006.96,10
+ORD00560,2024-04-15,CUST2728,Keyboard,Technology,Keyboard,East,Kolkata,2,1000.8,195.78,10
+ORD00561,2024-06-09,CUST2237,Paper,Office Supplies,Paper,West,Ahmedabad,8,15904.8,4559.92,10
+ORD00562,2024-11-23,CUST6122,Bookcase,Furniture,Bookcase,South,Chennai,3,2063.25,302.14,25
+ORD00563,2023-08-30,CUST5858,Laptop,Technology,Laptop,South,Hyderabad,5,8245.0,2371.47,15
+ORD00564,2023-03-24,CUST5175,Paper,Office Supplies,Paper,East,Patna,4,10980.0,1703.86,0
+ORD00565,2024-04-02,CUST1068,Notebook,Office Supplies,Notebook,East,Kolkata,9,12146.4,1626.03,30
+ORD00566,2023-02-25,CUST6074,Sofa,Furniture,Sofa,East,Bhubaneswar,9,9639.0,2424.71,30
+ORD00567,2024-05-23,CUST8494,Printer,Technology,Printer,West,Ahmedabad,1,4224.0,301.41,0
+ORD00568,2023-03-03,CUST8205,Keyboard,Technology,Keyboard,East,Kolkata,3,6925.8,576.42,30
+ORD00569,2024-02-20,CUST2519,Sofa,Furniture,Sofa,South,Bangalore,9,13081.5,1010.35,25
+ORD00570,2024-05-19,CUST7245,Table,Furniture,Table,North,Delhi,2,7417.6,1405.24,20
+ORD00571,2023-01-04,CUST4036,Desk,Furniture,Desk,North,Chandigarh,2,6213.2,504.61,30
+ORD00572,2023-06-30,CUST1204,Pen,Office Supplies,Pen,South,Bangalore,9,25839.0,5059.62,0
+ORD00573,2024-03-11,CUST1624,Table,Furniture,Table,South,Chennai,10,14126.5,3638.94,5
+ORD00574,2023-02-12,CUST6980,Monitor,Technology,Monitor,West,Ahmedabad,6,5661.6,638.16,30
+ORD00575,2023-02-15,CUST9785,Sofa,Furniture,Sofa,South,Chennai,9,9558.0,932.42,10
+ORD00576,2024-11-02,CUST6683,Phone,Technology,Phone,East,Kolkata,8,19704.0,2139.34,0
+ORD00577,2024-08-30,CUST7519,Binder,Office Supplies,Binder,East,Patna,8,26472.0,7131.77,0
+ORD00578,2023-09-20,CUST4620,Keyboard,Technology,Keyboard,East,Kolkata,1,1802.0,616.91,15
+ORD00579,2023-12-02,CUST3529,Table,Furniture,Table,South,Chennai,8,17664.0,3888.94,20
+ORD00580,2024-01-01,CUST7047,Phone,Technology,Phone,South,Chennai,7,26066.25,5020.97,25
+ORD00581,2023-04-11,CUST1607,Paper,Office Supplies,Paper,North,Lucknow,3,2419.2,349.47,20
+ORD00582,2023-01-28,CUST3232,Chair,Furniture,Chair,North,Delhi,9,28327.95,7754.6,15
+ORD00583,2024-09-25,CUST3170,Table,Furniture,Table,West,Mumbai,9,7667.1,2353.97,30
+ORD00584,2023-07-27,CUST6223,Sofa,Furniture,Sofa,East,Patna,10,19624.0,1114.37,20
+ORD00585,2024-04-16,CUST6457,Stapler,Office Supplies,Stapler,East,Kolkata,5,522.0,150.08,10
+ORD00586,2023-12-05,CUST8767,Printer,Technology,Printer,East,Patna,5,7871.5,2294.23,30
+ORD00587,2023-02-22,CUST4349,Keyboard,Technology,Keyboard,North,Lucknow,7,16978.5,4086.38,10
+ORD00588,2023-08-12,CUST2330,Phone,Technology,Phone,East,Bhubaneswar,2,7104.0,2287.66,25
+ORD00589,2024-01-14,CUST3603,Notebook,Office Supplies,Notebook,East,Bhubaneswar,7,3007.2,545.68,20
+ORD00590,2023-01-09,CUST5875,Chair,Furniture,Chair,West,Ahmedabad,4,10239.6,837.74,30
+ORD00591,2023-04-22,CUST9240,Pen,Office Supplies,Pen,South,Chennai,5,19893.0,5178.01,5
+ORD00592,2024-11-26,CUST2548,Table,Furniture,Table,South,Bangalore,10,18522.0,1204.45,10
+ORD00593,2023-01-02,CUST7836,Notebook,Office Supplies,Notebook,South,Chennai,1,252.0,37.92,30
+ORD00594,2024-06-18,CUST6873,Stapler,Office Supplies,Stapler,East,Bhubaneswar,9,29950.65,5453.66,5
+ORD00595,2023-12-16,CUST9304,Pen,Office Supplies,Pen,North,Lucknow,3,645.0,40.55,0
+ORD00596,2024-11-25,CUST6198,Binder,Office Supplies,Binder,North,Chandigarh,3,5788.5,1463.58,15
+ORD00597,2023-08-30,CUST6015,Chair,Furniture,Chair,South,Chennai,7,13060.25,2731.59,15
+ORD00598,2023-04-19,CUST5016,Phone,Technology,Phone,West,Ahmedabad,5,5442.5,407.88,30
+ORD00599,2024-10-04,CUST6492,Chair,Furniture,Chair,East,Bhubaneswar,5,22272.75,4065.16,5
+ORD00600,2023-03-14,CUST1197,Table,Furniture,Table,West,Pune,3,3606.0,1145.66,0
+ORD00601,2023-01-22,CUST4468,Bookcase,Furniture,Bookcase,North,Lucknow,6,24536.1,6269.77,15
+ORD00602,2024-05-06,CUST6995,Desk,Furniture,Desk,East,Bhubaneswar,5,10766.25,1711.85,25
+ORD00603,2024-06-18,CUST6137,Desk,Furniture,Desk,East,Kolkata,9,24417.0,1347.14,0
+ORD00604,2024-10-09,CUST3357,Chair,Furniture,Chair,South,Bangalore,6,13110.0,916.44,5
+ORD00605,2023-10-22,CUST6161,Phone,Technology,Phone,East,Patna,6,22480.8,4649.13,15
+ORD00606,2024-10-23,CUST5126,Phone,Technology,Phone,East,Patna,5,15508.5,4690.28,30
+ORD00607,2023-07-26,CUST1218,Phone,Technology,Phone,East,Kolkata,6,14721.6,1268.02,20
+ORD00608,2023-09-02,CUST6325,Stapler,Office Supplies,Stapler,North,Delhi,1,1885.3,604.35,15
+ORD00609,2024-09-24,CUST6165,Monitor,Technology,Monitor,South,Bangalore,9,41508.0,9668.93,0
+ORD00610,2024-07-05,CUST7494,Pen,Office Supplies,Pen,East,Patna,7,19414.85,5294.47,15
+ORD00611,2024-11-26,CUST9783,Binder,Office Supplies,Binder,East,Bhubaneswar,10,16048.0,4973.69,20
+ORD00612,2024-03-28,CUST1694,Monitor,Technology,Monitor,West,Mumbai,7,1554.0,520.86,0
+ORD00613,2023-06-12,CUST4356,Phone,Technology,Phone,West,Ahmedabad,8,9817.6,2657.0,20
+ORD00614,2023-02-12,CUST3779,Printer,Technology,Printer,North,Delhi,4,9907.2,3407.01,10
+ORD00615,2024-02-28,CUST2670,Notebook,Office Supplies,Notebook,South,Chennai,3,600.75,165.02,25
+ORD00616,2024-12-07,CUST2688,Paper,Office Supplies,Paper,South,Hyderabad,5,18175.0,2573.29,0
+ORD00617,2023-03-07,CUST4189,Binder,Office Supplies,Binder,South,Hyderabad,4,4766.8,1091.1,15
+ORD00618,2024-12-31,CUST1931,Phone,Technology,Phone,North,Chandigarh,3,5411.1,1697.58,15
+ORD00619,2023-05-25,CUST4885,Desk,Furniture,Desk,West,Pune,3,5703.0,579.48,0
+ORD00620,2024-05-25,CUST6886,Sofa,Furniture,Sofa,South,Hyderabad,4,17557.2,2997.67,10
+ORD00621,2023-12-26,CUST7262,Chair,Furniture,Chair,West,Pune,9,25956.0,7914.97,20
+ORD00622,2024-06-18,CUST5764,Paper,Office Supplies,Paper,East,Bhubaneswar,9,22768.2,3498.85,30
+ORD00623,2023-01-18,CUST4616,Monitor,Technology,Monitor,East,Bhubaneswar,10,18580.0,3925.81,0
+ORD00624,2023-04-29,CUST6628,Pen,Office Supplies,Pen,North,Delhi,1,2240.0,548.64,30
+ORD00625,2024-01-15,CUST9923,Chair,Furniture,Chair,West,Pune,4,7173.6,2026.49,30
+ORD00626,2024-01-07,CUST6270,Binder,Office Supplies,Binder,North,Chandigarh,3,11633.1,2113.09,15
+ORD00627,2024-10-09,CUST1583,Notebook,Office Supplies,Notebook,South,Hyderabad,6,2675.4,524.13,30
+ORD00628,2023-09-17,CUST5979,Stapler,Office Supplies,Stapler,North,Lucknow,3,7851.45,2186.26,15
+ORD00629,2023-11-04,CUST2976,Monitor,Technology,Monitor,South,Hyderabad,2,6022.8,313.46,10
+ORD00630,2024-02-03,CUST4467,Desk,Furniture,Desk,West,Mumbai,6,10050.6,1511.98,30
+ORD00631,2024-03-22,CUST5133,Pen,Office Supplies,Pen,East,Kolkata,6,5934.6,385.68,30
+ORD00632,2024-04-29,CUST9139,Stapler,Office Supplies,Stapler,South,Chennai,2,3136.5,186.59,15
+ORD00633,2024-11-24,CUST5176,Stapler,Office Supplies,Stapler,West,Mumbai,10,27504.0,9593.66,10
+ORD00634,2024-01-15,CUST8816,Bookcase,Furniture,Bookcase,South,Bangalore,3,1577.1,270.78,30
+ORD00635,2023-06-22,CUST9964,Sofa,Furniture,Sofa,North,Delhi,9,17647.2,3899.28,5
+ORD00636,2024-10-26,CUST9234,Chair,Furniture,Chair,West,Pune,1,1603.7,496.6,30
+ORD00637,2023-08-13,CUST6778,Sofa,Furniture,Sofa,North,Delhi,6,18885.3,1203.93,15
+ORD00638,2023-03-02,CUST2715,Desk,Furniture,Desk,South,Bangalore,7,12222.0,3351.46,0
+ORD00639,2024-11-17,CUST3108,Stapler,Office Supplies,Stapler,South,Hyderabad,10,2352.0,170.43,20
+ORD00640,2023-10-15,CUST2441,Phone,Technology,Phone,East,Bhubaneswar,6,23403.6,3874.79,10
+ORD00641,2024-08-20,CUST2007,Keyboard,Technology,Keyboard,West,Ahmedabad,2,8654.5,958.0,5
+ORD00642,2024-08-24,CUST4121,Laptop,Technology,Laptop,North,Lucknow,10,16440.0,2395.79,25
+ORD00643,2023-07-31,CUST3026,Pen,Office Supplies,Pen,West,Pune,2,6253.2,1519.58,10
+ORD00644,2024-08-31,CUST4394,Table,Furniture,Table,South,Hyderabad,5,4680.0,1163.73,25
+ORD00645,2023-07-18,CUST1937,Laptop,Technology,Laptop,West,Ahmedabad,4,7712.0,1212.24,20
+ORD00646,2024-11-11,CUST9572,Monitor,Technology,Monitor,South,Bangalore,8,20694.0,4658.72,25
+ORD00647,2023-08-07,CUST4776,Printer,Technology,Printer,East,Bhubaneswar,7,4029.9,1203.69,5
+ORD00648,2024-05-15,CUST6408,Chair,Furniture,Chair,South,Chennai,6,13467.6,1696.39,10
+ORD00649,2024-06-26,CUST4627,Pen,Office Supplies,Pen,North,Lucknow,1,1452.0,505.86,25
+ORD00650,2023-05-31,CUST3585,Stapler,Office Supplies,Stapler,South,Chennai,2,2038.3,617.69,15
+ORD00651,2024-09-30,CUST6784,Sofa,Furniture,Sofa,South,Chennai,4,19056.0,2769.54,0
+ORD00652,2024-05-07,CUST6633,Printer,Technology,Printer,East,Bhubaneswar,1,2034.0,446.41,10
+ORD00653,2023-03-16,CUST3277,Chair,Furniture,Chair,West,Pune,1,3470.4,569.79,20
+ORD00654,2024-08-10,CUST3575,Phone,Technology,Phone,South,Bangalore,3,12719.55,2608.14,5
+ORD00655,2023-05-23,CUST4522,Phone,Technology,Phone,West,Pune,6,5565.0,666.91,30
+ORD00656,2024-09-10,CUST8350,Notebook,Office Supplies,Notebook,North,Delhi,10,31338.0,5474.18,10
+ORD00657,2024-10-21,CUST8449,Notebook,Office Supplies,Notebook,East,Kolkata,9,12324.15,2059.98,15
+ORD00658,2023-05-28,CUST8175,Printer,Technology,Printer,West,Pune,5,15452.5,5146.97,30
+ORD00659,2023-06-06,CUST3027,Paper,Office Supplies,Paper,South,Bangalore,4,3461.8,682.68,5
+ORD00660,2023-03-12,CUST4997,Chair,Furniture,Chair,South,Bangalore,3,2328.9,250.24,30
+ORD00661,2024-11-11,CUST4920,Sofa,Furniture,Sofa,West,Ahmedabad,2,1156.4,315.34,30
+ORD00662,2023-04-29,CUST5481,Pen,Office Supplies,Pen,East,Kolkata,4,13341.0,4649.43,25
+ORD00663,2024-02-22,CUST1632,Phone,Technology,Phone,East,Bhubaneswar,5,8235.0,701.18,10
+ORD00664,2023-10-25,CUST4627,Desk,Furniture,Desk,South,Bangalore,3,8689.5,1123.29,25
+ORD00665,2024-10-13,CUST4531,Bookcase,Furniture,Bookcase,West,Ahmedabad,7,20962.2,4501.04,30
+ORD00666,2024-08-24,CUST1491,Keyboard,Technology,Keyboard,South,Chennai,8,1026.8,156.07,15
+ORD00667,2023-07-16,CUST1847,Sofa,Furniture,Sofa,South,Chennai,6,4779.0,644.0,25
+ORD00668,2023-04-05,CUST2766,Binder,Office Supplies,Binder,North,Chandigarh,1,1772.7,413.47,5
+ORD00669,2023-03-06,CUST6831,Chair,Furniture,Chair,West,Pune,9,1636.2,540.39,10
+ORD00670,2024-10-14,CUST1724,Sofa,Furniture,Sofa,North,Chandigarh,8,31494.4,4721.31,20
+ORD00671,2024-12-29,CUST6996,Laptop,Technology,Laptop,North,Delhi,1,3711.0,453.9,0
+ORD00672,2023-07-29,CUST4742,Binder,Office Supplies,Binder,North,Delhi,7,14505.75,1083.99,25
+ORD00673,2023-04-03,CUST2029,Phone,Technology,Phone,East,Patna,2,4729.5,1272.96,25
+ORD00674,2023-10-29,CUST6138,Chair,Furniture,Chair,East,Kolkata,7,17267.6,3775.1,30
+ORD00675,2023-08-31,CUST7770,Desk,Furniture,Desk,East,Kolkata,3,9247.2,2642.05,20
+ORD00676,2024-10-20,CUST7994,Paper,Office Supplies,Paper,South,Hyderabad,2,3241.6,737.04,20
+ORD00677,2023-11-13,CUST9147,Table,Furniture,Table,East,Patna,6,6355.5,1618.03,5
+ORD00678,2024-10-22,CUST2258,Phone,Technology,Phone,West,Mumbai,8,31960.8,9250.98,10
+ORD00679,2023-01-17,CUST9230,Paper,Office Supplies,Paper,West,Pune,10,12408.0,2501.08,20
+ORD00680,2023-03-19,CUST9418,Monitor,Technology,Monitor,West,Ahmedabad,6,18059.1,4003.98,15
+ORD00681,2024-03-13,CUST6057,Stapler,Office Supplies,Stapler,North,Delhi,1,1647.0,335.95,0
+ORD00682,2024-03-24,CUST6802,Printer,Technology,Printer,West,Pune,8,2298.0,480.83,25
+ORD00683,2023-05-04,CUST9264,Notebook,Office Supplies,Notebook,East,Bhubaneswar,7,17108.0,1816.13,0
+ORD00684,2024-01-16,CUST9165,Laptop,Technology,Laptop,West,Pune,10,17166.5,4408.39,5
+ORD00685,2023-01-28,CUST7898,Bookcase,Furniture,Bookcase,East,Kolkata,7,31102.05,4109.16,5
+ORD00686,2023-07-14,CUST3086,Phone,Technology,Phone,South,Hyderabad,3,2886.3,385.89,10
+ORD00687,2024-11-27,CUST6450,Paper,Office Supplies,Paper,East,Kolkata,5,9039.75,2309.9,15
+ORD00688,2023-02-22,CUST9379,Pen,Office Supplies,Pen,South,Hyderabad,9,20857.5,5795.89,10
+ORD00689,2023-06-06,CUST8645,Phone,Technology,Phone,West,Ahmedabad,6,8289.6,417.38,20
+ORD00690,2024-04-10,CUST4452,Binder,Office Supplies,Binder,East,Bhubaneswar,3,9582.3,2993.9,30
+ORD00691,2023-08-27,CUST3655,Chair,Furniture,Chair,South,Chennai,6,19615.5,5416.35,25
+ORD00692,2024-07-16,CUST2136,Printer,Technology,Printer,South,Bangalore,7,5264.0,1178.93,20
+ORD00693,2023-10-26,CUST7996,Bookcase,Furniture,Bookcase,South,Bangalore,5,10805.0,786.26,0
+ORD00694,2023-12-31,CUST3869,Desk,Furniture,Desk,East,Patna,1,486.4,73.49,20
+ORD00695,2023-07-19,CUST4089,Pen,Office Supplies,Pen,East,Bhubaneswar,4,14947.2,1482.34,20
+ORD00696,2023-09-30,CUST6079,Pen,Office Supplies,Pen,West,Pune,3,10710.9,716.21,10
+ORD00697,2023-12-15,CUST8093,Table,Furniture,Table,West,Ahmedabad,8,4882.4,859.47,15
+ORD00698,2023-03-20,CUST6214,Laptop,Technology,Laptop,West,Pune,3,10616.4,1393.12,10
+ORD00699,2024-04-06,CUST2681,Table,Furniture,Table,North,Delhi,3,1140.75,149.89,25
+ORD00700,2024-02-07,CUST7454,Sofa,Furniture,Sofa,East,Patna,6,9633.9,1405.32,15
+ORD00701,2023-06-04,CUST1649,Binder,Office Supplies,Binder,East,Bhubaneswar,6,3223.8,983.02,10
+ORD00702,2023-08-30,CUST4261,Phone,Technology,Phone,South,Bangalore,5,11704.5,1432.94,15
+ORD00703,2024-07-07,CUST8603,Keyboard,Technology,Keyboard,West,Mumbai,9,16584.75,1610.78,25
+ORD00704,2024-06-08,CUST2859,Stapler,Office Supplies,Stapler,North,Lucknow,4,12464.0,3747.54,0
+ORD00705,2023-07-13,CUST3608,Bookcase,Furniture,Bookcase,North,Delhi,3,2710.35,743.02,5
+ORD00706,2024-12-04,CUST2436,Monitor,Technology,Monitor,West,Mumbai,2,342.4,50.91,20
+ORD00707,2023-03-29,CUST3009,Bookcase,Furniture,Bookcase,East,Bhubaneswar,10,34858.5,1810.76,15
+ORD00708,2024-06-04,CUST1179,Paper,Office Supplies,Paper,North,Delhi,2,5483.4,1674.74,5
+ORD00709,2023-06-25,CUST6847,Binder,Office Supplies,Binder,West,Ahmedabad,1,1059.3,196.15,10
+ORD00710,2023-10-26,CUST7222,Bookcase,Furniture,Bookcase,West,Ahmedabad,5,4291.0,1445.2,30
+ORD00711,2023-12-27,CUST3406,Paper,Office Supplies,Paper,East,Kolkata,8,11886.0,884.34,25
+ORD00712,2024-02-19,CUST2022,Laptop,Technology,Laptop,West,Mumbai,2,5686.5,778.2,25
+ORD00713,2024-09-27,CUST1444,Desk,Furniture,Desk,North,Lucknow,5,22665.0,2678.3,0
+ORD00714,2024-07-29,CUST2498,Desk,Furniture,Desk,West,Pune,3,13474.8,2504.32,5
+ORD00715,2023-07-09,CUST8951,Bookcase,Furniture,Bookcase,North,Chandigarh,6,22378.5,5226.46,25
+ORD00716,2024-05-24,CUST6780,Notebook,Office Supplies,Notebook,South,Bangalore,6,1338.0,448.45,0
+ORD00717,2024-11-21,CUST2600,Paper,Office Supplies,Paper,South,Chennai,9,2871.0,524.25,0
+ORD00718,2023-10-20,CUST7434,Paper,Office Supplies,Paper,East,Kolkata,8,2304.0,499.4,0
+ORD00719,2024-05-03,CUST8159,Table,Furniture,Table,South,Bangalore,5,10265.5,3354.34,30
+ORD00720,2023-06-25,CUST2476,Table,Furniture,Table,South,Hyderabad,1,4126.5,1115.12,10
+ORD00721,2024-11-24,CUST3645,Bookcase,Furniture,Bookcase,North,Delhi,8,34096.0,3348.4,0
+ORD00722,2023-02-17,CUST3784,Sofa,Furniture,Sofa,North,Lucknow,5,3464.0,1060.29,20
+ORD00723,2024-12-11,CUST8172,Desk,Furniture,Desk,East,Patna,8,9363.6,1810.74,15
+ORD00724,2024-08-31,CUST6093,Notebook,Office Supplies,Notebook,West,Ahmedabad,2,7939.8,2648.56,10
+ORD00725,2024-06-05,CUST9893,Monitor,Technology,Monitor,West,Ahmedabad,2,7034.4,2170.24,10
+ORD00726,2024-03-26,CUST1485,Desk,Furniture,Desk,East,Bhubaneswar,8,39328.0,4640.09,0
+ORD00727,2024-08-11,CUST1063,Chair,Furniture,Chair,South,Chennai,9,15579.0,1549.66,0
+ORD00728,2024-06-10,CUST3137,Phone,Technology,Phone,North,Delhi,4,4373.6,964.37,30
+ORD00729,2024-06-06,CUST4010,Bookcase,Furniture,Bookcase,East,Patna,8,17936.0,4210.34,5
+ORD00730,2024-05-06,CUST2130,Printer,Technology,Printer,West,Mumbai,1,1445.0,378.99,0
+ORD00731,2023-11-22,CUST8984,Laptop,Technology,Laptop,South,Chennai,2,4954.5,580.47,25
+ORD00732,2023-01-08,CUST1421,Keyboard,Technology,Keyboard,South,Bangalore,2,7649.6,1651.34,20
+ORD00733,2023-01-08,CUST5737,Laptop,Technology,Laptop,North,Lucknow,9,9963.0,2099.76,0
+ORD00734,2024-01-11,CUST1634,Sofa,Furniture,Sofa,North,Chandigarh,6,3260.4,686.52,5
+ORD00735,2024-10-14,CUST6082,Bookcase,Furniture,Bookcase,East,Patna,6,4806.0,374.65,0
+ORD00736,2023-03-05,CUST9256,Monitor,Technology,Monitor,East,Bhubaneswar,5,7080.0,884.57,20
+ORD00737,2024-02-29,CUST8618,Notebook,Office Supplies,Notebook,West,Ahmedabad,6,2725.8,433.56,30
+ORD00738,2024-05-20,CUST4407,Desk,Furniture,Desk,West,Ahmedabad,1,1848.8,417.47,20
+ORD00739,2024-08-24,CUST7722,Monitor,Technology,Monitor,West,Ahmedabad,1,2053.8,309.88,30
+ORD00740,2023-03-14,CUST2662,Monitor,Technology,Monitor,North,Chandigarh,3,3723.0,279.97,0
+ORD00741,2023-07-14,CUST3345,Phone,Technology,Phone,North,Lucknow,8,26683.2,2217.65,15
+ORD00742,2024-07-03,CUST7597,Pen,Office Supplies,Pen,West,Pune,3,3870.3,1299.84,5
+ORD00743,2024-04-23,CUST5054,Desk,Furniture,Desk,West,Ahmedabad,10,28000.0,6569.25,30
+ORD00744,2023-03-07,CUST6055,Bookcase,Furniture,Bookcase,North,Chandigarh,6,11438.4,599.12,20
+ORD00745,2023-04-06,CUST5015,Pen,Office Supplies,Pen,North,Lucknow,10,16232.0,4140.68,20
+ORD00746,2023-05-24,CUST9338,Bookcase,Furniture,Bookcase,East,Kolkata,7,34181.0,3173.7,0
+ORD00747,2023-06-01,CUST2970,Table,Furniture,Table,East,Kolkata,4,16483.2,3288.5,15
+ORD00748,2023-04-22,CUST6549,Notebook,Office Supplies,Notebook,North,Delhi,9,10012.05,1360.16,5
+ORD00749,2024-10-31,CUST2904,Printer,Technology,Printer,South,Hyderabad,2,4122.5,939.4,15
+ORD00750,2023-03-08,CUST2569,Laptop,Technology,Laptop,South,Hyderabad,5,12208.0,2124.33,30
+ORD00751,2024-07-11,CUST2778,Laptop,Technology,Laptop,East,Patna,4,3488.4,1071.02,10
+ORD00752,2024-08-28,CUST4337,Paper,Office Supplies,Paper,South,Hyderabad,8,11024.0,1454.74,0
+ORD00753,2024-11-02,CUST1455,Keyboard,Technology,Keyboard,South,Hyderabad,3,13007.4,1174.52,5
+ORD00754,2023-02-25,CUST9269,Phone,Technology,Phone,West,Ahmedabad,3,2661.9,449.59,5
+ORD00755,2024-05-21,CUST6403,Bookcase,Furniture,Bookcase,North,Lucknow,3,2767.8,721.69,30
+ORD00756,2024-12-13,CUST8239,Bookcase,Furniture,Bookcase,West,Pune,5,16503.75,1177.07,25
+ORD00757,2024-06-23,CUST2672,Paper,Office Supplies,Paper,North,Chandigarh,4,13843.2,2552.45,30
+ORD00758,2024-05-03,CUST9943,Pen,Office Supplies,Pen,East,Bhubaneswar,9,10602.9,2352.63,30
+ORD00759,2023-02-24,CUST4992,Table,Furniture,Table,East,Bhubaneswar,9,16556.4,3742.01,10
+ORD00760,2024-01-14,CUST6444,Bookcase,Furniture,Bookcase,North,Delhi,8,18373.6,4163.55,15
+ORD00761,2023-11-15,CUST1906,Monitor,Technology,Monitor,East,Kolkata,9,29862.0,8723.65,0
+ORD00762,2023-07-22,CUST8059,Keyboard,Technology,Keyboard,West,Pune,2,6626.6,618.37,15
+ORD00763,2024-09-09,CUST7411,Notebook,Office Supplies,Notebook,East,Patna,4,10902.2,2416.35,5
+ORD00764,2024-04-16,CUST7113,Laptop,Technology,Laptop,North,Chandigarh,1,1721.4,400.62,5
+ORD00765,2023-08-07,CUST2097,Chair,Furniture,Chair,North,Lucknow,6,26168.7,8878.72,5
+ORD00766,2024-11-26,CUST3016,Binder,Office Supplies,Binder,West,Ahmedabad,1,2231.25,168.14,25
+ORD00767,2024-05-16,CUST6570,Paper,Office Supplies,Paper,East,Bhubaneswar,2,1800.0,291.79,0
+ORD00768,2024-09-13,CUST7879,Paper,Office Supplies,Paper,East,Kolkata,6,4962.0,274.56,0
+ORD00769,2023-06-18,CUST7086,Printer,Technology,Printer,South,Chennai,1,2932.0,193.7,20
+ORD00770,2024-11-10,CUST7273,Desk,Furniture,Desk,West,Mumbai,6,17788.8,4442.01,15
+ORD00771,2023-01-25,CUST1300,Chair,Furniture,Chair,East,Bhubaneswar,5,5672.0,521.12,20
+ORD00772,2024-11-11,CUST7805,Table,Furniture,Table,South,Bangalore,4,14402.0,2045.48,5
+ORD00773,2023-02-10,CUST3895,Pen,Office Supplies,Pen,West,Pune,9,28985.85,4066.18,15
+ORD00774,2023-10-06,CUST5829,Bookcase,Furniture,Bookcase,West,Pune,10,21280.0,5155.44,30
+ORD00775,2023-08-24,CUST7300,Laptop,Technology,Laptop,South,Bangalore,10,17871.0,3787.62,30
+ORD00776,2024-10-01,CUST2132,Notebook,Office Supplies,Notebook,South,Chennai,9,29950.2,3931.61,30
+ORD00777,2024-07-27,CUST1245,Paper,Office Supplies,Paper,North,Chandigarh,2,4011.0,241.53,30
+ORD00778,2024-12-23,CUST2332,Paper,Office Supplies,Paper,South,Hyderabad,2,5931.8,467.6,30
+ORD00779,2024-10-31,CUST3912,Chair,Furniture,Chair,West,Pune,4,4742.4,759.71,5
+ORD00780,2023-07-14,CUST2381,Monitor,Technology,Monitor,East,Bhubaneswar,8,30264.0,5641.55,0
+ORD00781,2024-05-28,CUST9693,Laptop,Technology,Laptop,South,Bangalore,10,6749.0,871.34,15
+ORD00782,2023-11-03,CUST2215,Paper,Office Supplies,Paper,North,Lucknow,2,3493.5,411.29,15
+ORD00783,2023-10-25,CUST8779,Monitor,Technology,Monitor,South,Bangalore,10,19380.0,1082.08,15
+ORD00784,2023-12-05,CUST5460,Chair,Furniture,Chair,North,Lucknow,8,15141.6,4914.67,10
+ORD00785,2024-12-08,CUST4356,Sofa,Furniture,Sofa,North,Chandigarh,6,23563.2,5711.63,20
+ORD00786,2023-07-25,CUST6779,Phone,Technology,Phone,West,Pune,4,7464.8,997.24,30
+ORD00787,2024-02-07,CUST7903,Printer,Technology,Printer,East,Bhubaneswar,7,27188.0,4536.03,20
+ORD00788,2023-05-17,CUST6785,Sofa,Furniture,Sofa,North,Chandigarh,7,4879.0,258.35,15
+ORD00789,2023-07-08,CUST9978,Binder,Office Supplies,Binder,North,Delhi,9,22428.0,2032.99,20
+ORD00790,2023-10-01,CUST1516,Pen,Office Supplies,Pen,East,Bhubaneswar,8,14515.2,928.86,10
+ORD00791,2023-06-26,CUST9253,Sofa,Furniture,Sofa,West,Pune,5,3912.0,501.97,20
+ORD00792,2023-06-26,CUST3091,Desk,Furniture,Desk,West,Mumbai,4,2988.8,205.56,20
+ORD00793,2023-03-02,CUST3962,Desk,Furniture,Desk,South,Hyderabad,3,3175.2,1094.19,10
+ORD00794,2023-05-31,CUST1651,Pen,Office Supplies,Pen,North,Delhi,7,10696.0,2258.13,0
+ORD00795,2024-03-10,CUST1726,Phone,Technology,Phone,South,Hyderabad,7,3973.9,658.36,30
+ORD00796,2024-09-27,CUST9967,Paper,Office Supplies,Paper,East,Patna,1,2680.0,175.49,0
+ORD00797,2023-02-13,CUST7663,Sofa,Furniture,Sofa,West,Pune,2,3059.0,409.42,5
+ORD00798,2024-05-26,CUST4390,Notebook,Office Supplies,Notebook,North,Delhi,10,3128.0,430.12,20
+ORD00799,2023-12-30,CUST7964,Sofa,Furniture,Sofa,West,Mumbai,8,3397.2,611.43,5
+ORD00800,2023-08-03,CUST5177,Pen,Office Supplies,Pen,North,Delhi,2,4046.0,260.28,30
+ORD00801,2023-02-09,CUST3687,Stapler,Office Supplies,Stapler,North,Delhi,7,17421.6,5340.3,15
+ORD00802,2024-06-14,CUST8140,Pen,Office Supplies,Pen,North,Delhi,9,24775.2,3716.5,20
+ORD00803,2024-05-26,CUST7963,Keyboard,Technology,Keyboard,North,Delhi,7,18458.3,4730.68,30
+ORD00804,2024-05-25,CUST1907,Chair,Furniture,Chair,West,Ahmedabad,4,10064.0,2590.19,0
+ORD00805,2024-07-18,CUST5244,Laptop,Technology,Laptop,South,Chennai,5,13561.75,4301.29,15
+ORD00806,2024-03-02,CUST8085,Stapler,Office Supplies,Stapler,North,Delhi,10,18936.0,1513.08,20
+ORD00807,2023-07-10,CUST4668,Keyboard,Technology,Keyboard,East,Kolkata,3,10215.0,1139.64,0
+ORD00808,2024-10-06,CUST3311,Table,Furniture,Table,West,Pune,8,12693.6,2446.25,10
+ORD00809,2023-10-11,CUST6520,Binder,Office Supplies,Binder,South,Hyderabad,8,36912.0,3615.94,0
+ORD00810,2023-05-28,CUST5635,Printer,Technology,Printer,West,Ahmedabad,5,15908.0,5046.85,20
+ORD00811,2024-01-20,CUST2386,Table,Furniture,Table,South,Hyderabad,2,7732.0,2541.31,0
+ORD00812,2023-09-01,CUST6672,Phone,Technology,Phone,East,Kolkata,6,4756.5,1661.18,25
+ORD00813,2024-12-30,CUST4909,Phone,Technology,Phone,North,Lucknow,10,24300.0,4512.08,0
+ORD00814,2023-09-04,CUST2642,Laptop,Technology,Laptop,East,Kolkata,1,3723.0,445.87,15
+ORD00815,2023-10-03,CUST7892,Laptop,Technology,Laptop,South,Hyderabad,1,3672.0,1258.59,0
+ORD00816,2023-01-06,CUST7388,Keyboard,Technology,Keyboard,South,Bangalore,8,25808.0,6468.06,0
+ORD00817,2023-12-26,CUST2934,Notebook,Office Supplies,Notebook,North,Lucknow,3,1204.8,152.89,20
+ORD00818,2023-06-08,CUST7225,Binder,Office Supplies,Binder,West,Pune,9,13968.9,4614.54,15
+ORD00819,2024-09-19,CUST6608,Keyboard,Technology,Keyboard,East,Bhubaneswar,9,27417.6,7596.73,15
+ORD00820,2024-02-22,CUST6957,Sofa,Furniture,Sofa,North,Delhi,8,6272.0,553.74,0
+ORD00821,2024-01-09,CUST2664,Binder,Office Supplies,Binder,East,Patna,4,3700.0,787.48,0
+ORD00822,2024-07-29,CUST3395,Monitor,Technology,Monitor,East,Kolkata,10,34990.0,7431.27,0
+ORD00823,2023-02-10,CUST6007,Binder,Office Supplies,Binder,West,Mumbai,1,1383.3,173.94,10
+ORD00824,2024-10-23,CUST1328,Table,Furniture,Table,East,Kolkata,8,18000.0,4363.66,10
+ORD00825,2024-11-17,CUST9730,Keyboard,Technology,Keyboard,East,Bhubaneswar,9,35542.8,7572.95,10
+ORD00826,2024-05-07,CUST5995,Sofa,Furniture,Sofa,East,Bhubaneswar,1,2568.0,330.14,25
+ORD00827,2023-06-16,CUST9358,Pen,Office Supplies,Pen,East,Bhubaneswar,3,12474.0,4095.63,0
+ORD00828,2024-07-03,CUST3732,Sofa,Furniture,Sofa,North,Lucknow,2,2564.8,268.08,30
+ORD00829,2023-04-24,CUST3965,Keyboard,Technology,Keyboard,South,Hyderabad,1,2471.7,623.85,30
+ORD00830,2023-04-12,CUST4297,Pen,Office Supplies,Pen,North,Chandigarh,2,1016.5,334.13,5
+ORD00831,2023-08-27,CUST2302,Paper,Office Supplies,Paper,South,Bangalore,4,8385.0,2228.21,25
+ORD00832,2024-11-16,CUST8754,Desk,Furniture,Desk,West,Ahmedabad,10,31060.0,10708.59,0
+ORD00833,2023-02-05,CUST7689,Paper,Office Supplies,Paper,West,Mumbai,4,7935.6,1255.28,15
+ORD00834,2024-02-18,CUST8697,Stapler,Office Supplies,Stapler,East,Kolkata,5,9652.0,2105.94,5
+ORD00835,2024-09-20,CUST9893,Pen,Office Supplies,Pen,East,Bhubaneswar,3,8178.3,2291.33,10
+ORD00836,2023-03-18,CUST2441,Table,Furniture,Table,North,Delhi,7,27433.0,3976.31,0
+ORD00837,2024-06-17,CUST4977,Notebook,Office Supplies,Notebook,North,Chandigarh,7,22241.1,4064.77,15
+ORD00838,2023-09-30,CUST4960,Phone,Technology,Phone,East,Bhubaneswar,9,15667.2,3934.06,15
+ORD00839,2024-11-21,CUST8958,Sofa,Furniture,Sofa,North,Delhi,6,1747.2,235.05,20
+ORD00840,2023-11-04,CUST8617,Phone,Technology,Phone,West,Ahmedabad,5,5490.0,928.78,0
+ORD00841,2024-11-01,CUST7527,Phone,Technology,Phone,East,Patna,5,6766.0,444.11,15
+ORD00842,2024-01-16,CUST8109,Sofa,Furniture,Sofa,South,Hyderabad,8,8780.8,1257.68,30
+ORD00843,2024-07-12,CUST1612,Keyboard,Technology,Keyboard,West,Mumbai,4,4972.0,906.05,0
+ORD00844,2024-12-21,CUST8330,Stapler,Office Supplies,Stapler,North,Lucknow,5,1292.0,344.4,15
+ORD00845,2023-01-23,CUST9101,Stapler,Office Supplies,Stapler,East,Patna,7,20197.8,2297.86,30
+ORD00846,2023-10-25,CUST1469,Phone,Technology,Phone,West,Ahmedabad,2,1849.4,372.77,30
+ORD00847,2023-06-25,CUST6483,Desk,Furniture,Desk,North,Delhi,2,2994.0,472.28,25
+ORD00848,2023-01-05,CUST6280,Printer,Technology,Printer,West,Ahmedabad,2,2899.4,337.04,5
+ORD00849,2024-11-16,CUST4005,Sofa,Furniture,Sofa,North,Delhi,7,11970.7,3940.19,30
+ORD00850,2024-09-16,CUST7947,Phone,Technology,Phone,West,Mumbai,7,3415.3,728.19,15
+ORD00851,2024-06-05,CUST1880,Laptop,Technology,Laptop,West,Pune,9,18676.8,4938.06,20
+ORD00852,2024-03-05,CUST4787,Sofa,Furniture,Sofa,West,Mumbai,4,12213.2,1006.35,5
+ORD00853,2024-05-14,CUST5668,Monitor,Technology,Monitor,North,Delhi,7,16285.5,3520.92,10
+ORD00854,2024-01-14,CUST3046,Desk,Furniture,Desk,North,Delhi,9,12150.0,921.01,10
+ORD00855,2023-08-26,CUST7265,Stapler,Office Supplies,Stapler,South,Hyderabad,4,11446.4,3897.61,30
+ORD00856,2024-03-11,CUST2653,Stapler,Office Supplies,Stapler,East,Patna,5,16320.0,5627.68,25
+ORD00857,2024-07-25,CUST7687,Chair,Furniture,Chair,East,Patna,9,18954.0,4782.78,25
+ORD00858,2023-05-06,CUST1384,Table,Furniture,Table,West,Pune,6,25806.0,3873.59,0
+ORD00859,2023-11-04,CUST2338,Printer,Technology,Printer,West,Pune,4,7790.4,1319.27,10
+ORD00860,2024-04-26,CUST3188,Bookcase,Furniture,Bookcase,West,Ahmedabad,3,5200.2,294.36,10
+ORD00861,2024-09-21,CUST2456,Keyboard,Technology,Keyboard,East,Kolkata,2,2001.6,661.71,10
+ORD00862,2024-02-05,CUST7139,Printer,Technology,Printer,East,Patna,2,8902.8,2972.95,10
+ORD00863,2023-02-10,CUST7336,Printer,Technology,Printer,East,Bhubaneswar,8,5181.6,811.5,15
+ORD00864,2023-07-18,CUST7217,Desk,Furniture,Desk,North,Chandigarh,8,2568.8,321.31,5
+ORD00865,2024-06-19,CUST1560,Paper,Office Supplies,Paper,South,Hyderabad,4,17560.0,3363.17,0
+ORD00866,2023-07-14,CUST4592,Stapler,Office Supplies,Stapler,East,Kolkata,2,8476.0,581.27,0
+ORD00867,2024-01-03,CUST4642,Binder,Office Supplies,Binder,North,Lucknow,2,4042.5,381.12,25
+ORD00868,2024-03-11,CUST6352,Keyboard,Technology,Keyboard,West,Mumbai,8,17560.8,4074.87,10
+ORD00869,2024-07-29,CUST3691,Stapler,Office Supplies,Stapler,South,Chennai,7,17385.9,3288.36,15
+ORD00870,2024-08-05,CUST2082,Stapler,Office Supplies,Stapler,West,Mumbai,9,9659.25,3279.64,25
+ORD00871,2023-04-17,CUST8879,Phone,Technology,Phone,West,Pune,8,22316.0,5913.35,30
+ORD00872,2023-02-22,CUST3794,Sofa,Furniture,Sofa,South,Chennai,10,34685.0,6320.44,30
+ORD00873,2023-03-13,CUST3899,Paper,Office Supplies,Paper,South,Chennai,5,21960.0,2464.92,10
+ORD00874,2023-08-05,CUST6995,Laptop,Technology,Laptop,East,Bhubaneswar,8,27976.0,3083.83,0
+ORD00875,2024-03-27,CUST3616,Monitor,Technology,Monitor,West,Ahmedabad,8,17592.0,5612.39,25
+ORD00876,2024-02-17,CUST1992,Pen,Office Supplies,Pen,South,Hyderabad,5,11623.5,2569.56,10
+ORD00877,2023-10-16,CUST7285,Notebook,Office Supplies,Notebook,North,Chandigarh,7,26051.2,1934.46,20
+ORD00878,2023-01-01,CUST2564,Monitor,Technology,Monitor,East,Kolkata,7,22501.5,6493.2,25
+ORD00879,2024-02-09,CUST6930,Binder,Office Supplies,Binder,East,Bhubaneswar,6,10287.0,2385.52,10
+ORD00880,2023-05-22,CUST1230,Sofa,Furniture,Sofa,North,Delhi,9,14211.0,2474.62,0
+ORD00881,2024-05-01,CUST4648,Monitor,Technology,Monitor,North,Delhi,9,2343.6,223.27,30
+ORD00882,2024-01-29,CUST8302,Notebook,Office Supplies,Notebook,West,Pune,9,9242.1,1725.3,30
+ORD00883,2023-04-09,CUST7028,Printer,Technology,Printer,East,Bhubaneswar,1,217.7,28.04,30
+ORD00884,2024-09-10,CUST9881,Keyboard,Technology,Keyboard,West,Mumbai,2,7252.2,1178.5,15
+ORD00885,2024-01-06,CUST2684,Desk,Furniture,Desk,South,Chennai,6,2973.6,998.43,30
+ORD00886,2024-10-02,CUST7531,Phone,Technology,Phone,East,Patna,9,17077.5,1240.36,25
+ORD00887,2023-01-03,CUST6422,Paper,Office Supplies,Paper,West,Mumbai,10,23580.0,1712.88,10
+ORD00888,2024-06-19,CUST8797,Paper,Office Supplies,Paper,West,Mumbai,8,13753.6,4412.96,30
+ORD00889,2023-11-15,CUST7282,Table,Furniture,Table,East,Patna,3,2479.5,390.02,25
+ORD00890,2024-02-25,CUST9163,Monitor,Technology,Monitor,North,Lucknow,3,7440.0,1364.36,20
+ORD00891,2024-03-26,CUST4354,Paper,Office Supplies,Paper,East,Bhubaneswar,3,10386.15,818.17,15
+ORD00892,2023-03-08,CUST5607,Binder,Office Supplies,Binder,East,Kolkata,9,22563.45,5638.86,5
+ORD00893,2023-04-05,CUST3290,Stapler,Office Supplies,Stapler,South,Hyderabad,7,20276.2,6541.11,30
+ORD00894,2024-08-18,CUST1948,Sofa,Furniture,Sofa,North,Lucknow,6,19872.0,2884.71,10
+ORD00895,2024-07-09,CUST5752,Bookcase,Furniture,Bookcase,South,Hyderabad,7,25039.0,3746.08,0
+ORD00896,2024-07-31,CUST2502,Bookcase,Furniture,Bookcase,West,Pune,9,32985.9,7679.11,5
+ORD00897,2024-10-31,CUST1893,Desk,Furniture,Desk,South,Chennai,1,1863.2,214.11,15
+ORD00898,2023-09-24,CUST5857,Keyboard,Technology,Keyboard,South,Hyderabad,10,29841.0,2847.92,30
+ORD00899,2023-07-04,CUST3382,Pen,Office Supplies,Pen,North,Delhi,4,6140.4,1463.96,15
+ORD00900,2023-07-05,CUST1383,Chair,Furniture,Chair,East,Bhubaneswar,9,7541.1,1601.42,10
+ORD00901,2023-08-01,CUST3381,Table,Furniture,Table,East,Bhubaneswar,4,15796.6,1688.51,5
+ORD00902,2023-07-27,CUST2365,Laptop,Technology,Laptop,West,Mumbai,4,6163.2,1241.22,10
+ORD00903,2023-07-17,CUST5008,Keyboard,Technology,Keyboard,South,Chennai,8,10706.4,2105.44,10
+ORD00904,2024-03-26,CUST7241,Monitor,Technology,Monitor,North,Delhi,4,17340.0,1949.98,0
+ORD00905,2023-03-13,CUST9671,Sofa,Furniture,Sofa,West,Pune,9,16328.25,3175.72,25
+ORD00906,2024-03-22,CUST8110,Chair,Furniture,Chair,South,Hyderabad,2,1310.7,140.0,15
+ORD00907,2024-09-22,CUST6701,Notebook,Office Supplies,Notebook,East,Kolkata,3,1633.05,126.47,5
+ORD00908,2023-05-28,CUST2923,Table,Furniture,Table,South,Bangalore,10,32682.5,11036.43,15
+ORD00909,2023-02-07,CUST4074,Sofa,Furniture,Sofa,North,Chandigarh,10,38520.0,7706.88,20
+ORD00910,2024-07-12,CUST1834,Sofa,Furniture,Sofa,South,Chennai,10,30560.0,2988.77,20
+ORD00911,2024-03-25,CUST5067,Sofa,Furniture,Sofa,East,Kolkata,8,6762.0,1931.46,25
+ORD00912,2023-05-27,CUST2125,Paper,Office Supplies,Paper,South,Bangalore,9,18063.0,1502.4,10
+ORD00913,2024-07-24,CUST3980,Bookcase,Furniture,Bookcase,East,Kolkata,7,10759.0,3088.79,0
+ORD00914,2024-09-06,CUST7302,Pen,Office Supplies,Pen,South,Chennai,4,9071.2,2667.67,15
+ORD00915,2024-08-28,CUST5174,Monitor,Technology,Monitor,West,Ahmedabad,2,6679.3,968.89,15
+ORD00916,2024-06-29,CUST2595,Keyboard,Technology,Keyboard,West,Pune,9,27927.9,4946.3,30
+ORD00917,2023-11-29,CUST7224,Keyboard,Technology,Keyboard,South,Hyderabad,5,14795.0,4629.26,0
+ORD00918,2024-07-15,CUST6086,Bookcase,Furniture,Bookcase,South,Chennai,2,5425.0,1704.48,30
+ORD00919,2024-06-07,CUST7613,Laptop,Technology,Laptop,South,Bangalore,9,2248.65,719.11,5
+ORD00920,2023-05-12,CUST6893,Chair,Furniture,Chair,North,Lucknow,4,8272.8,2700.15,10
+ORD00921,2023-07-05,CUST7104,Laptop,Technology,Laptop,West,Mumbai,2,2545.2,718.16,10
+ORD00922,2024-07-17,CUST4954,Monitor,Technology,Monitor,East,Kolkata,6,12330.0,3350.6,25
+ORD00923,2024-06-13,CUST7340,Monitor,Technology,Monitor,North,Delhi,3,334.05,110.31,15
+ORD00924,2024-05-13,CUST3865,Laptop,Technology,Laptop,South,Chennai,9,1940.85,583.45,5
+ORD00925,2023-10-07,CUST4588,Table,Furniture,Table,West,Mumbai,9,3139.2,295.2,20
+ORD00926,2023-09-15,CUST5756,Laptop,Technology,Laptop,South,Chennai,5,13662.0,3813.92,10
+ORD00927,2023-11-06,CUST2814,Phone,Technology,Phone,North,Delhi,10,2584.0,674.3,15
+ORD00928,2023-03-10,CUST2218,Stapler,Office Supplies,Stapler,North,Lucknow,3,7950.0,2198.28,0
+ORD00929,2023-05-11,CUST1436,Keyboard,Technology,Keyboard,North,Chandigarh,4,10038.0,3426.46,25
+ORD00930,2024-07-21,CUST2888,Binder,Office Supplies,Binder,West,Pune,3,1648.8,434.41,20
+ORD00931,2023-12-10,CUST5953,Printer,Technology,Printer,South,Bangalore,1,1720.45,250.16,5
+ORD00932,2023-03-25,CUST3827,Printer,Technology,Printer,West,Pune,10,49280.0,14890.69,0
+ORD00933,2023-01-22,CUST8880,Desk,Furniture,Desk,West,Ahmedabad,5,13575.0,790.05,0
+ORD00934,2024-03-27,CUST7290,Binder,Office Supplies,Binder,South,Bangalore,4,8718.0,1995.92,25
+ORD00935,2024-04-25,CUST4484,Desk,Furniture,Desk,East,Kolkata,6,20201.4,5460.32,10
+ORD00936,2023-10-13,CUST7555,Laptop,Technology,Laptop,West,Ahmedabad,10,31766.0,10530.08,30
+ORD00937,2024-08-18,CUST5667,Laptop,Technology,Laptop,North,Chandigarh,8,9261.6,2426.11,15
+ORD00938,2024-08-26,CUST8078,Binder,Office Supplies,Binder,West,Mumbai,5,22459.5,4222.86,10
+ORD00939,2023-11-13,CUST8908,Pen,Office Supplies,Pen,West,Ahmedabad,4,3393.0,617.4,25
+ORD00940,2024-06-17,CUST2447,Laptop,Technology,Laptop,South,Bangalore,8,23610.0,6746.51,25
+ORD00941,2024-09-04,CUST3153,Bookcase,Furniture,Bookcase,North,Lucknow,6,22440.0,1413.85,15
+ORD00942,2024-02-17,CUST6691,Printer,Technology,Printer,South,Bangalore,4,4766.4,1267.26,10
+ORD00943,2024-01-14,CUST8793,Stapler,Office Supplies,Stapler,East,Kolkata,9,14045.4,2388.79,10
+ORD00944,2023-04-21,CUST8045,Table,Furniture,Table,East,Bhubaneswar,9,20075.4,5634.44,5
+ORD00945,2024-12-15,CUST1408,Monitor,Technology,Monitor,East,Bhubaneswar,10,9639.0,553.27,15
+ORD00946,2023-10-19,CUST6469,Printer,Technology,Printer,East,Kolkata,1,2443.0,419.78,0
+ORD00947,2023-11-09,CUST7068,Chair,Furniture,Chair,North,Delhi,8,16440.0,1882.1,0
+ORD00948,2024-12-08,CUST3983,Paper,Office Supplies,Paper,East,Patna,5,12420.0,4087.81,0
+ORD00949,2023-05-23,CUST8201,Desk,Furniture,Desk,North,Delhi,9,16524.0,3433.57,15
+ORD00950,2024-04-27,CUST4508,Laptop,Technology,Laptop,South,Chennai,8,18336.0,5916.12,25
+ORD00951,2024-11-28,CUST6933,Monitor,Technology,Monitor,West,Mumbai,10,11655.0,598.98,10
+ORD00952,2024-06-09,CUST3434,Phone,Technology,Phone,North,Lucknow,8,16843.6,2835.11,15
+ORD00953,2024-11-19,CUST4437,Paper,Office Supplies,Paper,East,Bhubaneswar,1,3468.6,361.01,10
+ORD00954,2024-05-21,CUST4536,Bookcase,Furniture,Bookcase,West,Pune,1,4078.3,456.89,15
+ORD00955,2024-09-15,CUST9240,Stapler,Office Supplies,Stapler,South,Chennai,1,3106.5,999.79,25
+ORD00956,2023-03-19,CUST3484,Phone,Technology,Phone,West,Mumbai,1,1228.5,137.69,30
+ORD00957,2024-05-19,CUST2369,Desk,Furniture,Desk,South,Hyderabad,5,17403.75,5681.96,25
+ORD00958,2023-08-01,CUST8213,Phone,Technology,Phone,North,Delhi,3,2115.0,550.33,25
+ORD00959,2024-12-07,CUST1208,Laptop,Technology,Laptop,North,Chandigarh,8,5155.2,1230.06,10
+ORD00960,2024-05-10,CUST7648,Bookcase,Furniture,Bookcase,South,Bangalore,1,543.0,169.48,25
+ORD00961,2024-08-06,CUST1703,Binder,Office Supplies,Binder,East,Bhubaneswar,4,14433.0,2633.83,25
+ORD00962,2023-12-24,CUST4959,Desk,Furniture,Desk,East,Patna,6,13989.3,4118.21,15
+ORD00963,2024-01-18,CUST7636,Chair,Furniture,Chair,South,Hyderabad,9,40370.4,4773.96,10
+ORD00964,2023-01-05,CUST4234,Chair,Furniture,Chair,North,Chandigarh,5,15971.5,2774.1,15
+ORD00965,2023-09-21,CUST3592,Paper,Office Supplies,Paper,West,Mumbai,9,20142.45,3731.57,15
+ORD00966,2023-04-18,CUST8294,Stapler,Office Supplies,Stapler,North,Chandigarh,2,5443.2,353.5,20
+ORD00967,2024-12-31,CUST6458,Paper,Office Supplies,Paper,West,Pune,2,806.4,157.4,20
+ORD00968,2024-10-31,CUST3998,Monitor,Technology,Monitor,North,Lucknow,6,17107.2,3995.57,20
+ORD00969,2023-03-29,CUST3042,Chair,Furniture,Chair,West,Ahmedabad,6,6940.8,594.95,20
+ORD00970,2023-12-31,CUST2973,Notebook,Office Supplies,Notebook,West,Mumbai,3,6178.2,2064.6,30
+ORD00971,2024-11-18,CUST7638,Sofa,Furniture,Sofa,North,Delhi,5,7475.75,999.08,15
+ORD00972,2023-10-15,CUST1306,Chair,Furniture,Chair,North,Lucknow,2,7048.2,2134.54,15
+ORD00973,2023-06-12,CUST6837,Printer,Technology,Printer,West,Mumbai,4,3974.8,723.61,5
+ORD00974,2023-07-20,CUST6429,Laptop,Technology,Laptop,West,Mumbai,8,12072.0,2159.06,25
+ORD00975,2024-05-05,CUST5254,Laptop,Technology,Laptop,South,Bangalore,7,1732.5,282.32,25
+ORD00976,2023-05-31,CUST1554,Sofa,Furniture,Sofa,North,Chandigarh,5,12737.25,3867.75,15
+ORD00977,2024-08-10,CUST4140,Paper,Office Supplies,Paper,North,Delhi,6,21830.4,5574.41,20
+ORD00978,2024-04-13,CUST3565,Monitor,Technology,Monitor,South,Hyderabad,6,19613.7,2840.49,5
+ORD00979,2024-10-30,CUST8487,Desk,Furniture,Desk,South,Chennai,10,38658.0,4927.45,15
+ORD00980,2024-11-03,CUST2146,Pen,Office Supplies,Pen,East,Patna,6,10267.2,2208.03,20
+ORD00981,2023-01-08,CUST4200,Phone,Technology,Phone,East,Kolkata,3,8019.0,1779.44,10
+ORD00982,2023-10-02,CUST1415,Pen,Office Supplies,Pen,East,Patna,2,6748.5,2263.92,25
+ORD00983,2024-05-16,CUST1832,Chair,Furniture,Chair,North,Delhi,9,24285.6,5574.45,20
+ORD00984,2023-03-18,CUST9217,Phone,Technology,Phone,North,Chandigarh,6,9234.0,2127.92,0
+ORD00985,2024-08-22,CUST1988,Table,Furniture,Table,West,Ahmedabad,1,2598.4,515.85,30
+ORD00986,2024-02-25,CUST1935,Table,Furniture,Table,West,Pune,6,15597.0,4811.32,25
+ORD00987,2023-08-20,CUST8317,Table,Furniture,Table,East,Kolkata,7,9436.0,794.32,20
+ORD00988,2023-09-01,CUST8842,Desk,Furniture,Desk,North,Chandigarh,7,2058.7,701.16,15
+ORD00989,2023-04-16,CUST7309,Laptop,Technology,Laptop,West,Ahmedabad,5,1561.0,495.85,30
+ORD00990,2024-11-08,CUST3780,Bookcase,Furniture,Bookcase,East,Bhubaneswar,7,31614.1,4751.15,5
+ORD00991,2024-03-24,CUST1112,Printer,Technology,Printer,South,Bangalore,8,8350.4,2299.73,15
+ORD00992,2024-03-11,CUST3826,Chair,Furniture,Chair,North,Chandigarh,1,4153.0,252.89,0
+ORD00993,2023-03-10,CUST5174,Notebook,Office Supplies,Notebook,South,Chennai,3,1317.6,398.68,10
+ORD00994,2024-05-30,CUST1261,Table,Furniture,Table,South,Hyderabad,9,19280.25,3903.55,5
+ORD00995,2024-03-09,CUST2020,Laptop,Technology,Laptop,East,Kolkata,10,8746.5,2319.14,15
+ORD00996,2024-10-23,CUST1133,Phone,Technology,Phone,South,Bangalore,4,14394.0,4323.73,25
+ORD00997,2023-05-19,CUST4950,Sofa,Furniture,Sofa,South,Bangalore,1,1029.35,127.01,15
+ORD00998,2023-05-05,CUST1819,Monitor,Technology,Monitor,West,Mumbai,8,14322.0,742.13,25
+ORD00999,2023-08-09,CUST3657,Bookcase,Furniture,Bookcase,West,Mumbai,3,5543.1,1819.16,10
+ORD01000,2023-04-11,CUST6960,Pen,Office Supplies,Pen,North,Delhi,3,4926.0,726.67,0
+ORD01001,2024-05-11,CUST5421,Chair,Furniture,Chair,South,Bangalore,5,2595.0,322.09,25
+ORD01002,2023-06-25,CUST1799,Monitor,Technology,Monitor,West,Ahmedabad,8,14750.4,4749.05,30
+ORD01003,2023-11-03,CUST2160,Binder,Office Supplies,Binder,West,Pune,1,3699.75,1206.4,25
+ORD01004,2024-09-20,CUST3767,Keyboard,Technology,Keyboard,North,Chandigarh,10,14571.0,2328.31,10
+ORD01005,2024-06-25,CUST8132,Keyboard,Technology,Keyboard,West,Mumbai,3,1701.6,187.23,20
+ORD01006,2023-03-06,CUST5049,Stapler,Office Supplies,Stapler,East,Bhubaneswar,8,26767.2,3638.49,5
+ORD01007,2024-12-28,CUST1720,Stapler,Office Supplies,Stapler,South,Chennai,8,23440.0,6280.9,0
+ORD01008,2024-02-15,CUST5282,Sofa,Furniture,Sofa,North,Chandigarh,1,4467.85,1209.71,5
+ORD01009,2023-09-04,CUST4421,Desk,Furniture,Desk,West,Ahmedabad,5,11585.25,3779.68,5
+ORD01010,2024-06-02,CUST5211,Monitor,Technology,Monitor,East,Patna,6,7800.0,1765.3,0
+ORD01011,2023-09-08,CUST1727,Sofa,Furniture,Sofa,North,Lucknow,2,753.1,146.62,15
+ORD01012,2023-10-30,CUST2693,Notebook,Office Supplies,Notebook,North,Delhi,2,4873.4,1510.29,30
+ORD01013,2024-04-08,CUST3934,Monitor,Technology,Monitor,North,Delhi,8,7592.4,1290.44,5
+ORD01014,2024-09-20,CUST2031,Sofa,Furniture,Sofa,East,Patna,7,27769.0,2200.32,0
+ORD01015,2024-11-28,CUST1497,Stapler,Office Supplies,Stapler,North,Chandigarh,2,2018.8,641.59,30
+ORD01016,2024-03-09,CUST7288,Desk,Furniture,Desk,South,Chennai,3,6372.6,1185.86,5
+ORD01017,2023-10-09,CUST6129,Stapler,Office Supplies,Stapler,East,Bhubaneswar,8,15624.0,924.82,10
+ORD01018,2024-04-27,CUST1669,Phone,Technology,Phone,West,Ahmedabad,7,20060.25,3467.08,25
+ORD01019,2024-03-27,CUST8233,Paper,Office Supplies,Paper,West,Mumbai,9,21495.6,1138.92,30
+ORD01020,2024-11-21,CUST6967,Printer,Technology,Printer,South,Bangalore,9,23943.6,3431.91,10
+ORD01021,2024-07-25,CUST2969,Chair,Furniture,Chair,South,Hyderabad,10,12210.0,2786.52,0
+ORD01022,2023-03-27,CUST3527,Phone,Technology,Phone,North,Lucknow,7,8730.75,2807.33,25
+ORD01023,2023-09-30,CUST2489,Binder,Office Supplies,Binder,East,Bhubaneswar,10,3332.0,585.71,15
+ORD01024,2024-03-10,CUST6565,Phone,Technology,Phone,South,Bangalore,10,17720.0,2356.24,0
+ORD01025,2023-04-19,CUST5851,Pen,Office Supplies,Pen,North,Chandigarh,8,30590.0,7588.28,5
+ORD01026,2023-10-15,CUST8206,Sofa,Furniture,Sofa,South,Hyderabad,3,2157.6,658.58,20
+ORD01027,2023-12-01,CUST2836,Paper,Office Supplies,Paper,North,Chandigarh,1,3584.25,214.03,25
+ORD01028,2024-04-23,CUST5030,Binder,Office Supplies,Binder,West,Ahmedabad,7,15172.5,4903.85,25
+ORD01029,2024-09-24,CUST8002,Notebook,Office Supplies,Notebook,North,Lucknow,8,19180.8,6703.03,10
+ORD01030,2024-04-20,CUST8661,Pen,Office Supplies,Pen,South,Chennai,8,8251.2,584.77,10
+ORD01031,2023-04-28,CUST5178,Phone,Technology,Phone,West,Ahmedabad,3,7132.8,842.88,20
+ORD01032,2023-06-14,CUST1704,Stapler,Office Supplies,Stapler,West,Mumbai,4,8192.0,437.4,0
+ORD01033,2023-12-20,CUST6755,Binder,Office Supplies,Binder,North,Lucknow,6,7564.2,2016.3,30
+ORD01034,2024-11-11,CUST5706,Table,Furniture,Table,South,Chennai,1,1607.4,504.2,5
+ORD01035,2024-07-11,CUST7771,Binder,Office Supplies,Binder,South,Bangalore,8,16084.8,3359.9,10
+ORD01036,2023-09-29,CUST6596,Keyboard,Technology,Keyboard,North,Chandigarh,3,6777.9,2144.95,15
+ORD01037,2023-08-16,CUST5346,Printer,Technology,Printer,East,Bhubaneswar,7,9769.9,2391.28,15
+ORD01038,2024-07-07,CUST9589,Table,Furniture,Table,North,Lucknow,7,15172.5,3182.04,25
+ORD01039,2023-07-08,CUST4237,Monitor,Technology,Monitor,West,Ahmedabad,3,6708.9,1712.51,5
+ORD01040,2023-01-09,CUST9350,Laptop,Technology,Laptop,East,Bhubaneswar,3,11049.75,965.07,25
+ORD01041,2023-03-17,CUST7518,Paper,Office Supplies,Paper,North,Chandigarh,2,5760.0,1195.42,10
+ORD01042,2024-11-08,CUST4377,Binder,Office Supplies,Binder,South,Chennai,2,594.0,132.28,10
+ORD01043,2024-03-05,CUST4764,Laptop,Technology,Laptop,West,Pune,10,2072.0,548.39,30
+ORD01044,2023-06-05,CUST9968,Monitor,Technology,Monitor,West,Mumbai,1,3961.0,904.78,15
+ORD01045,2024-06-02,CUST8481,Bookcase,Furniture,Bookcase,South,Bangalore,5,10321.5,1251.87,30
+ORD01046,2024-01-03,CUST7202,Binder,Office Supplies,Binder,West,Pune,5,16545.0,3310.43,25
+ORD01047,2023-09-27,CUST1385,Monitor,Technology,Monitor,East,Bhubaneswar,9,20484.0,6903.43,20
+ORD01048,2024-06-29,CUST6401,Keyboard,Technology,Keyboard,West,Pune,1,2804.2,793.23,30
+ORD01049,2024-07-16,CUST9091,Binder,Office Supplies,Binder,North,Delhi,9,10980.0,1618.3,20
+ORD01050,2023-12-24,CUST5572,Phone,Technology,Phone,North,Lucknow,4,12276.0,2846.83,25
+ORD01051,2023-08-14,CUST7405,Stapler,Office Supplies,Stapler,East,Patna,4,1540.2,537.87,15
+ORD01052,2023-05-10,CUST1138,Chair,Furniture,Chair,North,Chandigarh,10,3002.0,244.68,5
+ORD01053,2024-09-17,CUST1796,Keyboard,Technology,Keyboard,West,Pune,9,14825.7,2183.1,5
+ORD01054,2024-02-23,CUST4144,Binder,Office Supplies,Binder,East,Patna,4,8835.2,2860.96,20
+ORD01055,2024-10-20,CUST8831,Keyboard,Technology,Keyboard,West,Ahmedabad,8,25190.4,5688.23,20
+ORD01056,2024-09-18,CUST4557,Notebook,Office Supplies,Notebook,East,Patna,8,18899.2,5147.98,20
+ORD01057,2023-10-17,CUST3230,Monitor,Technology,Monitor,West,Ahmedabad,8,27426.0,7780.38,25
+ORD01058,2023-10-31,CUST2413,Notebook,Office Supplies,Notebook,South,Chennai,9,6412.5,394.36,25
+ORD01059,2023-02-23,CUST7138,Bookcase,Furniture,Bookcase,South,Chennai,9,25292.25,2068.96,25
+ORD01060,2024-02-28,CUST3770,Sofa,Furniture,Sofa,East,Bhubaneswar,4,448.4,46.81,5
+ORD01061,2024-09-09,CUST3940,Chair,Furniture,Chair,West,Mumbai,8,18054.0,4345.94,25
+ORD01062,2023-10-22,CUST8134,Chair,Furniture,Chair,North,Delhi,6,17220.0,3507.81,30
+ORD01063,2024-09-24,CUST5505,Desk,Furniture,Desk,North,Delhi,5,6695.0,1891.4,0
+ORD01064,2024-12-27,CUST3538,Chair,Furniture,Chair,North,Delhi,8,25391.2,3865.9,15
+ORD01065,2023-06-13,CUST8969,Pen,Office Supplies,Pen,North,Chandigarh,9,27603.0,4292.1,0
+ORD01066,2023-12-20,CUST8925,Stapler,Office Supplies,Stapler,South,Chennai,9,7641.0,858.42,0
+ORD01067,2024-08-28,CUST4777,Sofa,Furniture,Sofa,West,Mumbai,2,7928.0,690.97,20
+ORD01068,2024-09-10,CUST9475,Keyboard,Technology,Keyboard,East,Kolkata,2,2932.5,728.89,15
+ORD01069,2023-11-27,CUST1740,Pen,Office Supplies,Pen,East,Kolkata,2,1433.6,81.32,30
+ORD01070,2023-03-13,CUST5592,Sofa,Furniture,Sofa,South,Chennai,2,1228.8,143.53,20
+ORD01071,2023-12-31,CUST6451,Chair,Furniture,Chair,East,Kolkata,10,39150.0,5145.94,10
+ORD01072,2024-02-04,CUST9773,Table,Furniture,Table,North,Lucknow,8,15248.0,4213.1,0
+ORD01073,2024-05-15,CUST6014,Printer,Technology,Printer,West,Mumbai,7,31355.1,6654.87,10
+ORD01074,2023-12-07,CUST4975,Bookcase,Furniture,Bookcase,North,Delhi,3,13341.0,4350.72,0
+ORD01075,2023-10-28,CUST1895,Bookcase,Furniture,Bookcase,East,Patna,10,34984.0,11482.72,20
+ORD01076,2023-07-11,CUST1534,Phone,Technology,Phone,East,Bhubaneswar,3,8946.0,2278.42,0
+ORD01077,2023-03-07,CUST7709,Pen,Office Supplies,Pen,East,Bhubaneswar,4,16177.2,4110.52,15
+ORD01078,2023-10-10,CUST6772,Table,Furniture,Table,East,Patna,7,15136.8,2217.12,15
+ORD01079,2023-06-09,CUST9540,Stapler,Office Supplies,Stapler,East,Patna,7,9006.2,2614.82,30
+ORD01080,2024-12-20,CUST8754,Chair,Furniture,Chair,West,Ahmedabad,6,15502.2,3151.92,30
+ORD01081,2023-08-05,CUST6911,Phone,Technology,Phone,South,Hyderabad,9,8584.2,2802.89,5
+ORD01082,2024-11-24,CUST6456,Phone,Technology,Phone,South,Hyderabad,7,18629.45,5524.74,15
+ORD01083,2024-09-25,CUST8791,Table,Furniture,Table,North,Lucknow,6,28026.0,4780.14,0
+ORD01084,2024-10-02,CUST3163,Desk,Furniture,Desk,West,Pune,4,17677.6,3692.98,5
+ORD01085,2023-10-05,CUST5642,Pen,Office Supplies,Pen,South,Chennai,6,24847.2,3307.4,15
+ORD01086,2023-06-21,CUST5406,Pen,Office Supplies,Pen,North,Delhi,5,2902.75,717.12,15
+ORD01087,2024-05-30,CUST2708,Stapler,Office Supplies,Stapler,East,Kolkata,7,14532.0,1314.14,25
+ORD01088,2023-02-15,CUST5388,Keyboard,Technology,Keyboard,North,Delhi,4,8693.8,1685.09,15
+ORD01089,2024-08-17,CUST7222,Binder,Office Supplies,Binder,North,Delhi,7,2371.6,377.8,30
+ORD01090,2024-01-22,CUST4815,Laptop,Technology,Laptop,East,Bhubaneswar,8,29392.0,7110.81,0
+ORD01091,2023-04-12,CUST1790,Paper,Office Supplies,Paper,East,Patna,7,22024.8,4674.48,20
+ORD01092,2023-06-03,CUST2907,Desk,Furniture,Desk,West,Ahmedabad,1,4299.3,448.68,10
+ORD01093,2023-10-13,CUST5890,Pen,Office Supplies,Pen,South,Chennai,10,23182.5,4449.67,25
+ORD01094,2024-08-06,CUST7653,Chair,Furniture,Chair,South,Chennai,8,14131.2,1246.62,20
+ORD01095,2024-06-01,CUST7313,Notebook,Office Supplies,Notebook,South,Chennai,9,5184.0,1553.95,10
+ORD01096,2023-10-11,CUST2766,Sofa,Furniture,Sofa,North,Delhi,6,13113.0,4366.37,25
+ORD01097,2024-11-17,CUST5152,Stapler,Office Supplies,Stapler,North,Delhi,1,1072.8,156.33,10
+ORD01098,2024-09-04,CUST6195,Bookcase,Furniture,Bookcase,West,Pune,3,8162.4,1240.38,20
+ORD01099,2023-09-28,CUST2832,Printer,Technology,Printer,East,Patna,3,8637.75,2261.82,25
+ORD01100,2024-12-20,CUST7585,Paper,Office Supplies,Paper,East,Kolkata,10,33453.0,11472.83,30
+ORD01101,2023-11-19,CUST2731,Table,Furniture,Table,North,Lucknow,5,18173.5,3918.16,5
+ORD01102,2024-11-27,CUST4256,Pen,Office Supplies,Pen,South,Hyderabad,10,29169.0,5737.28,10
+ORD01103,2024-09-20,CUST1629,Chair,Furniture,Chair,East,Patna,5,15945.0,3094.24,0
+ORD01104,2024-03-14,CUST9533,Stapler,Office Supplies,Stapler,West,Ahmedabad,5,19919.75,5876.27,15
+ORD01105,2024-10-06,CUST2881,Desk,Furniture,Desk,East,Kolkata,8,21454.0,5177.1,15
+ORD01106,2023-11-12,CUST4877,Phone,Technology,Phone,East,Bhubaneswar,10,10906.0,1025.29,30
+ORD01107,2024-01-06,CUST7243,Paper,Office Supplies,Paper,North,Lucknow,2,5899.0,1240.74,15
+ORD01108,2023-04-02,CUST5514,Monitor,Technology,Monitor,South,Chennai,9,20169.0,6847.26,25
+ORD01109,2024-02-19,CUST7279,Keyboard,Technology,Keyboard,East,Bhubaneswar,2,4848.4,515.52,15
+ORD01110,2023-05-09,CUST6787,Pen,Office Supplies,Pen,West,Mumbai,3,9267.75,2341.85,25
+ORD01111,2023-10-21,CUST2012,Sofa,Furniture,Sofa,East,Patna,2,8846.0,1628.46,0
+ORD01112,2023-08-26,CUST9696,Binder,Office Supplies,Binder,North,Chandigarh,5,23850.0,4381.16,0
+ORD01113,2024-12-22,CUST9008,Bookcase,Furniture,Bookcase,South,Bangalore,2,5273.8,1275.64,30
+ORD01114,2023-05-01,CUST1286,Sofa,Furniture,Sofa,East,Bhubaneswar,3,449.4,61.32,30
+ORD01115,2023-02-10,CUST2252,Laptop,Technology,Laptop,West,Ahmedabad,10,18330.0,4348.52,0
+ORD01116,2023-02-20,CUST2468,Table,Furniture,Table,South,Chennai,3,2590.8,396.99,15
+ORD01117,2024-01-23,CUST2214,Notebook,Office Supplies,Notebook,North,Delhi,2,311.6,96.61,5
+ORD01118,2024-02-15,CUST1572,Paper,Office Supplies,Paper,North,Lucknow,9,43443.0,4007.0,0
+ORD01119,2024-01-30,CUST5576,Keyboard,Technology,Keyboard,South,Chennai,9,858.6,218.95,10
+ORD01120,2023-03-29,CUST9865,Notebook,Office Supplies,Notebook,South,Chennai,6,954.0,208.94,25
+ORD01121,2023-03-27,CUST4917,Printer,Technology,Printer,East,Patna,5,11010.5,717.01,5
+ORD01122,2024-06-19,CUST6641,Binder,Office Supplies,Binder,South,Hyderabad,3,6891.75,661.77,25
+ORD01123,2024-06-27,CUST1109,Keyboard,Technology,Keyboard,West,Mumbai,1,1458.1,145.35,30
+ORD01124,2023-05-13,CUST7030,Stapler,Office Supplies,Stapler,East,Kolkata,6,15053.7,1183.0,5
+ORD01125,2024-01-12,CUST5918,Table,Furniture,Table,West,Ahmedabad,2,3737.6,1259.47,20
+ORD01126,2023-12-20,CUST8593,Paper,Office Supplies,Paper,East,Patna,4,10822.2,3576.11,15
+ORD01127,2024-09-30,CUST5709,Notebook,Office Supplies,Notebook,North,Chandigarh,9,33743.25,7769.14,25
+ORD01128,2023-10-03,CUST9155,Binder,Office Supplies,Binder,West,Pune,3,8629.2,1869.44,15
+ORD01129,2023-07-14,CUST7375,Paper,Office Supplies,Paper,South,Chennai,10,20009.0,1128.57,15
+ORD01130,2023-06-21,CUST7253,Bookcase,Furniture,Bookcase,South,Chennai,8,5310.0,1243.34,25
+ORD01131,2024-02-07,CUST3588,Laptop,Technology,Laptop,West,Pune,10,20540.0,1631.37,0
+ORD01132,2024-02-21,CUST3525,Sofa,Furniture,Sofa,South,Chennai,1,2058.7,200.44,30
+ORD01133,2023-08-02,CUST8327,Paper,Office Supplies,Paper,West,Mumbai,7,24460.45,3744.25,15
+ORD01134,2024-04-29,CUST1724,Sofa,Furniture,Sofa,South,Chennai,5,11271.75,2395.52,5
+ORD01135,2023-07-06,CUST5056,Table,Furniture,Table,South,Hyderabad,7,19213.6,3946.2,20
+ORD01136,2023-07-19,CUST2513,Desk,Furniture,Desk,South,Chennai,3,3885.0,870.6,0
+ORD01137,2023-01-30,CUST4150,Laptop,Technology,Laptop,North,Chandigarh,10,15831.0,5286.79,10
+ORD01138,2024-02-06,CUST5809,Laptop,Technology,Laptop,East,Kolkata,1,1435.65,154.52,15
+ORD01139,2024-05-06,CUST9334,Table,Furniture,Table,North,Lucknow,3,6435.3,784.8,5
+ORD01140,2023-12-27,CUST9888,Stapler,Office Supplies,Stapler,East,Patna,6,3460.5,349.44,25
+ORD01141,2023-09-11,CUST1936,Paper,Office Supplies,Paper,East,Patna,8,19661.6,4942.68,30
+ORD01142,2024-09-18,CUST5790,Paper,Office Supplies,Paper,South,Hyderabad,10,35948.0,10691.01,5
+ORD01143,2024-01-02,CUST7781,Notebook,Office Supplies,Notebook,South,Chennai,9,4146.75,426.38,5
+ORD01144,2023-10-30,CUST6257,Sofa,Furniture,Sofa,South,Bangalore,7,26670.0,1574.16,0
+ORD01145,2024-08-01,CUST6617,Desk,Furniture,Desk,North,Lucknow,6,12449.1,4002.89,15
+ORD01146,2023-02-14,CUST7999,Pen,Office Supplies,Pen,South,Chennai,3,6051.15,1386.18,15
+ORD01147,2024-01-26,CUST5006,Printer,Technology,Printer,West,Pune,2,813.6,117.52,10
+ORD01148,2023-08-09,CUST9825,Paper,Office Supplies,Paper,West,Pune,8,3162.0,876.95,25
+ORD01149,2023-09-25,CUST9870,Bookcase,Furniture,Bookcase,North,Delhi,4,14886.0,4466.21,25
+ORD01150,2024-05-19,CUST3219,Keyboard,Technology,Keyboard,West,Ahmedabad,5,16473.0,2016.52,15
+ORD01151,2023-05-23,CUST5410,Table,Furniture,Table,North,Lucknow,2,1290.0,179.96,25
+ORD01152,2023-02-07,CUST6284,Paper,Office Supplies,Paper,North,Lucknow,4,9759.0,1505.03,25
+ORD01153,2023-09-24,CUST6013,Keyboard,Technology,Keyboard,West,Pune,6,12768.0,3927.28,30
+ORD01154,2024-04-19,CUST8641,Keyboard,Technology,Keyboard,West,Mumbai,2,6806.4,1882.66,20
+ORD01155,2023-12-01,CUST6258,Laptop,Technology,Laptop,South,Bangalore,4,3556.0,614.49,0
+ORD01156,2024-04-17,CUST6259,Binder,Office Supplies,Binder,East,Bhubaneswar,5,13316.0,2361.25,20
+ORD01157,2024-09-22,CUST9627,Monitor,Technology,Monitor,North,Lucknow,2,5007.0,775.82,25
+ORD01158,2023-10-27,CUST6428,Notebook,Office Supplies,Notebook,West,Ahmedabad,8,11608.8,1397.09,30
+ORD01159,2023-11-26,CUST4613,Chair,Furniture,Chair,South,Chennai,1,1714.75,316.43,5
+ORD01160,2023-02-28,CUST4479,Pen,Office Supplies,Pen,East,Patna,4,10623.0,1662.82,25
+ORD01161,2024-06-13,CUST6541,Phone,Technology,Phone,East,Patna,2,2529.6,792.88,15
+ORD01162,2023-11-04,CUST1590,Laptop,Technology,Laptop,North,Delhi,5,9354.25,1504.07,15
+ORD01163,2023-03-02,CUST1853,Printer,Technology,Printer,South,Hyderabad,5,16927.75,1390.71,15
+ORD01164,2024-05-29,CUST4604,Stapler,Office Supplies,Stapler,South,Hyderabad,9,24170.4,7993.88,10
+ORD01165,2024-10-14,CUST4070,Table,Furniture,Table,East,Patna,3,4587.3,1136.26,10
+ORD01166,2024-02-19,CUST5467,Bookcase,Furniture,Bookcase,South,Bangalore,5,8816.0,1357.74,20
+ORD01167,2024-07-24,CUST9038,Notebook,Office Supplies,Notebook,West,Mumbai,1,2361.6,583.46,20
+ORD01168,2023-03-10,CUST4638,Laptop,Technology,Laptop,North,Chandigarh,7,9525.6,765.91,30
+ORD01169,2023-03-01,CUST9430,Binder,Office Supplies,Binder,South,Bangalore,9,17671.5,3312.01,25
+ORD01170,2023-10-22,CUST9432,Sofa,Furniture,Sofa,South,Hyderabad,8,19616.0,3846.88,0
+ORD01171,2024-03-08,CUST1451,Stapler,Office Supplies,Stapler,South,Hyderabad,10,39833.5,10424.61,5
+ORD01172,2024-01-30,CUST5284,Pen,Office Supplies,Pen,South,Bangalore,9,9747.0,1698.35,5
+ORD01173,2023-09-20,CUST2899,Sofa,Furniture,Sofa,North,Delhi,2,1489.2,322.26,15
+ORD01174,2023-06-26,CUST4903,Stapler,Office Supplies,Stapler,South,Hyderabad,10,16821.5,4902.9,15
+ORD01175,2024-09-14,CUST8141,Bookcase,Furniture,Bookcase,West,Ahmedabad,5,17052.0,1006.59,30
+ORD01176,2023-01-01,CUST9156,Printer,Technology,Printer,West,Mumbai,7,11706.1,2386.3,30
+ORD01177,2024-10-24,CUST5165,Chair,Furniture,Chair,North,Delhi,8,20420.4,4916.85,15
+ORD01178,2024-10-31,CUST1239,Notebook,Office Supplies,Notebook,East,Bhubaneswar,8,31052.8,4541.99,20
+ORD01179,2024-02-09,CUST3781,Printer,Technology,Printer,North,Chandigarh,3,787.95,147.06,15
+ORD01180,2023-08-08,CUST3343,Monitor,Technology,Monitor,North,Chandigarh,2,8833.1,697.4,5
+ORD01181,2024-10-05,CUST5264,Sofa,Furniture,Sofa,North,Lucknow,3,6955.2,1319.31,30
+ORD01182,2024-07-18,CUST1284,Phone,Technology,Phone,North,Chandigarh,9,15159.15,1058.93,5
+ORD01183,2023-01-26,CUST9554,Sofa,Furniture,Sofa,North,Chandigarh,3,9410.7,3280.46,5
+ORD01184,2024-12-28,CUST1255,Phone,Technology,Phone,North,Chandigarh,2,4890.2,552.14,30
+ORD01185,2023-06-20,CUST8907,Desk,Furniture,Desk,West,Mumbai,4,7257.6,866.68,10
+ORD01186,2024-03-06,CUST1778,Sofa,Furniture,Sofa,South,Bangalore,5,17530.0,3597.81,0
+ORD01187,2023-03-23,CUST9823,Bookcase,Furniture,Bookcase,South,Bangalore,4,13869.0,1666.12,25
+ORD01188,2024-02-02,CUST6191,Bookcase,Furniture,Bookcase,East,Bhubaneswar,6,22798.8,7556.69,10
+ORD01189,2023-04-26,CUST5545,Chair,Furniture,Chair,South,Chennai,9,15603.75,3075.5,5
+ORD01190,2024-08-12,CUST5372,Stapler,Office Supplies,Stapler,East,Kolkata,4,10094.4,3070.33,10
+ORD01191,2023-06-18,CUST4555,Notebook,Office Supplies,Notebook,South,Chennai,6,10308.0,2565.65,0
+ORD01192,2023-08-03,CUST9329,Phone,Technology,Phone,North,Chandigarh,9,37269.45,13021.7,5
+ORD01193,2023-08-28,CUST4329,Bookcase,Furniture,Bookcase,North,Delhi,5,5804.5,319.27,5
+ORD01194,2024-08-22,CUST6321,Laptop,Technology,Laptop,East,Bhubaneswar,7,4714.85,564.23,5
+ORD01195,2024-07-21,CUST7953,Paper,Office Supplies,Paper,North,Chandigarh,1,2170.8,476.45,10
+ORD01196,2023-11-19,CUST5198,Chair,Furniture,Chair,North,Chandigarh,2,2151.0,476.01,10
+ORD01197,2023-02-22,CUST8511,Table,Furniture,Table,East,Bhubaneswar,5,19152.0,5138.17,20
+ORD01198,2024-12-11,CUST4081,Laptop,Technology,Laptop,North,Chandigarh,1,2128.5,252.69,10
+ORD01199,2024-10-16,CUST4872,Chair,Furniture,Chair,North,Delhi,3,645.75,193.31,25
+ORD01200,2024-08-06,CUST4555,Desk,Furniture,Desk,East,Patna,6,18261.6,3465.33,30
+ORD01201,2024-06-05,CUST2124,Pen,Office Supplies,Pen,East,Kolkata,10,36050.0,2030.59,0
+ORD01202,2023-08-19,CUST2069,Keyboard,Technology,Keyboard,East,Patna,3,9590.25,1864.48,5
+ORD01203,2023-08-29,CUST1429,Pen,Office Supplies,Pen,South,Chennai,4,2540.8,367.09,20
+ORD01204,2023-08-27,CUST1858,Printer,Technology,Printer,West,Ahmedabad,4,14611.0,4826.72,5
+ORD01205,2023-05-15,CUST4430,Monitor,Technology,Monitor,South,Hyderabad,1,2785.45,381.09,15
+ORD01206,2023-12-29,CUST3161,Keyboard,Technology,Keyboard,South,Hyderabad,3,3166.8,368.7,30
+ORD01207,2024-07-24,CUST4318,Pen,Office Supplies,Pen,North,Lucknow,3,14439.0,1427.23,0
+ORD01208,2024-03-17,CUST1564,Notebook,Office Supplies,Notebook,South,Bangalore,8,17561.6,5051.68,30
+ORD01209,2024-03-01,CUST1662,Phone,Technology,Phone,North,Lucknow,10,27972.0,3008.09,10
+ORD01210,2023-09-19,CUST2332,Printer,Technology,Printer,South,Hyderabad,4,12804.0,3118.9,0
+ORD01211,2023-01-22,CUST1486,Phone,Technology,Phone,North,Delhi,9,22504.5,3529.24,25
+ORD01212,2024-06-08,CUST4984,Sofa,Furniture,Sofa,North,Delhi,2,746.0,83.41,0
+ORD01213,2023-08-13,CUST1668,Laptop,Technology,Laptop,East,Bhubaneswar,9,20241.9,2997.9,15
+ORD01214,2024-07-16,CUST6356,Desk,Furniture,Desk,East,Kolkata,7,20688.15,4402.75,5
+ORD01215,2024-01-27,CUST3881,Keyboard,Technology,Keyboard,East,Patna,6,2646.0,889.53,30
+ORD01216,2023-02-07,CUST7107,Table,Furniture,Table,East,Patna,4,3724.0,657.42,5
+ORD01217,2023-07-21,CUST1401,Keyboard,Technology,Keyboard,West,Pune,3,3558.0,217.44,0
+ORD01218,2023-03-17,CUST7837,Table,Furniture,Table,South,Chennai,4,11167.2,1501.98,10
+ORD01219,2024-04-20,CUST7310,Paper,Office Supplies,Paper,South,Hyderabad,3,1690.5,561.88,30
+ORD01220,2023-03-14,CUST2171,Chair,Furniture,Chair,North,Lucknow,7,30391.2,3194.89,10
+ORD01221,2024-04-17,CUST4952,Table,Furniture,Table,South,Chennai,1,3800.0,660.89,5
+ORD01222,2024-01-18,CUST3450,Keyboard,Technology,Keyboard,East,Kolkata,9,11007.0,3384.24,0
+ORD01223,2024-06-25,CUST7570,Laptop,Technology,Laptop,East,Bhubaneswar,1,2782.9,180.25,15
+ORD01224,2024-03-07,CUST2457,Notebook,Office Supplies,Notebook,West,Mumbai,9,7728.75,2329.62,25
+ORD01225,2024-10-05,CUST8662,Table,Furniture,Table,South,Hyderabad,1,1373.7,181.2,5
+ORD01226,2023-01-10,CUST1258,Printer,Technology,Printer,South,Chennai,7,11501.35,3290.23,15
+ORD01227,2023-01-17,CUST5030,Monitor,Technology,Monitor,North,Delhi,6,20012.4,4669.43,10
+ORD01228,2023-09-07,CUST5406,Laptop,Technology,Laptop,East,Patna,10,8740.0,2962.84,5
+ORD01229,2023-02-18,CUST5706,Stapler,Office Supplies,Stapler,West,Ahmedabad,1,2519.4,471.15,5
+ORD01230,2023-11-04,CUST2052,Monitor,Technology,Monitor,West,Pune,6,20730.0,4805.52,0
+ORD01231,2024-09-02,CUST3413,Notebook,Office Supplies,Notebook,North,Lucknow,1,3052.35,781.58,5
+ORD01232,2023-10-30,CUST5029,Sofa,Furniture,Sofa,South,Bangalore,7,23913.05,3372.04,15
+ORD01233,2023-03-18,CUST2992,Chair,Furniture,Chair,East,Kolkata,3,11347.5,664.95,15
+ORD01234,2023-10-03,CUST8589,Pen,Office Supplies,Pen,North,Lucknow,9,7728.75,1845.17,25
+ORD01235,2024-05-24,CUST5566,Bookcase,Furniture,Bookcase,North,Delhi,9,21542.4,4831.44,20
+ORD01236,2024-09-25,CUST2279,Stapler,Office Supplies,Stapler,North,Delhi,5,5803.0,1652.65,30
+ORD01237,2023-06-28,CUST9974,Monitor,Technology,Monitor,North,Lucknow,4,4881.0,703.5,25
+ORD01238,2024-07-15,CUST5376,Desk,Furniture,Desk,South,Chennai,8,16200.0,3526.01,10
+ORD01239,2023-10-19,CUST4768,Sofa,Furniture,Sofa,East,Kolkata,4,6548.4,537.64,15
+ORD01240,2023-08-12,CUST9248,Stapler,Office Supplies,Stapler,West,Ahmedabad,2,5138.0,1137.56,30
+ORD01241,2023-11-10,CUST5565,Printer,Technology,Printer,West,Mumbai,6,25062.9,6029.16,5
+ORD01242,2023-06-28,CUST9798,Pen,Office Supplies,Pen,North,Chandigarh,6,15199.8,3641.82,30
+ORD01243,2024-01-05,CUST7083,Sofa,Furniture,Sofa,North,Lucknow,10,4642.5,451.58,25
+ORD01244,2024-04-05,CUST5477,Monitor,Technology,Monitor,South,Bangalore,5,9820.0,2453.16,20
+ORD01245,2024-03-28,CUST6746,Desk,Furniture,Desk,North,Lucknow,6,26482.2,6653.41,5
+ORD01246,2023-05-23,CUST4116,Laptop,Technology,Laptop,East,Kolkata,1,2774.4,908.43,20
+ORD01247,2023-02-04,CUST5760,Monitor,Technology,Monitor,West,Ahmedabad,2,1094.4,214.3,10
+ORD01248,2024-03-26,CUST2207,Chair,Furniture,Chair,North,Chandigarh,10,17864.0,4390.96,20
+ORD01249,2023-09-14,CUST9680,Table,Furniture,Table,West,Ahmedabad,7,22771.0,7858.43,0
+ORD01250,2024-04-07,CUST3922,Phone,Technology,Phone,North,Lucknow,7,27888.0,4456.44,20
+ORD01251,2024-09-15,CUST9969,Sofa,Furniture,Sofa,West,Mumbai,7,17501.4,1092.53,10
+ORD01252,2024-11-01,CUST5829,Paper,Office Supplies,Paper,North,Delhi,2,4462.2,669.51,10
+ORD01253,2023-08-09,CUST4460,Stapler,Office Supplies,Stapler,North,Lucknow,1,112.7,8.65,30
+ORD01254,2024-05-22,CUST3758,Paper,Office Supplies,Paper,South,Chennai,2,4881.6,1512.98,20
+ORD01255,2023-11-05,CUST5045,Paper,Office Supplies,Paper,South,Chennai,7,3038.0,399.57,30
+ORD01256,2023-03-28,CUST3227,Pen,Office Supplies,Pen,West,Ahmedabad,7,20310.5,3911.97,30
+ORD01257,2024-08-05,CUST9427,Stapler,Office Supplies,Stapler,North,Lucknow,10,40290.0,10778.41,0
+ORD01258,2023-07-15,CUST3181,Pen,Office Supplies,Pen,South,Hyderabad,1,1039.3,292.49,5
+ORD01259,2024-04-04,CUST7958,Table,Furniture,Table,West,Pune,7,13027.35,2673.74,5
+ORD01260,2024-10-09,CUST1586,Pen,Office Supplies,Pen,South,Bangalore,4,3632.4,903.21,10
+ORD01261,2023-04-21,CUST5285,Keyboard,Technology,Keyboard,East,Kolkata,2,8208.0,1699.93,10
+ORD01262,2023-08-08,CUST6407,Laptop,Technology,Laptop,West,Ahmedabad,8,4841.6,266.01,15
+ORD01263,2024-04-26,CUST9644,Stapler,Office Supplies,Stapler,West,Mumbai,6,6178.5,2065.26,25
+ORD01264,2024-12-05,CUST2921,Phone,Technology,Phone,North,Delhi,8,31363.2,6016.51,10
+ORD01265,2024-10-29,CUST7790,Phone,Technology,Phone,South,Chennai,9,2538.9,551.79,30
+ORD01266,2023-09-18,CUST2773,Chair,Furniture,Chair,North,Chandigarh,3,7337.4,1718.09,30
+ORD01267,2023-11-07,CUST4087,Sofa,Furniture,Sofa,East,Patna,10,2000.0,433.59,20
+ORD01268,2024-02-24,CUST1802,Sofa,Furniture,Sofa,South,Bangalore,2,2176.0,655.26,20
+ORD01269,2023-09-21,CUST5639,Phone,Technology,Phone,South,Bangalore,8,3784.0,1118.15,0
+ORD01270,2024-02-21,CUST6796,Paper,Office Supplies,Paper,West,Pune,7,14285.25,4180.06,25
+ORD01271,2024-06-23,CUST4650,Sofa,Furniture,Sofa,North,Delhi,4,12784.0,4230.13,20
+ORD01272,2023-01-30,CUST5533,Notebook,Office Supplies,Notebook,South,Chennai,3,7612.5,836.78,30
+ORD01273,2024-11-23,CUST4978,Phone,Technology,Phone,West,Pune,7,13911.1,4461.8,30
+ORD01274,2023-04-27,CUST1634,Desk,Furniture,Desk,West,Ahmedabad,1,3584.8,530.45,20
+ORD01275,2024-03-18,CUST7152,Printer,Technology,Printer,South,Hyderabad,5,13518.5,2030.64,5
+ORD01276,2023-04-11,CUST2994,Laptop,Technology,Laptop,West,Pune,8,18855.6,3541.93,5
+ORD01277,2024-12-19,CUST4241,Phone,Technology,Phone,South,Bangalore,4,13251.0,1234.02,25
+ORD01278,2024-12-11,CUST9136,Phone,Technology,Phone,North,Chandigarh,2,4381.4,1300.16,5
+ORD01279,2023-11-03,CUST8882,Pen,Office Supplies,Pen,East,Bhubaneswar,3,1710.0,432.02,5
+ORD01280,2023-01-30,CUST7061,Keyboard,Technology,Keyboard,West,Pune,10,972.0,318.27,10
+ORD01281,2024-06-04,CUST5048,Printer,Technology,Printer,West,Pune,9,17463.6,940.37,30
+ORD01282,2023-03-26,CUST2074,Pen,Office Supplies,Pen,South,Bangalore,5,12252.0,2392.6,20
+ORD01283,2023-11-12,CUST2125,Table,Furniture,Table,North,Chandigarh,7,6993.0,2235.11,10
+ORD01284,2024-08-07,CUST4314,Keyboard,Technology,Keyboard,South,Chennai,7,22849.4,6004.79,5
+ORD01285,2023-12-05,CUST8393,Monitor,Technology,Monitor,North,Lucknow,5,18191.25,5302.59,25
+ORD01286,2024-01-09,CUST5837,Laptop,Technology,Laptop,South,Hyderabad,2,4612.1,1591.09,15
+ORD01287,2023-10-22,CUST9630,Bookcase,Furniture,Bookcase,North,Delhi,8,15579.2,2482.23,30
+ORD01288,2024-04-13,CUST6301,Monitor,Technology,Monitor,South,Bangalore,5,8132.0,2051.26,5
+ORD01289,2023-12-23,CUST1187,Binder,Office Supplies,Binder,East,Bhubaneswar,3,10155.0,2934.67,0
+ORD01290,2023-04-07,CUST8738,Desk,Furniture,Desk,South,Bangalore,9,9292.5,1156.43,30
+ORD01291,2024-02-13,CUST6712,Chair,Furniture,Chair,East,Patna,5,17475.0,1952.94,25
+ORD01292,2024-10-24,CUST5920,Bookcase,Furniture,Bookcase,South,Chennai,10,36450.0,8814.97,25
+ORD01293,2023-03-06,CUST3394,Laptop,Technology,Laptop,East,Kolkata,2,7263.7,1349.61,5
+ORD01294,2024-05-24,CUST6276,Pen,Office Supplies,Pen,South,Hyderabad,1,124.95,34.83,15
+ORD01295,2023-08-27,CUST2670,Monitor,Technology,Monitor,North,Lucknow,4,5656.0,1454.78,0
+ORD01296,2024-12-16,CUST8892,Laptop,Technology,Laptop,South,Bangalore,1,4057.45,486.47,5
+ORD01297,2024-02-20,CUST1883,Laptop,Technology,Laptop,East,Bhubaneswar,3,1157.1,394.02,30
+ORD01298,2024-03-16,CUST5262,Pen,Office Supplies,Pen,South,Bangalore,2,1664.3,410.94,15
+ORD01299,2024-10-24,CUST1951,Keyboard,Technology,Keyboard,South,Hyderabad,1,3157.0,972.44,0
+ORD01300,2023-07-01,CUST7262,Monitor,Technology,Monitor,South,Hyderabad,2,6937.7,1571.11,15
+ORD01301,2024-06-29,CUST9648,Chair,Furniture,Chair,North,Lucknow,4,18183.0,5963.32,5
+ORD01302,2024-02-20,CUST9458,Binder,Office Supplies,Binder,West,Pune,5,738.75,216.84,25
+ORD01303,2023-06-08,CUST9224,Desk,Furniture,Desk,South,Hyderabad,8,15993.6,2745.47,15
+ORD01304,2023-09-21,CUST3721,Paper,Office Supplies,Paper,East,Bhubaneswar,10,26410.0,2418.62,5
+ORD01305,2024-12-04,CUST7868,Desk,Furniture,Desk,North,Lucknow,9,20695.5,5139.55,30
+ORD01306,2023-10-02,CUST3684,Stapler,Office Supplies,Stapler,West,Ahmedabad,7,16574.25,2750.52,25
+ORD01307,2023-07-29,CUST7510,Pen,Office Supplies,Pen,West,Pune,3,4565.7,873.46,5
+ORD01308,2024-02-19,CUST7790,Pen,Office Supplies,Pen,North,Chandigarh,3,13461.0,4613.23,0
+ORD01309,2023-03-12,CUST7871,Stapler,Office Supplies,Stapler,North,Chandigarh,8,4116.0,1162.91,25
+ORD01310,2024-03-13,CUST5821,Notebook,Office Supplies,Notebook,East,Patna,7,27417.6,2546.1,15
+ORD01311,2023-08-04,CUST5161,Chair,Furniture,Chair,East,Patna,7,1764.0,353.47,25
+ORD01312,2023-04-13,CUST6571,Paper,Office Supplies,Paper,East,Patna,3,13032.9,1525.11,10
+ORD01313,2024-09-07,CUST2718,Sofa,Furniture,Sofa,South,Hyderabad,5,12933.75,4104.47,25
+ORD01314,2024-10-05,CUST3265,Table,Furniture,Table,South,Chennai,9,4416.3,1083.88,30
+ORD01315,2023-12-20,CUST8987,Notebook,Office Supplies,Notebook,West,Pune,4,1022.2,204.19,5
+ORD01316,2023-01-02,CUST2221,Printer,Technology,Printer,East,Kolkata,8,4255.2,488.93,10
+ORD01317,2023-11-07,CUST6244,Bookcase,Furniture,Bookcase,North,Chandigarh,5,3145.5,968.87,10
+ORD01318,2024-01-06,CUST4335,Stapler,Office Supplies,Stapler,West,Mumbai,5,10588.0,1810.5,20
+ORD01319,2023-01-30,CUST5257,Chair,Furniture,Chair,South,Hyderabad,10,33067.5,4293.02,25
+ORD01320,2023-08-20,CUST6779,Desk,Furniture,Desk,South,Bangalore,3,5815.8,913.58,10
+ORD01321,2024-11-01,CUST2081,Sofa,Furniture,Sofa,North,Delhi,4,12360.0,2080.25,0
+ORD01322,2023-03-25,CUST1262,Binder,Office Supplies,Binder,West,Ahmedabad,9,1278.0,177.62,0
+ORD01323,2023-01-20,CUST3358,Monitor,Technology,Monitor,North,Delhi,7,13076.0,3407.73,0
+ORD01324,2024-11-16,CUST6538,Phone,Technology,Phone,West,Mumbai,3,2168.1,360.51,10
+ORD01325,2024-03-28,CUST9027,Chair,Furniture,Chair,East,Kolkata,5,3279.5,746.4,30
+ORD01326,2023-10-02,CUST3485,Pen,Office Supplies,Pen,West,Ahmedabad,1,3101.0,832.95,0
+ORD01327,2023-08-18,CUST7535,Keyboard,Technology,Keyboard,North,Chandigarh,7,18277.0,2266.29,30
+ORD01328,2023-01-08,CUST3349,Printer,Technology,Printer,East,Kolkata,4,2825.2,622.38,30
+ORD01329,2024-11-01,CUST1596,Printer,Technology,Printer,North,Delhi,5,11925.0,832.66,25
+ORD01330,2023-11-09,CUST6976,Bookcase,Furniture,Bookcase,East,Kolkata,10,22530.0,4363.33,25
+ORD01331,2023-01-11,CUST7645,Monitor,Technology,Monitor,East,Bhubaneswar,9,13601.7,3883.61,30
+ORD01332,2023-04-24,CUST2577,Sofa,Furniture,Sofa,North,Delhi,7,34685.0,6870.83,0
+ORD01333,2023-03-16,CUST4268,Bookcase,Furniture,Bookcase,East,Patna,6,1795.5,347.71,25
+ORD01334,2024-11-13,CUST6133,Chair,Furniture,Chair,South,Hyderabad,7,15534.4,4074.63,5
+ORD01335,2024-01-06,CUST6017,Phone,Technology,Phone,East,Bhubaneswar,6,10878.3,2962.61,15
+ORD01336,2023-10-21,CUST3639,Monitor,Technology,Monitor,North,Lucknow,10,36052.5,11962.94,5
+ORD01337,2024-07-03,CUST2210,Pen,Office Supplies,Pen,South,Bangalore,2,9452.0,2131.37,0
+ORD01338,2024-07-23,CUST9525,Binder,Office Supplies,Binder,South,Chennai,2,3397.5,982.51,25
+ORD01339,2024-09-23,CUST4020,Table,Furniture,Table,North,Delhi,4,14380.0,2505.72,0
+ORD01340,2023-04-14,CUST8523,Table,Furniture,Table,South,Bangalore,10,23825.5,4328.78,15
+ORD01341,2024-03-23,CUST9146,Printer,Technology,Printer,North,Lucknow,9,31809.6,8960.93,20
+ORD01342,2023-12-10,CUST7166,Notebook,Office Supplies,Notebook,North,Delhi,4,6717.0,391.76,25
+ORD01343,2023-05-25,CUST1162,Desk,Furniture,Desk,West,Mumbai,4,11272.8,1984.01,30
+ORD01344,2024-01-14,CUST3051,Pen,Office Supplies,Pen,East,Patna,6,18262.8,5003.57,10
+ORD01345,2023-12-28,CUST6040,Sofa,Furniture,Sofa,West,Mumbai,9,31500.0,3954.61,0
+ORD01346,2023-06-06,CUST1561,Phone,Technology,Phone,East,Kolkata,9,10756.8,1756.43,20
+ORD01347,2024-05-19,CUST7356,Keyboard,Technology,Keyboard,North,Delhi,7,10789.8,2429.67,30
+ORD01348,2023-07-06,CUST2084,Table,Furniture,Table,North,Delhi,6,19257.6,1829.37,15
+ORD01349,2024-04-18,CUST7290,Table,Furniture,Table,North,Delhi,4,12946.6,3276.82,5
+ORD01350,2024-01-24,CUST9208,Binder,Office Supplies,Binder,South,Bangalore,7,33306.0,3648.61,0
+ORD01351,2023-06-07,CUST2292,Table,Furniture,Table,West,Ahmedabad,6,13782.0,4659.0,0
+ORD01352,2024-10-14,CUST9182,Bookcase,Furniture,Bookcase,South,Bangalore,9,43290.0,5265.25,0
+ORD01353,2024-04-23,CUST4045,Notebook,Office Supplies,Notebook,West,Ahmedabad,2,1225.7,256.45,15
+ORD01354,2023-08-15,CUST6587,Printer,Technology,Printer,West,Ahmedabad,1,1657.6,392.2,30
+ORD01355,2024-07-28,CUST7091,Printer,Technology,Printer,North,Delhi,7,23845.5,7814.98,25
+ORD01356,2023-12-21,CUST8414,Table,Furniture,Table,East,Bhubaneswar,3,8748.0,2208.45,20
+ORD01357,2023-11-19,CUST6836,Binder,Office Supplies,Binder,West,Ahmedabad,7,13233.5,1375.53,5
+ORD01358,2024-11-26,CUST5569,Pen,Office Supplies,Pen,East,Bhubaneswar,2,9064.9,2854.45,5
+ORD01359,2024-06-05,CUST9721,Paper,Office Supplies,Paper,North,Lucknow,9,17546.4,4452.73,20
+ORD01360,2023-11-28,CUST2394,Notebook,Office Supplies,Notebook,South,Chennai,4,11073.8,2259.25,15
+ORD01361,2024-07-04,CUST2078,Desk,Furniture,Desk,South,Hyderabad,9,4368.15,1178.68,15
+ORD01362,2024-12-06,CUST9066,Bookcase,Furniture,Bookcase,East,Bhubaneswar,3,2106.3,693.2,30
+ORD01363,2023-01-08,CUST7842,Stapler,Office Supplies,Stapler,South,Hyderabad,4,15170.4,3568.66,10
+ORD01364,2024-07-03,CUST2904,Monitor,Technology,Monitor,East,Patna,1,1092.0,233.79,0
+ORD01365,2024-06-03,CUST5674,Pen,Office Supplies,Pen,West,Pune,7,5831.0,1102.39,0
+ORD01366,2023-01-06,CUST9355,Stapler,Office Supplies,Stapler,South,Chennai,9,32665.5,10242.16,15
+ORD01367,2023-04-20,CUST5868,Phone,Technology,Phone,East,Kolkata,3,5910.9,955.61,5
+ORD01368,2024-04-28,CUST5970,Printer,Technology,Printer,North,Delhi,4,7285.6,1112.41,30
+ORD01369,2023-03-01,CUST3868,Paper,Office Supplies,Paper,West,Pune,5,4047.0,1266.67,5
+ORD01370,2024-12-18,CUST1833,Sofa,Furniture,Sofa,South,Chennai,2,5336.3,1009.3,15
+ORD01371,2023-04-07,CUST6989,Notebook,Office Supplies,Notebook,West,Mumbai,9,19360.8,5433.79,20
+ORD01372,2024-07-18,CUST4070,Laptop,Technology,Laptop,South,Chennai,2,8741.9,2421.01,5
+ORD01373,2024-02-14,CUST5369,Notebook,Office Supplies,Notebook,East,Patna,3,6822.9,669.72,10
+ORD01374,2023-04-07,CUST8511,Table,Furniture,Table,South,Hyderabad,7,4736.2,1532.57,15
+ORD01375,2023-06-22,CUST8440,Laptop,Technology,Laptop,West,Pune,1,1998.4,523.45,20
+ORD01376,2023-11-08,CUST5741,Desk,Furniture,Desk,West,Ahmedabad,4,14616.0,860.74,0
+ORD01377,2023-03-11,CUST1564,Desk,Furniture,Desk,North,Delhi,2,1841.1,246.33,15
+ORD01378,2024-11-06,CUST3596,Notebook,Office Supplies,Notebook,East,Kolkata,4,11483.6,2103.42,5
+ORD01379,2023-02-06,CUST1537,Keyboard,Technology,Keyboard,North,Chandigarh,4,10324.8,1741.99,10
+ORD01380,2024-09-03,CUST6581,Sofa,Furniture,Sofa,East,Kolkata,7,15388.8,3015.08,20
+ORD01381,2024-08-11,CUST7948,Binder,Office Supplies,Binder,North,Lucknow,6,16929.6,2543.84,20
+ORD01382,2024-10-22,CUST1345,Bookcase,Furniture,Bookcase,South,Bangalore,3,13266.75,1055.01,5
+ORD01383,2024-06-24,CUST3077,Sofa,Furniture,Sofa,West,Ahmedabad,2,4818.0,1380.81,25
+ORD01384,2023-07-20,CUST4920,Monitor,Technology,Monitor,East,Patna,9,16871.4,2322.02,30
+ORD01385,2023-12-07,CUST5079,Phone,Technology,Phone,West,Pune,2,6288.3,941.98,15
+ORD01386,2023-03-08,CUST8555,Laptop,Technology,Laptop,South,Hyderabad,3,10848.0,3158.95,20
+ORD01387,2023-03-26,CUST5114,Stapler,Office Supplies,Stapler,West,Pune,2,8636.4,2504.67,10
+ORD01388,2024-02-02,CUST9836,Pen,Office Supplies,Pen,West,Ahmedabad,4,10150.0,2261.16,30
+ORD01389,2023-09-06,CUST6577,Pen,Office Supplies,Pen,North,Chandigarh,9,18950.4,2571.2,20
+ORD01390,2024-05-16,CUST7124,Phone,Technology,Phone,South,Chennai,2,7554.8,2171.72,15
+ORD01391,2023-01-20,CUST5661,Printer,Technology,Printer,West,Mumbai,9,13624.2,2763.99,10
+ORD01392,2023-09-27,CUST2572,Phone,Technology,Phone,North,Lucknow,5,2891.25,871.87,25
+ORD01393,2024-02-14,CUST2157,Binder,Office Supplies,Binder,West,Pune,9,13651.2,2587.62,20
+ORD01394,2023-11-10,CUST2680,Binder,Office Supplies,Binder,West,Ahmedabad,1,3159.1,665.96,30
+ORD01395,2023-06-22,CUST5372,Desk,Furniture,Desk,South,Chennai,8,26857.6,8690.73,30
+ORD01396,2024-04-21,CUST8442,Chair,Furniture,Chair,North,Chandigarh,5,11339.0,1254.38,15
+ORD01397,2024-11-16,CUST8760,Phone,Technology,Phone,South,Chennai,3,684.0,74.72,20
+ORD01398,2024-10-17,CUST8981,Printer,Technology,Printer,South,Bangalore,4,3445.2,293.72,10
+ORD01399,2023-01-04,CUST3841,Keyboard,Technology,Keyboard,East,Patna,10,1472.5,295.19,5
+ORD01400,2024-12-07,CUST5050,Sofa,Furniture,Sofa,East,Patna,9,11268.0,2169.57,0
+ORD01401,2023-02-11,CUST5351,Stapler,Office Supplies,Stapler,South,Bangalore,5,15771.75,3596.84,15
+ORD01402,2024-03-14,CUST6211,Stapler,Office Supplies,Stapler,West,Pune,10,31076.0,8134.26,15
+ORD01403,2023-10-20,CUST8042,Phone,Technology,Phone,South,Hyderabad,5,6583.5,338.23,10
+ORD01404,2024-02-29,CUST6307,Pen,Office Supplies,Pen,West,Ahmedabad,5,13300.0,4336.42,20
+ORD01405,2024-05-11,CUST9122,Notebook,Office Supplies,Notebook,West,Pune,1,3666.6,1264.79,10
+ORD01406,2024-06-20,CUST3611,Chair,Furniture,Chair,South,Bangalore,5,14374.5,2271.07,30
+ORD01407,2024-02-01,CUST5723,Chair,Furniture,Chair,South,Bangalore,6,3350.7,228.07,15
+ORD01408,2023-02-16,CUST4771,Laptop,Technology,Laptop,South,Chennai,3,11126.4,601.13,5
+ORD01409,2023-12-28,CUST9468,Chair,Furniture,Chair,North,Lucknow,10,23888.0,5821.33,20
+ORD01410,2024-11-07,CUST5486,Monitor,Technology,Monitor,West,Ahmedabad,5,7735.5,2364.27,10
+ORD01411,2023-10-14,CUST7109,Table,Furniture,Table,East,Kolkata,2,805.8,269.41,15
+ORD01412,2023-08-09,CUST3680,Phone,Technology,Phone,South,Chennai,10,24573.5,2557.74,15
+ORD01413,2023-09-16,CUST8116,Table,Furniture,Table,South,Bangalore,9,13286.7,3988.32,5
+ORD01414,2024-09-25,CUST6315,Notebook,Office Supplies,Notebook,South,Bangalore,10,44370.0,12139.37,10
+ORD01415,2024-04-10,CUST7035,Stapler,Office Supplies,Stapler,West,Mumbai,3,11505.0,1386.92,0
+ORD01416,2023-10-13,CUST9012,Sofa,Furniture,Sofa,North,Chandigarh,8,19998.8,4688.11,15
+ORD01417,2024-04-07,CUST4971,Sofa,Furniture,Sofa,East,Kolkata,1,2751.0,387.94,25
+ORD01418,2023-11-03,CUST9750,Chair,Furniture,Chair,West,Pune,2,7408.1,2129.07,5
+ORD01419,2024-02-26,CUST8992,Monitor,Technology,Monitor,West,Pune,2,936.0,245.48,0
+ORD01420,2024-09-03,CUST3930,Chair,Furniture,Chair,East,Kolkata,3,11620.8,3228.01,20
+ORD01421,2023-02-19,CUST6634,Paper,Office Supplies,Paper,East,Patna,9,24414.75,5802.01,25
+ORD01422,2023-12-17,CUST5459,Binder,Office Supplies,Binder,West,Ahmedabad,1,1817.3,126.29,15
+ORD01423,2024-12-28,CUST6371,Sofa,Furniture,Sofa,North,Chandigarh,4,6694.8,1433.43,30
+ORD01424,2024-04-15,CUST4032,Phone,Technology,Phone,East,Bhubaneswar,10,7856.0,1041.11,20
+ORD01425,2024-05-20,CUST4686,Sofa,Furniture,Sofa,North,Chandigarh,9,21188.25,4879.9,25
+ORD01426,2024-01-10,CUST9838,Stapler,Office Supplies,Stapler,South,Hyderabad,1,85.85,5.6,15
+ORD01427,2024-01-16,CUST1275,Laptop,Technology,Laptop,South,Bangalore,8,9464.0,1082.62,30
+ORD01428,2023-08-12,CUST6139,Bookcase,Furniture,Bookcase,West,Mumbai,8,35877.6,8737.67,10
+ORD01429,2023-09-11,CUST8176,Table,Furniture,Table,West,Pune,6,22204.8,5947.35,20
+ORD01430,2024-04-24,CUST4654,Phone,Technology,Phone,North,Lucknow,1,2307.9,549.9,30
+ORD01431,2024-10-13,CUST9401,Sofa,Furniture,Sofa,East,Kolkata,10,8797.5,1992.45,25
+ORD01432,2023-07-11,CUST9568,Paper,Office Supplies,Paper,North,Lucknow,6,13560.0,3270.56,0
+ORD01433,2023-02-24,CUST4894,Phone,Technology,Phone,East,Kolkata,10,3733.5,1278.02,5
+ORD01434,2024-08-12,CUST9452,Bookcase,Furniture,Bookcase,West,Ahmedabad,4,10173.0,2687.72,25
+ORD01435,2024-04-21,CUST5386,Stapler,Office Supplies,Stapler,East,Bhubaneswar,6,571.2,152.21,20
+ORD01436,2024-10-09,CUST8068,Pen,Office Supplies,Pen,South,Bangalore,7,11132.8,3496.27,30
+ORD01437,2023-04-26,CUST2420,Bookcase,Furniture,Bookcase,East,Kolkata,8,24208.8,1885.46,30
+ORD01438,2024-02-22,CUST5086,Phone,Technology,Phone,West,Ahmedabad,10,13319.0,4128.18,5
+ORD01439,2023-03-08,CUST5497,Keyboard,Technology,Keyboard,North,Chandigarh,7,17886.4,4877.38,20
+ORD01440,2024-01-07,CUST2414,Stapler,Office Supplies,Stapler,South,Chennai,6,21696.0,6483.35,0
+ORD01441,2024-02-20,CUST7703,Sofa,Furniture,Sofa,North,Lucknow,5,20123.75,6679.31,15
+ORD01442,2023-11-26,CUST1885,Sofa,Furniture,Sofa,East,Bhubaneswar,4,11081.6,2685.67,20
+ORD01443,2023-10-29,CUST5241,Notebook,Office Supplies,Notebook,West,Ahmedabad,4,15562.8,1073.51,10
+ORD01444,2024-04-14,CUST6250,Pen,Office Supplies,Pen,North,Chandigarh,1,2221.1,392.72,5
+ORD01445,2023-04-08,CUST1806,Pen,Office Supplies,Pen,East,Kolkata,3,8091.0,2457.92,25
+ORD01446,2023-11-11,CUST6154,Chair,Furniture,Chair,North,Delhi,4,7364.4,1792.38,15
+ORD01447,2024-08-01,CUST6238,Bookcase,Furniture,Bookcase,North,Chandigarh,8,30028.8,9797.42,15
+ORD01448,2023-07-20,CUST4616,Keyboard,Technology,Keyboard,North,Delhi,9,15624.9,2239.36,10
+ORD01449,2024-08-04,CUST8505,Keyboard,Technology,Keyboard,South,Chennai,7,26209.75,4959.56,15
+ORD01450,2023-01-06,CUST5896,Desk,Furniture,Desk,West,Pune,7,11411.4,3914.7,5
+ORD01451,2023-09-11,CUST8846,Laptop,Technology,Laptop,South,Hyderabad,3,13959.0,1144.2,0
+ORD01452,2023-03-12,CUST9866,Printer,Technology,Printer,West,Mumbai,3,5737.5,407.89,25
+ORD01453,2023-10-06,CUST3321,Laptop,Technology,Laptop,West,Pune,8,32472.0,7688.39,10
+ORD01454,2024-11-14,CUST2110,Desk,Furniture,Desk,South,Bangalore,9,14611.95,1574.81,5
+ORD01455,2024-12-26,CUST7532,Paper,Office Supplies,Paper,West,Mumbai,1,4446.95,425.71,5
+ORD01456,2023-01-13,CUST2773,Laptop,Technology,Laptop,East,Patna,8,23486.4,4870.98,10
+ORD01457,2023-05-12,CUST1478,Monitor,Technology,Monitor,North,Delhi,5,22082.75,3514.13,5
+ORD01458,2024-02-13,CUST8103,Binder,Office Supplies,Binder,West,Ahmedabad,5,2523.75,193.51,25
+ORD01459,2023-04-03,CUST3101,Laptop,Technology,Laptop,South,Hyderabad,4,562.4,128.37,5
+ORD01460,2023-06-11,CUST7849,Pen,Office Supplies,Pen,West,Pune,5,13551.75,3311.15,5
+ORD01461,2024-12-06,CUST4936,Phone,Technology,Phone,West,Mumbai,2,5261.2,1163.87,30
+ORD01462,2023-03-03,CUST5648,Paper,Office Supplies,Paper,West,Mumbai,7,2840.25,191.43,25
+ORD01463,2023-12-03,CUST1878,Table,Furniture,Table,East,Bhubaneswar,3,8213.7,2590.75,5
+ORD01464,2023-05-25,CUST8931,Desk,Furniture,Desk,West,Mumbai,8,22358.4,7442.63,15
+ORD01465,2023-06-28,CUST4109,Keyboard,Technology,Keyboard,South,Hyderabad,9,30584.25,5894.08,25
+ORD01466,2023-02-20,CUST4449,Chair,Furniture,Chair,North,Chandigarh,2,6919.8,776.66,5
+ORD01467,2024-10-10,CUST8267,Notebook,Office Supplies,Notebook,North,Delhi,6,16359.0,5038.17,30
+ORD01468,2024-06-10,CUST5847,Bookcase,Furniture,Bookcase,East,Kolkata,5,3897.0,1346.65,10
+ORD01469,2024-02-18,CUST7284,Desk,Furniture,Desk,North,Chandigarh,2,2796.8,719.66,20
+ORD01470,2023-08-27,CUST5137,Paper,Office Supplies,Paper,East,Patna,3,332.1,83.82,10
+ORD01471,2023-03-28,CUST5560,Printer,Technology,Printer,East,Kolkata,5,8151.5,965.79,30
+ORD01472,2023-08-03,CUST5364,Table,Furniture,Table,North,Lucknow,2,7366.4,481.38,20
+ORD01473,2023-03-09,CUST9797,Laptop,Technology,Laptop,East,Bhubaneswar,8,12232.0,3428.53,0
+ORD01474,2023-12-23,CUST4192,Monitor,Technology,Monitor,South,Hyderabad,4,12447.0,2641.86,25
+ORD01475,2024-11-01,CUST5009,Desk,Furniture,Desk,East,Patna,9,10050.75,2020.13,25
+ORD01476,2024-03-15,CUST1022,Laptop,Technology,Laptop,South,Hyderabad,5,14870.75,4316.28,15
+ORD01477,2024-04-15,CUST4851,Phone,Technology,Phone,West,Pune,9,20090.7,5389.67,30
+ORD01478,2023-07-02,CUST6629,Paper,Office Supplies,Paper,South,Chennai,6,19020.0,1539.57,0
+ORD01479,2024-12-26,CUST2199,Printer,Technology,Printer,North,Lucknow,2,4380.9,1023.91,15
+ORD01480,2024-04-19,CUST5002,Table,Furniture,Table,West,Mumbai,7,24950.8,7495.34,5
+ORD01481,2024-07-01,CUST8921,Laptop,Technology,Laptop,West,Ahmedabad,2,5008.4,1746.61,5
+ORD01482,2024-07-18,CUST6108,Laptop,Technology,Laptop,West,Pune,2,7423.3,2393.63,5
+ORD01483,2023-08-17,CUST5072,Table,Furniture,Table,North,Delhi,1,4293.9,1134.01,10
+ORD01484,2023-07-30,CUST1329,Monitor,Technology,Monitor,East,Patna,7,16930.9,1603.58,5
+ORD01485,2024-12-28,CUST7950,Pen,Office Supplies,Pen,South,Bangalore,10,28080.0,6043.32,0
+ORD01486,2024-02-08,CUST6503,Printer,Technology,Printer,South,Chennai,8,13892.4,4669.13,15
+ORD01487,2023-05-21,CUST8070,Printer,Technology,Printer,East,Bhubaneswar,4,10600.0,624.97,0
+ORD01488,2023-02-27,CUST9498,Chair,Furniture,Chair,North,Chandigarh,4,547.2,174.26,20
+ORD01489,2024-08-16,CUST6168,Stapler,Office Supplies,Stapler,North,Delhi,7,16297.4,3467.17,30
+ORD01490,2023-09-29,CUST1568,Phone,Technology,Phone,East,Patna,7,9213.75,3161.6,25
+ORD01491,2024-07-02,CUST7419,Laptop,Technology,Laptop,West,Mumbai,8,21935.2,2784.2,30
+ORD01492,2024-02-27,CUST6369,Stapler,Office Supplies,Stapler,East,Kolkata,7,6036.8,1517.12,20
+ORD01493,2024-01-15,CUST5680,Pen,Office Supplies,Pen,North,Delhi,1,1666.4,139.91,20
+ORD01494,2024-12-24,CUST5311,Desk,Furniture,Desk,West,Mumbai,8,26734.4,1750.17,30
+ORD01495,2024-07-12,CUST8328,Notebook,Office Supplies,Notebook,East,Bhubaneswar,5,5705.0,972.15,30
+ORD01496,2024-04-29,CUST5530,Chair,Furniture,Chair,East,Kolkata,2,5161.5,362.09,25
+ORD01497,2024-05-09,CUST7997,Phone,Technology,Phone,East,Bhubaneswar,5,1020.0,340.73,15
+ORD01498,2024-03-31,CUST6826,Table,Furniture,Table,North,Lucknow,6,6543.3,1910.23,15
+ORD01499,2023-01-13,CUST1592,Phone,Technology,Phone,East,Bhubaneswar,4,3120.0,805.32,0
+ORD01500,2023-02-11,CUST4980,Printer,Technology,Printer,West,Mumbai,5,18202.5,5539.96,10
+ORD01501,2024-11-20,CUST1293,Table,Furniture,Table,South,Chennai,5,4096.0,823.4,20
+ORD01502,2023-03-25,CUST5966,Keyboard,Technology,Keyboard,South,Hyderabad,2,3772.0,716.8,0
+ORD01503,2024-10-02,CUST1340,Bookcase,Furniture,Bookcase,East,Bhubaneswar,8,29913.6,9269.65,20
+ORD01504,2023-12-16,CUST3657,Sofa,Furniture,Sofa,South,Chennai,6,3864.0,1138.93,20
+ORD01505,2024-09-01,CUST6721,Desk,Furniture,Desk,South,Chennai,4,17502.8,916.82,5
+ORD01506,2024-12-14,CUST7821,Phone,Technology,Phone,South,Bangalore,6,15000.0,2141.13,20
+ORD01507,2024-05-11,CUST9913,Chair,Furniture,Chair,North,Lucknow,1,3875.05,596.97,5
+ORD01508,2023-03-05,CUST7003,Laptop,Technology,Laptop,East,Kolkata,8,27115.2,3564.96,10
+ORD01509,2023-02-18,CUST6973,Desk,Furniture,Desk,East,Kolkata,10,31948.0,5020.6,30
+ORD01510,2023-03-25,CUST5897,Sofa,Furniture,Sofa,West,Ahmedabad,5,1710.0,559.0,5
+ORD01511,2024-03-12,CUST5754,Binder,Office Supplies,Binder,East,Kolkata,8,3283.2,1001.71,20
+ORD01512,2024-11-12,CUST9086,Paper,Office Supplies,Paper,South,Hyderabad,3,10606.5,614.35,25
+ORD01513,2024-04-25,CUST7322,Paper,Office Supplies,Paper,West,Pune,9,39582.0,8596.69,0
+ORD01514,2023-11-17,CUST6585,Notebook,Office Supplies,Notebook,East,Kolkata,3,9716.7,2638.21,30
+ORD01515,2024-09-09,CUST5065,Pen,Office Supplies,Pen,East,Kolkata,5,8767.5,702.99,25
+ORD01516,2023-01-18,CUST7048,Sofa,Furniture,Sofa,South,Hyderabad,10,32122.5,7900.58,25
+ORD01517,2023-04-14,CUST3188,Notebook,Office Supplies,Notebook,South,Hyderabad,9,1235.25,222.61,25
+ORD01518,2023-07-09,CUST5643,Sofa,Furniture,Sofa,East,Bhubaneswar,4,12648.0,979.29,25
+ORD01519,2023-03-31,CUST1545,Notebook,Office Supplies,Notebook,North,Delhi,6,21854.4,1458.33,20
+ORD01520,2024-12-07,CUST9369,Binder,Office Supplies,Binder,West,Pune,2,1589.5,316.39,15
+ORD01521,2024-11-19,CUST2987,Paper,Office Supplies,Paper,East,Patna,7,12873.0,3020.56,0
+ORD01522,2024-10-22,CUST6501,Phone,Technology,Phone,West,Ahmedabad,8,11275.2,1527.34,10
+ORD01523,2024-05-15,CUST6657,Sofa,Furniture,Sofa,East,Patna,10,16839.0,3008.94,10
+ORD01524,2023-05-14,CUST2820,Stapler,Office Supplies,Stapler,East,Kolkata,3,2181.6,133.07,10
+ORD01525,2023-01-06,CUST8034,Phone,Technology,Phone,West,Ahmedabad,5,1668.75,376.72,25
+ORD01526,2024-12-03,CUST7836,Notebook,Office Supplies,Notebook,East,Patna,2,3155.9,1053.4,5
+ORD01527,2024-08-22,CUST1456,Notebook,Office Supplies,Notebook,North,Chandigarh,8,10064.0,1830.19,0
+ORD01528,2023-10-06,CUST1288,Phone,Technology,Phone,West,Mumbai,10,12792.5,2418.57,15
+ORD01529,2024-05-30,CUST3662,Bookcase,Furniture,Bookcase,North,Delhi,4,1839.2,111.67,5
+ORD01530,2024-05-12,CUST5145,Paper,Office Supplies,Paper,South,Bangalore,2,2306.0,534.32,0
+ORD01531,2023-06-19,CUST9382,Chair,Furniture,Chair,East,Bhubaneswar,2,7072.0,911.26,0
+ORD01532,2023-08-03,CUST9399,Paper,Office Supplies,Paper,East,Patna,6,14838.0,4310.54,0
+ORD01533,2023-01-30,CUST6214,Stapler,Office Supplies,Stapler,West,Ahmedabad,9,17121.6,1298.67,20
+ORD01534,2024-09-11,CUST4335,Stapler,Office Supplies,Stapler,North,Lucknow,8,33232.0,3619.55,0
+ORD01535,2023-01-16,CUST6049,Stapler,Office Supplies,Stapler,East,Bhubaneswar,2,3381.0,423.11,30
+ORD01536,2023-06-19,CUST7570,Notebook,Office Supplies,Notebook,West,Ahmedabad,7,30390.5,9929.98,5
+ORD01537,2024-05-28,CUST1025,Laptop,Technology,Laptop,West,Pune,2,4509.0,615.91,25
+ORD01538,2023-10-28,CUST6011,Chair,Furniture,Chair,North,Lucknow,5,15204.0,4890.23,20
+ORD01539,2024-09-03,CUST5979,Paper,Office Supplies,Paper,West,Pune,3,8326.5,585.84,30
+ORD01540,2023-04-09,CUST4713,Keyboard,Technology,Keyboard,East,Patna,8,33328.0,10871.43,0
+ORD01541,2024-08-06,CUST5367,Pen,Office Supplies,Pen,South,Hyderabad,3,11310.3,2635.36,10
+ORD01542,2024-11-06,CUST2739,Monitor,Technology,Monitor,North,Delhi,9,16084.8,4274.28,20
+ORD01543,2023-10-03,CUST9319,Notebook,Office Supplies,Notebook,West,Pune,3,1588.5,362.78,25
+ORD01544,2023-05-23,CUST4758,Laptop,Technology,Laptop,South,Chennai,3,3496.5,943.91,25
+ORD01545,2023-08-14,CUST9646,Bookcase,Furniture,Bookcase,West,Ahmedabad,3,7940.7,679.22,15
+ORD01546,2023-05-07,CUST8122,Binder,Office Supplies,Binder,North,Lucknow,6,3505.5,1182.0,25
+ORD01547,2024-02-18,CUST5718,Keyboard,Technology,Keyboard,North,Lucknow,8,15235.2,1096.69,10
+ORD01548,2023-05-24,CUST6201,Stapler,Office Supplies,Stapler,West,Pune,8,14120.8,4367.7,5
+ORD01549,2023-09-29,CUST1280,Sofa,Furniture,Sofa,West,Pune,3,3989.25,1271.52,25
+ORD01550,2023-12-22,CUST9519,Stapler,Office Supplies,Stapler,East,Bhubaneswar,4,5322.8,430.65,30
+ORD01551,2024-01-14,CUST2500,Printer,Technology,Printer,West,Mumbai,4,9747.8,682.66,15
+ORD01552,2023-12-22,CUST5340,Pen,Office Supplies,Pen,West,Pune,4,6003.2,1806.16,30
+ORD01553,2023-03-18,CUST3013,Phone,Technology,Phone,North,Chandigarh,6,16264.8,882.42,10
+ORD01554,2023-09-03,CUST1850,Laptop,Technology,Laptop,East,Patna,1,726.0,64.01,0
+ORD01555,2024-07-26,CUST8896,Phone,Technology,Phone,West,Mumbai,8,23896.0,3276.06,0
+ORD01556,2023-04-05,CUST3025,Pen,Office Supplies,Pen,East,Kolkata,4,969.6,159.15,20
+ORD01557,2023-06-08,CUST5518,Table,Furniture,Table,South,Chennai,5,3388.5,214.81,10
+ORD01558,2024-10-15,CUST7751,Printer,Technology,Printer,North,Delhi,2,5275.2,1159.27,30
+ORD01559,2024-12-02,CUST1148,Bookcase,Furniture,Bookcase,North,Delhi,6,8659.8,1788.76,15
+ORD01560,2023-08-21,CUST1956,Desk,Furniture,Desk,South,Chennai,5,4432.5,1070.72,10
+ORD01561,2024-09-23,CUST5943,Chair,Furniture,Chair,West,Ahmedabad,1,2454.9,754.92,30
+ORD01562,2024-09-03,CUST1551,Table,Furniture,Table,East,Kolkata,2,7894.4,1432.95,20
+ORD01563,2023-05-17,CUST6544,Keyboard,Technology,Keyboard,West,Pune,4,9968.0,3088.2,0
+ORD01564,2024-11-01,CUST7449,Chair,Furniture,Chair,West,Ahmedabad,2,2100.0,125.52,0
+ORD01565,2023-04-23,CUST5677,Laptop,Technology,Laptop,South,Hyderabad,7,19656.0,4351.3,0
+ORD01566,2024-10-13,CUST4029,Phone,Technology,Phone,South,Bangalore,7,21991.2,5447.75,15
+ORD01567,2023-01-30,CUST8065,Monitor,Technology,Monitor,West,Ahmedabad,4,7098.0,1028.43,25
+ORD01568,2023-05-09,CUST9273,Bookcase,Furniture,Bookcase,West,Pune,1,195.3,53.25,30
+ORD01569,2023-02-09,CUST4276,Keyboard,Technology,Keyboard,East,Kolkata,2,4468.8,641.72,30
+ORD01570,2023-04-24,CUST7524,Desk,Furniture,Desk,South,Bangalore,4,14531.2,3955.78,5
+ORD01571,2024-08-17,CUST8074,Pen,Office Supplies,Pen,North,Chandigarh,1,2241.05,440.39,5
+ORD01572,2023-03-18,CUST1764,Binder,Office Supplies,Binder,East,Bhubaneswar,6,10756.8,1976.59,10
+ORD01573,2024-09-07,CUST2291,Binder,Office Supplies,Binder,North,Lucknow,4,8568.0,1166.81,10
+ORD01574,2024-07-24,CUST4523,Keyboard,Technology,Keyboard,North,Chandigarh,5,5372.0,827.08,20
+ORD01575,2023-10-15,CUST9889,Stapler,Office Supplies,Stapler,West,Mumbai,4,3456.0,1075.3,10
+ORD01576,2024-08-15,CUST6700,Paper,Office Supplies,Paper,East,Bhubaneswar,3,6923.25,1698.95,25
+ORD01577,2023-12-05,CUST1796,Stapler,Office Supplies,Stapler,South,Hyderabad,3,3508.8,990.57,20
+ORD01578,2023-10-11,CUST8856,Paper,Office Supplies,Paper,East,Kolkata,5,8430.0,1341.7,0
+ORD01579,2024-06-30,CUST7888,Stapler,Office Supplies,Stapler,East,Bhubaneswar,5,1765.0,544.61,0
+ORD01580,2023-07-05,CUST1755,Phone,Technology,Phone,West,Pune,4,1247.8,384.6,15
+ORD01581,2024-07-23,CUST3131,Phone,Technology,Phone,North,Delhi,2,2415.7,794.68,15
+ORD01582,2024-07-14,CUST6282,Paper,Office Supplies,Paper,South,Chennai,7,3742.55,375.21,15
+ORD01583,2023-04-20,CUST7040,Table,Furniture,Table,South,Chennai,2,549.1,63.84,5
+ORD01584,2024-10-29,CUST3747,Table,Furniture,Table,North,Chandigarh,9,4873.05,732.69,15
+ORD01585,2023-01-09,CUST5661,Monitor,Technology,Monitor,South,Chennai,5,7063.5,1870.3,15
+ORD01586,2024-02-04,CUST9680,Binder,Office Supplies,Binder,West,Pune,8,16710.4,3621.09,20
+ORD01587,2024-12-13,CUST5007,Printer,Technology,Printer,North,Chandigarh,10,22610.0,4877.19,5
+ORD01588,2024-08-26,CUST8375,Phone,Technology,Phone,North,Chandigarh,8,16896.0,5560.79,0
+ORD01589,2023-06-12,CUST6006,Printer,Technology,Printer,West,Ahmedabad,5,4875.0,1031.6,25
+ORD01590,2024-04-04,CUST2526,Table,Furniture,Table,East,Patna,5,14835.0,4312.04,25
+ORD01591,2023-05-22,CUST4675,Monitor,Technology,Monitor,West,Pune,3,7324.8,2236.34,30
+ORD01592,2023-11-06,CUST2923,Printer,Technology,Printer,East,Kolkata,2,5964.8,1630.27,20
+ORD01593,2024-01-11,CUST8372,Table,Furniture,Table,East,Bhubaneswar,10,1237.5,429.35,25
+ORD01594,2024-06-13,CUST1020,Binder,Office Supplies,Binder,East,Bhubaneswar,5,17071.5,2398.14,5
+ORD01595,2023-06-05,CUST2459,Printer,Technology,Printer,North,Chandigarh,5,6510.0,530.97,0
+ORD01596,2023-06-23,CUST7047,Phone,Technology,Phone,North,Delhi,4,13307.6,4008.2,5
+ORD01597,2023-12-12,CUST7690,Notebook,Office Supplies,Notebook,West,Ahmedabad,9,16235.1,2598.29,30
+ORD01598,2024-05-31,CUST9652,Pen,Office Supplies,Pen,West,Ahmedabad,7,9117.15,586.15,5
+ORD01599,2023-03-31,CUST1390,Pen,Office Supplies,Pen,West,Pune,3,400.35,63.25,15
+ORD01600,2024-03-07,CUST4578,Notebook,Office Supplies,Notebook,West,Ahmedabad,5,1301.5,348.2,5
+ORD01601,2024-01-20,CUST2490,Laptop,Technology,Laptop,North,Chandigarh,5,22434.25,3401.88,5
+ORD01602,2023-12-15,CUST8962,Phone,Technology,Phone,South,Bangalore,3,14508.0,2790.77,0
+ORD01603,2023-02-21,CUST1430,Paper,Office Supplies,Paper,South,Chennai,7,26613.3,1390.1,5
+ORD01604,2023-10-15,CUST6887,Laptop,Technology,Laptop,East,Kolkata,2,1172.8,327.72,20
+ORD01605,2023-06-22,CUST6629,Desk,Furniture,Desk,West,Ahmedabad,1,1441.3,305.67,30
+ORD01606,2023-09-02,CUST1909,Sofa,Furniture,Sofa,South,Chennai,3,1410.15,356.8,15
+ORD01607,2024-10-27,CUST4646,Phone,Technology,Phone,South,Hyderabad,9,34631.55,6364.09,15
+ORD01608,2024-03-08,CUST1724,Notebook,Office Supplies,Notebook,West,Pune,4,3376.0,1028.38,20
+ORD01609,2023-07-07,CUST4791,Paper,Office Supplies,Paper,West,Ahmedabad,3,3702.15,1070.85,5
+ORD01610,2024-04-27,CUST7920,Phone,Technology,Phone,East,Patna,7,12695.2,2295.93,20
+ORD01611,2024-05-15,CUST3053,Notebook,Office Supplies,Notebook,East,Patna,3,11241.6,952.81,20
+ORD01612,2023-08-08,CUST1302,Printer,Technology,Printer,West,Ahmedabad,2,3245.3,241.93,15
+ORD01613,2023-10-19,CUST7330,Stapler,Office Supplies,Stapler,East,Bhubaneswar,10,3534.0,577.56,5
+ORD01614,2023-04-01,CUST8377,Binder,Office Supplies,Binder,South,Hyderabad,7,2613.45,226.41,5
+ORD01615,2024-08-04,CUST7892,Printer,Technology,Printer,East,Kolkata,3,537.6,77.02,20
+ORD01616,2023-12-19,CUST9883,Desk,Furniture,Desk,North,Delhi,7,9290.4,1187.02,30
+ORD01617,2023-03-27,CUST1505,Binder,Office Supplies,Binder,South,Bangalore,8,24120.0,8238.81,25
+ORD01618,2023-12-13,CUST1064,Pen,Office Supplies,Pen,East,Patna,10,2385.0,369.54,25
+ORD01619,2024-04-10,CUST6372,Printer,Technology,Printer,South,Chennai,9,24771.6,3661.12,30
+ORD01620,2023-09-02,CUST7006,Desk,Furniture,Desk,East,Patna,8,907.2,95.82,30
+ORD01621,2024-09-01,CUST7600,Table,Furniture,Table,South,Chennai,5,22310.75,5787.54,5
+ORD01622,2023-11-23,CUST8497,Desk,Furniture,Desk,East,Bhubaneswar,7,25729.2,5911.11,10
+ORD01623,2024-03-11,CUST7459,Monitor,Technology,Monitor,South,Bangalore,9,6210.0,484.19,0
+ORD01624,2023-05-07,CUST6615,Keyboard,Technology,Keyboard,West,Pune,7,18912.6,3360.01,10
+ORD01625,2023-07-06,CUST2873,Notebook,Office Supplies,Notebook,East,Kolkata,6,9877.5,1151.48,25
+ORD01626,2023-03-14,CUST8775,Stapler,Office Supplies,Stapler,North,Delhi,5,5692.5,1195.42,25
+ORD01627,2023-01-04,CUST9606,Chair,Furniture,Chair,West,Pune,1,1313.1,180.56,10
+ORD01628,2024-10-30,CUST7917,Sofa,Furniture,Sofa,North,Chandigarh,10,750.0,233.66,25
+ORD01629,2023-11-20,CUST5056,Printer,Technology,Printer,North,Chandigarh,8,9267.2,1951.81,20
+ORD01630,2023-09-30,CUST3967,Phone,Technology,Phone,South,Hyderabad,5,21348.0,2286.4,10
+ORD01631,2024-02-11,CUST8204,Printer,Technology,Printer,West,Mumbai,7,24126.2,6391.17,5
+ORD01632,2024-10-09,CUST7221,Phone,Technology,Phone,West,Ahmedabad,2,810.0,75.1,10
+ORD01633,2023-07-14,CUST1393,Phone,Technology,Phone,North,Delhi,8,5798.8,1332.15,5
+ORD01634,2024-08-25,CUST7796,Paper,Office Supplies,Paper,East,Bhubaneswar,3,10123.5,2790.0,15
+ORD01635,2024-12-29,CUST6778,Laptop,Technology,Laptop,South,Hyderabad,5,14445.75,2096.05,15
+ORD01636,2024-05-31,CUST3774,Chair,Furniture,Chair,East,Bhubaneswar,9,8307.0,1210.73,0
+ORD01637,2024-09-17,CUST1350,Pen,Office Supplies,Pen,East,Bhubaneswar,5,2707.25,808.27,15
+ORD01638,2024-07-22,CUST3108,Monitor,Technology,Monitor,South,Chennai,4,16095.6,4710.59,10
+ORD01639,2024-09-20,CUST2932,Notebook,Office Supplies,Notebook,North,Chandigarh,6,22980.6,7484.41,15
+ORD01640,2024-11-12,CUST3786,Pen,Office Supplies,Pen,South,Bangalore,2,6636.8,1297.94,20
+ORD01641,2024-08-16,CUST6939,Pen,Office Supplies,Pen,South,Chennai,10,11242.5,3269.48,25
+ORD01642,2024-08-16,CUST3244,Sofa,Furniture,Sofa,West,Pune,1,1782.9,595.48,10
+ORD01643,2024-04-24,CUST4552,Pen,Office Supplies,Pen,North,Chandigarh,3,3723.3,1199.77,10
+ORD01644,2023-03-24,CUST8807,Phone,Technology,Phone,East,Bhubaneswar,6,12204.0,2764.56,0
+ORD01645,2024-09-18,CUST8623,Binder,Office Supplies,Binder,West,Pune,7,23226.0,2623.55,30
+ORD01646,2024-05-18,CUST4223,Printer,Technology,Printer,West,Ahmedabad,10,2656.0,484.56,20
+ORD01647,2024-08-09,CUST2262,Pen,Office Supplies,Pen,East,Kolkata,8,3072.0,1020.05,0
+ORD01648,2024-02-03,CUST7531,Chair,Furniture,Chair,North,Chandigarh,6,24918.0,5701.85,0
+ORD01649,2024-03-16,CUST6682,Sofa,Furniture,Sofa,East,Kolkata,7,2205.0,201.67,25
+ORD01650,2024-02-18,CUST7257,Pen,Office Supplies,Pen,West,Ahmedabad,7,26437.6,1534.47,20
+ORD01651,2024-11-23,CUST8406,Bookcase,Furniture,Bookcase,South,Hyderabad,9,41920.65,6199.38,5
+ORD01652,2024-12-31,CUST5182,Pen,Office Supplies,Pen,East,Bhubaneswar,9,29085.3,7687.86,15
+ORD01653,2023-12-17,CUST4969,Bookcase,Furniture,Bookcase,West,Ahmedabad,5,11979.5,1209.0,5
+ORD01654,2023-01-06,CUST5354,Keyboard,Technology,Keyboard,North,Chandigarh,4,16720.0,5511.34,5
+ORD01655,2024-08-13,CUST5235,Chair,Furniture,Chair,West,Pune,10,20552.0,5463.25,30
+ORD01656,2024-04-17,CUST1573,Desk,Furniture,Desk,North,Lucknow,3,8973.0,1997.31,0
+ORD01657,2023-10-15,CUST2542,Notebook,Office Supplies,Notebook,West,Pune,9,20887.2,4322.32,20
+ORD01658,2023-10-05,CUST3399,Laptop,Technology,Laptop,West,Mumbai,10,30300.0,7504.5,25
+ORD01659,2024-10-29,CUST7736,Table,Furniture,Table,South,Chennai,9,22770.0,3618.65,0
+ORD01660,2024-10-03,CUST6529,Binder,Office Supplies,Binder,West,Mumbai,7,3937.5,320.96,25
+ORD01661,2024-05-28,CUST4088,Laptop,Technology,Laptop,East,Patna,8,31631.2,6604.81,5
+ORD01662,2023-06-15,CUST1569,Chair,Furniture,Chair,North,Chandigarh,5,2075.75,107.76,5
+ORD01663,2024-08-03,CUST1641,Table,Furniture,Table,North,Lucknow,4,9658.8,2894.83,10
+ORD01664,2024-01-07,CUST2631,Phone,Technology,Phone,South,Chennai,8,1804.8,583.59,20
+ORD01665,2024-09-01,CUST3256,Monitor,Technology,Monitor,East,Kolkata,8,33264.0,8718.1,10
+ORD01666,2024-07-31,CUST8830,Notebook,Office Supplies,Notebook,North,Lucknow,5,2289.5,584.21,5
+ORD01667,2023-07-17,CUST1780,Sofa,Furniture,Sofa,North,Lucknow,8,29354.4,4053.72,10
+ORD01668,2023-10-29,CUST6104,Stapler,Office Supplies,Stapler,South,Hyderabad,3,6412.8,888.86,20
+ORD01669,2024-10-28,CUST6378,Phone,Technology,Phone,West,Ahmedabad,2,458.0,74.9,0
+ORD01670,2023-06-23,CUST2906,Keyboard,Technology,Keyboard,South,Hyderabad,8,31069.2,9413.59,15
+ORD01671,2023-05-18,CUST6734,Keyboard,Technology,Keyboard,South,Chennai,8,6739.2,950.56,10
+ORD01672,2024-05-23,CUST3946,Bookcase,Furniture,Bookcase,West,Pune,7,24003.0,5201.26,10
+ORD01673,2024-10-14,CUST8759,Notebook,Office Supplies,Notebook,South,Hyderabad,7,9311.75,3198.6,15
+ORD01674,2024-01-17,CUST1114,Table,Furniture,Table,East,Kolkata,9,24657.75,6766.26,25
+ORD01675,2023-06-30,CUST3817,Keyboard,Technology,Keyboard,East,Bhubaneswar,8,9196.8,2456.4,20
+ORD01676,2023-03-16,CUST1536,Laptop,Technology,Laptop,West,Ahmedabad,3,13560.0,3286.48,0
+ORD01677,2024-09-27,CUST2254,Laptop,Technology,Laptop,West,Pune,7,1190.35,204.74,5
+ORD01678,2023-12-26,CUST5222,Stapler,Office Supplies,Stapler,West,Pune,8,986.0,298.55,15
+ORD01679,2023-12-07,CUST8062,Keyboard,Technology,Keyboard,North,Delhi,9,13817.25,3266.81,25
+ORD01680,2024-09-12,CUST4574,Printer,Technology,Printer,South,Hyderabad,8,26417.6,3408.05,5
+ORD01681,2023-07-08,CUST7212,Paper,Office Supplies,Paper,West,Ahmedabad,6,17795.4,4247.85,30
+ORD01682,2024-03-06,CUST8031,Phone,Technology,Phone,South,Chennai,1,2926.0,147.84,5
+ORD01683,2024-06-04,CUST9167,Stapler,Office Supplies,Stapler,North,Lucknow,10,9357.5,3197.25,5
+ORD01684,2023-07-24,CUST5887,Laptop,Technology,Laptop,South,Bangalore,10,39710.0,13884.94,0
+ORD01685,2023-01-19,CUST6017,Monitor,Technology,Monitor,West,Ahmedabad,9,28417.5,6892.81,25
+ORD01686,2024-05-23,CUST6647,Table,Furniture,Table,East,Patna,10,2354.5,257.18,15
+ORD01687,2024-11-02,CUST5570,Monitor,Technology,Monitor,East,Bhubaneswar,3,9576.0,2099.03,0
+ORD01688,2023-11-07,CUST5619,Printer,Technology,Printer,North,Lucknow,2,2196.6,314.58,30
+ORD01689,2023-09-18,CUST6188,Sofa,Furniture,Sofa,West,Pune,4,10682.0,2976.89,30
+ORD01690,2023-08-29,CUST1203,Notebook,Office Supplies,Notebook,East,Bhubaneswar,5,1667.25,521.9,5
+ORD01691,2024-03-20,CUST6528,Binder,Office Supplies,Binder,West,Mumbai,4,940.8,110.92,20
+ORD01692,2024-04-23,CUST3183,Bookcase,Furniture,Bookcase,South,Bangalore,6,4253.4,579.46,15
+ORD01693,2023-06-07,CUST8950,Table,Furniture,Table,East,Kolkata,4,9374.4,819.78,30
+ORD01694,2024-07-17,CUST6322,Keyboard,Technology,Keyboard,East,Bhubaneswar,2,5827.2,905.34,20
+ORD01695,2024-09-29,CUST4230,Binder,Office Supplies,Binder,West,Ahmedabad,1,253.5,87.21,25
+ORD01696,2023-05-28,CUST4701,Sofa,Furniture,Sofa,West,Ahmedabad,3,10154.1,601.73,15
+ORD01697,2023-09-26,CUST1089,Bookcase,Furniture,Bookcase,East,Bhubaneswar,7,4102.0,1033.03,0
+ORD01698,2024-08-09,CUST6014,Notebook,Office Supplies,Notebook,East,Kolkata,10,12264.0,2785.11,20
+ORD01699,2023-10-03,CUST9640,Pen,Office Supplies,Pen,South,Chennai,4,2278.8,397.85,10
+ORD01700,2023-10-20,CUST2225,Phone,Technology,Phone,West,Mumbai,8,13240.8,1590.87,10
+ORD01701,2024-12-05,CUST4287,Keyboard,Technology,Keyboard,South,Bangalore,7,27238.4,5852.85,5
+ORD01702,2023-12-03,CUST8539,Stapler,Office Supplies,Stapler,North,Lucknow,1,1485.8,466.18,5
+ORD01703,2023-09-02,CUST9316,Monitor,Technology,Monitor,East,Kolkata,6,2029.5,387.02,25
+ORD01704,2023-05-15,CUST7465,Phone,Technology,Phone,North,Chandigarh,10,22504.0,1500.07,20
+ORD01705,2024-05-03,CUST5813,Binder,Office Supplies,Binder,West,Mumbai,7,22302.0,7258.5,25
+ORD01706,2024-02-16,CUST5786,Printer,Technology,Printer,East,Kolkata,8,2910.0,235.58,25
+ORD01707,2024-09-21,CUST6921,Paper,Office Supplies,Paper,North,Chandigarh,8,25894.4,4705.36,20
+ORD01708,2024-02-17,CUST2925,Paper,Office Supplies,Paper,North,Chandigarh,9,10798.2,2061.18,30
+ORD01709,2024-01-05,CUST6585,Table,Furniture,Table,West,Mumbai,3,9997.8,1003.73,5
+ORD01710,2024-10-30,CUST9519,Desk,Furniture,Desk,North,Chandigarh,6,18549.0,2610.18,25
+ORD01711,2024-11-25,CUST9561,Bookcase,Furniture,Bookcase,South,Bangalore,2,4778.7,1149.99,15
+ORD01712,2024-12-22,CUST5840,Keyboard,Technology,Keyboard,East,Kolkata,8,28082.0,9043.97,5
+ORD01713,2024-11-03,CUST5406,Desk,Furniture,Desk,West,Mumbai,10,12584.0,4325.49,20
+ORD01714,2024-07-28,CUST7381,Stapler,Office Supplies,Stapler,East,Bhubaneswar,2,6902.7,1087.25,5
+ORD01715,2023-08-01,CUST8092,Monitor,Technology,Monitor,South,Bangalore,10,40001.0,2972.0,15
+ORD01716,2024-10-29,CUST1014,Sofa,Furniture,Sofa,North,Chandigarh,2,1935.0,306.15,10
+ORD01717,2024-11-25,CUST1154,Chair,Furniture,Chair,South,Bangalore,9,29865.6,8392.92,15
+ORD01718,2024-04-19,CUST7416,Table,Furniture,Table,West,Ahmedabad,5,11990.0,1240.73,0
+ORD01719,2024-11-29,CUST9974,Laptop,Technology,Laptop,North,Chandigarh,6,16447.5,3095.84,15
+ORD01720,2023-05-21,CUST5968,Laptop,Technology,Laptop,East,Bhubaneswar,5,7854.0,2462.12,15
+ORD01721,2023-10-02,CUST4653,Desk,Furniture,Desk,East,Patna,2,6546.0,2061.54,0
+ORD01722,2023-07-10,CUST6710,Printer,Technology,Printer,East,Patna,6,15673.5,1647.46,25
+ORD01723,2024-01-15,CUST3352,Table,Furniture,Table,North,Delhi,10,38670.0,11935.98,0
+ORD01724,2024-08-28,CUST6085,Pen,Office Supplies,Pen,West,Mumbai,6,19329.0,2717.21,15
+ORD01725,2024-09-21,CUST4181,Monitor,Technology,Monitor,North,Lucknow,5,7412.0,1873.17,20
+ORD01726,2023-05-14,CUST4987,Chair,Furniture,Chair,South,Bangalore,10,23408.0,4631.43,30
+ORD01727,2023-10-05,CUST7092,Desk,Furniture,Desk,West,Pune,4,3440.0,1138.9,0
+ORD01728,2024-10-29,CUST8121,Keyboard,Technology,Keyboard,North,Delhi,1,397.0,126.84,0
+ORD01729,2024-04-17,CUST7146,Desk,Furniture,Desk,East,Patna,9,23133.6,1722.57,10
+ORD01730,2024-06-25,CUST4444,Chair,Furniture,Chair,North,Delhi,10,23312.0,4559.4,20
+ORD01731,2024-10-27,CUST3222,Sofa,Furniture,Sofa,West,Pune,2,3240.2,541.35,15
+ORD01732,2024-08-26,CUST9515,Desk,Furniture,Desk,East,Patna,5,15656.0,1331.45,5
+ORD01733,2023-01-13,CUST8820,Printer,Technology,Printer,South,Bangalore,10,13131.0,4505.47,10
+ORD01734,2024-02-02,CUST2656,Paper,Office Supplies,Paper,South,Bangalore,4,8472.0,1549.65,0
+ORD01735,2024-11-14,CUST3628,Keyboard,Technology,Keyboard,South,Hyderabad,6,9941.4,2230.01,30
+ORD01736,2023-11-18,CUST6928,Table,Furniture,Table,West,Pune,2,3033.8,757.12,30
+ORD01737,2023-12-14,CUST3857,Table,Furniture,Table,North,Delhi,2,4141.8,1019.15,10
+ORD01738,2024-07-23,CUST2222,Notebook,Office Supplies,Notebook,East,Kolkata,4,1968.6,404.42,15
+ORD01739,2024-01-16,CUST8791,Notebook,Office Supplies,Notebook,North,Delhi,9,3556.8,1054.78,5
+ORD01740,2024-03-24,CUST2391,Desk,Furniture,Desk,West,Mumbai,4,9489.4,2873.44,15
+ORD01741,2023-03-30,CUST1536,Laptop,Technology,Laptop,West,Ahmedabad,7,3612.0,680.9,0
+ORD01742,2023-10-18,CUST6842,Chair,Furniture,Chair,North,Delhi,9,44757.0,11159.46,0
+ORD01743,2024-01-31,CUST4254,Notebook,Office Supplies,Notebook,West,Mumbai,5,8795.5,998.11,30
+ORD01744,2024-06-22,CUST2240,Stapler,Office Supplies,Stapler,West,Pune,5,17560.0,1407.74,0
+ORD01745,2024-10-22,CUST3256,Sofa,Furniture,Sofa,East,Kolkata,9,4291.2,1439.76,20
+ORD01746,2023-04-06,CUST4725,Pen,Office Supplies,Pen,North,Lucknow,9,30537.0,4229.16,0
+ORD01747,2024-02-14,CUST8235,Paper,Office Supplies,Paper,East,Bhubaneswar,6,18085.2,3183.34,30
+ORD01748,2023-12-05,CUST8126,Bookcase,Furniture,Bookcase,West,Ahmedabad,8,14207.2,2574.44,30
+ORD01749,2024-05-08,CUST5504,Notebook,Office Supplies,Notebook,East,Patna,2,4711.5,1220.54,25
+ORD01750,2023-09-30,CUST4827,Desk,Furniture,Desk,North,Chandigarh,5,14092.0,3895.54,20
+ORD01751,2024-03-09,CUST8280,Bookcase,Furniture,Bookcase,West,Mumbai,6,17870.4,6012.4,20
+ORD01752,2024-01-30,CUST3909,Paper,Office Supplies,Paper,East,Patna,4,11913.6,4153.6,20
+ORD01753,2024-11-25,CUST7059,Pen,Office Supplies,Pen,North,Lucknow,8,13919.6,1399.68,15
+ORD01754,2023-10-22,CUST2394,Phone,Technology,Phone,North,Chandigarh,5,10948.0,3110.65,15
+ORD01755,2024-02-12,CUST9768,Phone,Technology,Phone,North,Chandigarh,6,10470.9,914.57,5
+ORD01756,2023-09-29,CUST1452,Phone,Technology,Phone,South,Hyderabad,7,8628.9,2761.92,30
+ORD01757,2023-10-18,CUST7550,Laptop,Technology,Laptop,East,Bhubaneswar,3,1947.0,162.01,0
+ORD01758,2024-02-15,CUST5408,Bookcase,Furniture,Bookcase,East,Kolkata,9,13429.8,1554.44,10
+ORD01759,2023-03-10,CUST9907,Sofa,Furniture,Sofa,South,Bangalore,8,35074.0,10194.37,5
+ORD01760,2023-05-05,CUST8810,Binder,Office Supplies,Binder,South,Bangalore,7,12009.9,3258.56,30
+ORD01761,2023-06-07,CUST3886,Bookcase,Furniture,Bookcase,East,Patna,3,390.45,22.21,5
+ORD01762,2024-03-19,CUST8365,Binder,Office Supplies,Binder,East,Bhubaneswar,9,17097.75,5316.4,15
+ORD01763,2023-11-01,CUST9532,Desk,Furniture,Desk,South,Bangalore,10,2144.0,499.12,20
+ORD01764,2024-08-09,CUST7296,Phone,Technology,Phone,East,Bhubaneswar,4,10799.6,2535.84,30
+ORD01765,2024-11-06,CUST6846,Bookcase,Furniture,Bookcase,North,Lucknow,6,4939.2,400.15,20
+ORD01766,2024-12-21,CUST4040,Notebook,Office Supplies,Notebook,West,Ahmedabad,6,13722.0,3092.91,0
+ORD01767,2024-04-07,CUST9727,Sofa,Furniture,Sofa,North,Chandigarh,6,15346.8,3951.72,30
+ORD01768,2024-02-01,CUST8775,Paper,Office Supplies,Paper,North,Lucknow,9,2600.1,315.85,10
+ORD01769,2024-04-12,CUST7034,Paper,Office Supplies,Paper,West,Pune,1,2434.0,364.83,0
+ORD01770,2024-11-02,CUST5922,Table,Furniture,Table,South,Chennai,7,27871.2,4286.97,20
+ORD01771,2023-11-22,CUST6694,Keyboard,Technology,Keyboard,West,Ahmedabad,1,371.45,21.98,15
+ORD01772,2024-04-05,CUST1863,Bookcase,Furniture,Bookcase,North,Delhi,6,11328.0,1502.85,0
+ORD01773,2023-10-31,CUST4596,Bookcase,Furniture,Bookcase,South,Chennai,10,44640.0,11506.94,10
+ORD01774,2023-03-24,CUST3394,Pen,Office Supplies,Pen,West,Pune,4,1856.0,507.22,0
+ORD01775,2023-12-29,CUST9485,Printer,Technology,Printer,West,Pune,2,4564.8,1541.0,10
+ORD01776,2024-05-09,CUST9472,Binder,Office Supplies,Binder,North,Delhi,8,15082.4,1971.91,15
+ORD01777,2023-05-27,CUST9208,Printer,Technology,Printer,North,Lucknow,9,18234.0,3170.85,0
+ORD01778,2024-12-22,CUST5704,Phone,Technology,Phone,South,Hyderabad,3,10951.2,2287.53,20
+ORD01779,2024-05-25,CUST6133,Paper,Office Supplies,Paper,West,Mumbai,4,15268.0,5156.93,0
+ORD01780,2024-06-23,CUST4161,Phone,Technology,Phone,West,Ahmedabad,6,27456.0,7480.04,0
+ORD01781,2024-04-24,CUST7655,Paper,Office Supplies,Paper,South,Hyderabad,2,5129.6,1783.69,20
+ORD01782,2024-10-16,CUST5177,Chair,Furniture,Chair,East,Kolkata,1,807.0,122.94,25
+ORD01783,2024-06-09,CUST3205,Bookcase,Furniture,Bookcase,West,Mumbai,6,27502.5,8280.6,5
+ORD01784,2024-07-12,CUST6167,Notebook,Office Supplies,Notebook,West,Mumbai,2,5326.2,403.65,10
+ORD01785,2024-05-02,CUST2349,Printer,Technology,Printer,West,Ahmedabad,3,12001.5,1679.19,10
+ORD01786,2024-10-10,CUST6740,Chair,Furniture,Chair,East,Patna,4,11223.0,742.75,25
+ORD01787,2023-01-13,CUST9628,Table,Furniture,Table,North,Chandigarh,9,30732.75,10691.05,25
+ORD01788,2024-09-04,CUST4744,Notebook,Office Supplies,Notebook,North,Lucknow,1,3997.0,624.09,0
+ORD01789,2024-01-08,CUST5051,Sofa,Furniture,Sofa,North,Delhi,4,11836.0,1545.16,0
+ORD01790,2023-12-10,CUST1186,Stapler,Office Supplies,Stapler,North,Lucknow,6,22000.5,5497.33,25
+ORD01791,2024-03-09,CUST4512,Chair,Furniture,Chair,South,Hyderabad,10,31311.0,3883.1,30
+ORD01792,2023-11-27,CUST1206,Desk,Furniture,Desk,West,Pune,8,22153.6,1881.72,30
+ORD01793,2024-09-22,CUST3012,Chair,Furniture,Chair,South,Bangalore,4,9027.0,3048.74,15
+ORD01794,2024-04-07,CUST7536,Pen,Office Supplies,Pen,North,Lucknow,1,2467.15,249.93,5
+ORD01795,2024-11-21,CUST4367,Chair,Furniture,Chair,South,Chennai,6,20403.6,6083.47,30
+ORD01796,2023-11-15,CUST7263,Binder,Office Supplies,Binder,West,Mumbai,3,1524.0,231.77,0
+ORD01797,2024-12-19,CUST2683,Desk,Furniture,Desk,North,Lucknow,4,16316.6,1897.06,15
+ORD01798,2024-07-02,CUST9296,Chair,Furniture,Chair,South,Hyderabad,3,7037.1,2083.97,30
+ORD01799,2024-02-17,CUST2093,Stapler,Office Supplies,Stapler,North,Chandigarh,9,17935.2,3757.6,20
+ORD01800,2024-12-16,CUST9235,Stapler,Office Supplies,Stapler,South,Hyderabad,4,9816.0,1534.84,25
+ORD01801,2024-12-21,CUST5341,Pen,Office Supplies,Pen,South,Chennai,7,23251.2,1715.42,20
+ORD01802,2024-11-01,CUST7323,Monitor,Technology,Monitor,East,Kolkata,3,8745.6,1294.83,20
+ORD01803,2023-02-23,CUST9903,Monitor,Technology,Monitor,North,Lucknow,6,10401.6,2193.47,20
+ORD01804,2024-12-11,CUST6030,Table,Furniture,Table,South,Hyderabad,1,3916.8,822.0,15
+ORD01805,2023-04-14,CUST4879,Paper,Office Supplies,Paper,South,Hyderabad,7,12531.75,3730.78,25
+ORD01806,2023-03-05,CUST2062,Monitor,Technology,Monitor,East,Kolkata,9,23016.6,3139.01,5
+ORD01807,2024-05-17,CUST6969,Notebook,Office Supplies,Notebook,South,Hyderabad,1,1828.8,629.73,10
+ORD01808,2024-07-19,CUST3980,Paper,Office Supplies,Paper,North,Delhi,10,37544.0,9869.47,5
+ORD01809,2023-09-21,CUST3723,Paper,Office Supplies,Paper,South,Bangalore,10,12150.0,3642.08,10
+ORD01810,2023-08-16,CUST2172,Stapler,Office Supplies,Stapler,North,Lucknow,4,19628.0,4739.74,0
+ORD01811,2023-08-06,CUST8592,Chair,Furniture,Chair,West,Ahmedabad,10,12744.0,4299.85,10
+ORD01812,2024-07-12,CUST7708,Binder,Office Supplies,Binder,South,Chennai,5,4190.0,1389.63,0
+ORD01813,2023-11-23,CUST2885,Phone,Technology,Phone,East,Kolkata,4,3429.0,643.99,25
+ORD01814,2023-10-18,CUST4186,Bookcase,Furniture,Bookcase,West,Mumbai,3,14172.0,3677.05,0
+ORD01815,2023-01-23,CUST4584,Phone,Technology,Phone,West,Ahmedabad,6,3830.4,1289.35,30
+ORD01816,2023-10-05,CUST7274,Paper,Office Supplies,Paper,East,Kolkata,4,756.0,235.4,0
+ORD01817,2024-12-27,CUST1108,Keyboard,Technology,Keyboard,North,Delhi,2,6604.5,964.03,25
+ORD01818,2024-02-15,CUST5807,Paper,Office Supplies,Paper,South,Chennai,1,4407.0,786.29,0
+ORD01819,2024-03-13,CUST8117,Notebook,Office Supplies,Notebook,West,Ahmedabad,8,37208.0,11967.44,0
+ORD01820,2024-06-11,CUST5385,Keyboard,Technology,Keyboard,South,Hyderabad,4,14977.0,1849.81,15
+ORD01821,2024-07-25,CUST1171,Phone,Technology,Phone,East,Kolkata,2,448.0,99.41,30
+ORD01822,2023-01-27,CUST4175,Monitor,Technology,Monitor,East,Patna,10,20673.0,5217.58,10
+ORD01823,2024-09-17,CUST9486,Monitor,Technology,Monitor,West,Pune,4,6876.8,444.68,20
+ORD01824,2023-12-15,CUST7085,Binder,Office Supplies,Binder,East,Kolkata,1,2768.8,306.17,20
+ORD01825,2024-09-21,CUST2354,Monitor,Technology,Monitor,South,Bangalore,3,1455.3,127.76,10
+ORD01826,2024-05-03,CUST7173,Monitor,Technology,Monitor,East,Patna,3,4746.0,358.42,30
+ORD01827,2023-10-31,CUST3058,Desk,Furniture,Desk,East,Bhubaneswar,4,1800.0,594.68,25
+ORD01828,2024-09-23,CUST4078,Keyboard,Technology,Keyboard,East,Patna,9,31608.0,9414.72,20
+ORD01829,2023-09-08,CUST7191,Table,Furniture,Table,West,Mumbai,1,1308.6,222.03,10
+ORD01830,2023-06-01,CUST3878,Chair,Furniture,Chair,East,Kolkata,7,25622.45,4812.59,5
+ORD01831,2024-10-26,CUST2528,Stapler,Office Supplies,Stapler,West,Pune,7,11586.75,3205.87,25
+ORD01832,2023-06-03,CUST8333,Sofa,Furniture,Sofa,East,Patna,3,2265.6,398.83,20
+ORD01833,2024-02-13,CUST7430,Notebook,Office Supplies,Notebook,West,Pune,8,22254.4,1574.5,30
+ORD01834,2024-11-07,CUST6522,Pen,Office Supplies,Pen,South,Bangalore,9,21955.5,6262.1,30
+ORD01835,2023-04-21,CUST3933,Paper,Office Supplies,Paper,East,Patna,9,18111.6,3481.74,10
+ORD01836,2024-02-13,CUST1035,Paper,Office Supplies,Paper,North,Chandigarh,2,7620.9,2321.62,5
+ORD01837,2024-05-01,CUST2636,Phone,Technology,Phone,East,Bhubaneswar,1,3896.8,1243.9,20
+ORD01838,2024-12-03,CUST4508,Bookcase,Furniture,Bookcase,North,Lucknow,6,12294.9,3321.51,5
+ORD01839,2024-07-26,CUST8238,Desk,Furniture,Desk,East,Kolkata,2,3144.6,762.12,10
+ORD01840,2023-04-14,CUST9943,Binder,Office Supplies,Binder,West,Pune,3,8906.4,1413.49,20
+ORD01841,2023-11-20,CUST2718,Laptop,Technology,Laptop,South,Chennai,3,2865.0,160.16,0
+ORD01842,2024-12-18,CUST7545,Monitor,Technology,Monitor,East,Patna,1,2451.95,632.67,5
+ORD01843,2024-05-12,CUST2354,Printer,Technology,Printer,West,Pune,10,29763.0,2078.82,10
+ORD01844,2024-09-12,CUST3032,Pen,Office Supplies,Pen,West,Pune,9,7374.6,2305.85,15
+ORD01845,2023-08-05,CUST3239,Sofa,Furniture,Sofa,North,Lucknow,8,12837.6,1848.51,10
+ORD01846,2023-01-25,CUST4869,Laptop,Technology,Laptop,North,Chandigarh,7,13762.35,3334.74,15
+ORD01847,2023-11-15,CUST8399,Binder,Office Supplies,Binder,East,Patna,6,23746.2,6865.01,5
+ORD01848,2023-01-10,CUST8099,Sofa,Furniture,Sofa,East,Patna,8,28418.4,7713.95,10
+ORD01849,2024-07-08,CUST9921,Printer,Technology,Printer,North,Chandigarh,3,2852.85,642.25,5
+ORD01850,2024-03-20,CUST9014,Printer,Technology,Printer,West,Pune,8,17358.0,4149.8,25
+ORD01851,2024-09-12,CUST1465,Pen,Office Supplies,Pen,South,Chennai,4,8983.2,2903.79,5
+ORD01852,2024-10-09,CUST8844,Laptop,Technology,Laptop,West,Pune,3,7049.25,970.17,25
+ORD01853,2023-05-20,CUST1778,Chair,Furniture,Chair,West,Ahmedabad,7,19448.8,1187.93,20
+ORD01854,2023-01-30,CUST8418,Laptop,Technology,Laptop,East,Kolkata,4,13400.8,4030.57,30
+ORD01855,2024-12-22,CUST8679,Binder,Office Supplies,Binder,South,Bangalore,1,526.4,45.29,20
+ORD01856,2024-11-06,CUST7518,Binder,Office Supplies,Binder,East,Bhubaneswar,5,12604.0,1025.37,20
+ORD01857,2024-04-07,CUST6813,Laptop,Technology,Laptop,North,Delhi,8,10326.4,2129.25,30
+ORD01858,2024-08-10,CUST3642,Laptop,Technology,Laptop,West,Ahmedabad,4,8603.2,2057.05,5
+ORD01859,2024-09-28,CUST5582,Keyboard,Technology,Keyboard,South,Bangalore,10,31178.0,2082.44,30
+ORD01860,2024-07-31,CUST6310,Paper,Office Supplies,Paper,East,Kolkata,9,17347.5,3265.98,25
+ORD01861,2024-09-09,CUST8492,Notebook,Office Supplies,Notebook,West,Pune,3,10971.0,1511.32,0
+ORD01862,2024-10-23,CUST9973,Bookcase,Furniture,Bookcase,North,Chandigarh,6,10014.9,1120.7,5
+ORD01863,2024-04-14,CUST3247,Phone,Technology,Phone,West,Mumbai,4,3885.0,634.43,25
+ORD01864,2024-04-05,CUST2647,Phone,Technology,Phone,West,Pune,2,7328.0,2501.03,0
+ORD01865,2023-05-19,CUST1668,Binder,Office Supplies,Binder,West,Mumbai,3,2648.7,631.73,10
+ORD01866,2023-04-07,CUST9549,Printer,Technology,Printer,North,Delhi,2,3809.7,1116.16,15
+ORD01867,2024-09-23,CUST8601,Pen,Office Supplies,Pen,South,Chennai,1,4261.0,219.17,0
+ORD01868,2023-03-29,CUST5506,Paper,Office Supplies,Paper,South,Chennai,10,31400.0,4042.27,0
+ORD01869,2023-07-28,CUST1799,Paper,Office Supplies,Paper,South,Chennai,10,8001.0,2709.18,10
+ORD01870,2023-07-18,CUST1661,Sofa,Furniture,Sofa,West,Mumbai,3,4735.8,1308.14,10
+ORD01871,2024-09-15,CUST9295,Monitor,Technology,Monitor,East,Kolkata,2,716.8,136.9,20
+ORD01872,2023-01-01,CUST6463,Paper,Office Supplies,Paper,West,Ahmedabad,10,19095.0,5342.55,25
+ORD01873,2024-05-12,CUST2296,Sofa,Furniture,Sofa,North,Delhi,6,19237.2,3101.28,15
+ORD01874,2023-01-24,CUST9168,Binder,Office Supplies,Binder,North,Chandigarh,1,2399.2,175.74,20
+ORD01875,2024-04-08,CUST9426,Paper,Office Supplies,Paper,South,Hyderabad,6,12924.0,938.64,0
+ORD01876,2023-07-29,CUST4518,Laptop,Technology,Laptop,West,Ahmedabad,7,24696.0,1917.08,20
+ORD01877,2023-07-24,CUST3855,Chair,Furniture,Chair,South,Bangalore,4,8436.0,1557.71,5
+ORD01878,2023-06-18,CUST8332,Chair,Furniture,Chair,East,Bhubaneswar,5,4071.5,334.35,15
+ORD01879,2024-04-16,CUST1236,Chair,Furniture,Chair,North,Lucknow,3,3031.2,461.25,20
+ORD01880,2024-08-19,CUST1155,Bookcase,Furniture,Bookcase,West,Pune,6,5926.2,1583.98,15
+ORD01881,2024-10-26,CUST1747,Sofa,Furniture,Sofa,West,Mumbai,4,11673.6,711.0,20
+ORD01882,2023-04-07,CUST7320,Notebook,Office Supplies,Notebook,West,Ahmedabad,8,26071.2,7410.02,10
+ORD01883,2023-10-08,CUST3655,Stapler,Office Supplies,Stapler,North,Chandigarh,6,9480.0,2737.34,20
+ORD01884,2023-04-04,CUST8488,Pen,Office Supplies,Pen,South,Chennai,1,2158.0,415.85,0
+ORD01885,2024-08-16,CUST6210,Keyboard,Technology,Keyboard,East,Kolkata,6,11317.5,1829.16,25
+ORD01886,2023-04-09,CUST7416,Desk,Furniture,Desk,South,Hyderabad,6,6354.6,828.69,30
+ORD01887,2023-02-28,CUST1106,Chair,Furniture,Chair,West,Ahmedabad,8,26887.2,2506.31,15
+ORD01888,2024-06-25,CUST7881,Desk,Furniture,Desk,South,Bangalore,2,9304.0,1540.18,0
+ORD01889,2024-10-14,CUST8139,Phone,Technology,Phone,South,Hyderabad,4,15501.6,2789.32,10
+ORD01890,2024-04-13,CUST9524,Paper,Office Supplies,Paper,East,Patna,4,14021.6,2621.91,15
+ORD01891,2023-12-26,CUST5931,Stapler,Office Supplies,Stapler,North,Delhi,7,1309.0,167.28,0
+ORD01892,2023-11-04,CUST4633,Printer,Technology,Printer,West,Mumbai,8,12600.0,3172.25,0
+ORD01893,2023-02-23,CUST6196,Stapler,Office Supplies,Stapler,South,Chennai,4,12263.8,1672.99,15
+ORD01894,2023-07-27,CUST7439,Desk,Furniture,Desk,West,Pune,5,24130.0,4435.8,0
+ORD01895,2024-03-08,CUST3384,Chair,Furniture,Chair,East,Kolkata,6,12511.5,4142.12,5
+ORD01896,2023-01-05,CUST3626,Stapler,Office Supplies,Stapler,West,Ahmedabad,9,21853.8,3132.84,5
+ORD01897,2024-05-09,CUST5459,Table,Furniture,Table,South,Bangalore,1,150.4,28.22,20
+ORD01898,2024-02-14,CUST3175,Chair,Furniture,Chair,East,Bhubaneswar,4,9806.4,819.79,10
+ORD01899,2024-02-02,CUST9233,Stapler,Office Supplies,Stapler,East,Patna,1,2917.5,271.52,25
+ORD01900,2024-12-22,CUST2330,Pen,Office Supplies,Pen,East,Kolkata,2,197.4,29.57,30
+ORD01901,2023-10-21,CUST9820,Keyboard,Technology,Keyboard,South,Bangalore,8,32300.0,9800.16,15
+ORD01902,2024-12-19,CUST6577,Printer,Technology,Printer,West,Ahmedabad,5,4605.0,1291.88,25
+ORD01903,2023-02-06,CUST9995,Paper,Office Supplies,Paper,North,Delhi,7,7800.8,998.22,30
+ORD01904,2024-10-30,CUST6175,Printer,Technology,Printer,North,Chandigarh,4,9525.6,3185.79,30
+ORD01905,2024-03-06,CUST3310,Keyboard,Technology,Keyboard,South,Chennai,10,10293.5,3595.38,15
+ORD01906,2023-04-26,CUST7070,Laptop,Technology,Laptop,West,Mumbai,1,976.5,211.11,30
+ORD01907,2024-03-07,CUST3373,Laptop,Technology,Laptop,West,Ahmedabad,5,15176.25,3489.85,25
+ORD01908,2023-06-06,CUST5142,Printer,Technology,Printer,East,Bhubaneswar,8,24262.4,6489.2,15
+ORD01909,2023-09-12,CUST1102,Laptop,Technology,Laptop,North,Delhi,8,14040.0,3307.53,10
+ORD01910,2023-07-15,CUST7383,Laptop,Technology,Laptop,East,Bhubaneswar,5,14045.0,1103.15,0
+ORD01911,2024-04-10,CUST6583,Chair,Furniture,Chair,North,Chandigarh,9,32791.5,8069.91,25
+ORD01912,2024-03-22,CUST9030,Laptop,Technology,Laptop,North,Lucknow,6,3150.0,677.56,30
+ORD01913,2023-05-29,CUST5339,Keyboard,Technology,Keyboard,North,Delhi,7,3645.6,503.03,30
+ORD01914,2023-01-25,CUST4796,Table,Furniture,Table,South,Hyderabad,6,16987.2,4886.05,20
+ORD01915,2024-03-25,CUST2629,Phone,Technology,Phone,North,Chandigarh,10,26524.0,3509.34,5
+ORD01916,2023-01-16,CUST7921,Table,Furniture,Table,South,Chennai,8,23490.0,1376.68,25
+ORD01917,2023-02-17,CUST4380,Monitor,Technology,Monitor,South,Bangalore,3,811.2,112.89,20
+ORD01918,2023-05-02,CUST1649,Chair,Furniture,Chair,North,Chandigarh,10,16326.0,4921.39,10
+ORD01919,2023-06-28,CUST2230,Chair,Furniture,Chair,North,Chandigarh,2,8555.4,1639.72,10
+ORD01920,2023-03-11,CUST9659,Notebook,Office Supplies,Notebook,East,Kolkata,3,7552.8,1960.27,20
+ORD01921,2024-05-05,CUST2618,Sofa,Furniture,Sofa,West,Ahmedabad,7,5100.9,1150.78,30
+ORD01922,2024-09-17,CUST3945,Sofa,Furniture,Sofa,East,Kolkata,1,2803.5,645.14,30
+ORD01923,2023-01-04,CUST9126,Table,Furniture,Table,South,Hyderabad,6,15367.5,2302.92,25
+ORD01924,2024-07-02,CUST9154,Phone,Technology,Phone,East,Patna,8,9411.2,649.43,15
+ORD01925,2024-09-19,CUST1637,Binder,Office Supplies,Binder,West,Ahmedabad,5,18595.0,3439.4,0
+ORD01926,2024-05-12,CUST2039,Notebook,Office Supplies,Notebook,East,Bhubaneswar,9,38952.9,6980.39,10
+ORD01927,2023-02-20,CUST9400,Phone,Technology,Phone,South,Chennai,6,9525.6,3129.28,10
+ORD01928,2023-09-05,CUST1095,Notebook,Office Supplies,Notebook,North,Lucknow,4,15724.8,2195.27,10
+ORD01929,2024-09-01,CUST1605,Printer,Technology,Printer,South,Chennai,4,19480.0,1810.2,0
+ORD01930,2023-09-03,CUST2354,Printer,Technology,Printer,North,Lucknow,5,12717.0,1224.02,10
+ORD01931,2023-08-03,CUST9735,Monitor,Technology,Monitor,South,Hyderabad,2,2641.0,482.14,5
+ORD01932,2023-06-21,CUST6364,Phone,Technology,Phone,East,Bhubaneswar,6,22284.0,5740.97,25
+ORD01933,2024-05-06,CUST8833,Desk,Furniture,Desk,North,Delhi,9,35995.5,10766.43,5
+ORD01934,2023-01-19,CUST4536,Laptop,Technology,Laptop,East,Bhubaneswar,10,2932.5,339.42,25
+ORD01935,2024-11-28,CUST7519,Table,Furniture,Table,North,Chandigarh,6,20438.4,4836.02,20
+ORD01936,2024-12-24,CUST3945,Phone,Technology,Phone,South,Bangalore,8,39720.0,11147.75,0
+ORD01937,2023-11-17,CUST2558,Phone,Technology,Phone,South,Chennai,8,17601.6,928.93,5
+ORD01938,2023-06-07,CUST4778,Notebook,Office Supplies,Notebook,East,Bhubaneswar,5,14240.0,3628.92,0
+ORD01939,2023-11-07,CUST5508,Desk,Furniture,Desk,South,Chennai,5,10084.0,2632.77,20
+ORD01940,2024-01-27,CUST3484,Desk,Furniture,Desk,East,Patna,2,5299.1,1335.07,5
+ORD01941,2024-08-16,CUST1279,Stapler,Office Supplies,Stapler,South,Bangalore,8,4096.0,625.61,0
+ORD01942,2024-03-31,CUST3237,Notebook,Office Supplies,Notebook,East,Patna,9,21427.2,6508.22,20
+ORD01943,2024-06-25,CUST6658,Desk,Furniture,Desk,South,Bangalore,4,9914.4,1995.11,15
+ORD01944,2024-01-15,CUST7924,Pen,Office Supplies,Pen,North,Chandigarh,3,4576.5,1086.36,25
+ORD01945,2023-09-03,CUST9447,Phone,Technology,Phone,North,Lucknow,8,23047.2,5619.78,10
+ORD01946,2023-04-25,CUST7748,Stapler,Office Supplies,Stapler,West,Pune,5,4560.0,1575.41,25
+ORD01947,2023-03-22,CUST6877,Monitor,Technology,Monitor,South,Hyderabad,6,11934.0,1165.81,25
+ORD01948,2023-01-25,CUST7041,Printer,Technology,Printer,South,Bangalore,9,16921.8,1783.6,30
+ORD01949,2023-04-07,CUST6666,Bookcase,Furniture,Bookcase,West,Pune,1,3530.7,581.16,10
+ORD01950,2023-12-13,CUST6131,Stapler,Office Supplies,Stapler,South,Chennai,10,35480.0,7306.98,20
+ORD01951,2024-07-23,CUST9888,Bookcase,Furniture,Bookcase,South,Chennai,4,8922.4,2933.4,5
+ORD01952,2023-04-02,CUST5501,Phone,Technology,Phone,East,Patna,8,21060.0,4625.24,25
+ORD01953,2023-07-21,CUST9447,Table,Furniture,Table,North,Lucknow,8,25208.0,3207.19,0
+ORD01954,2023-12-19,CUST7832,Paper,Office Supplies,Paper,West,Pune,8,13120.0,2944.41,0
+ORD01955,2024-06-11,CUST1484,Binder,Office Supplies,Binder,North,Lucknow,4,12979.2,3691.36,20
+ORD01956,2023-09-07,CUST1928,Stapler,Office Supplies,Stapler,North,Delhi,4,4936.8,1507.9,15
+ORD01957,2023-06-24,CUST4437,Stapler,Office Supplies,Stapler,North,Lucknow,4,7449.6,2451.02,20
+ORD01958,2023-04-01,CUST9367,Sofa,Furniture,Sofa,South,Bangalore,8,3561.6,1172.85,30
+ORD01959,2024-02-04,CUST6973,Bookcase,Furniture,Bookcase,North,Delhi,3,5278.5,462.56,15
+ORD01960,2023-07-11,CUST9552,Chair,Furniture,Chair,North,Chandigarh,9,2828.7,312.56,30
+ORD01961,2024-02-03,CUST6069,Sofa,Furniture,Sofa,South,Hyderabad,2,6577.5,1922.74,25
+ORD01962,2023-03-01,CUST3489,Notebook,Office Supplies,Notebook,North,Lucknow,8,26528.0,4972.41,0
+ORD01963,2023-03-18,CUST1193,Sofa,Furniture,Sofa,South,Bangalore,3,5730.0,1059.11,0
+ORD01964,2023-12-30,CUST9327,Stapler,Office Supplies,Stapler,North,Chandigarh,6,2565.0,224.86,10
+ORD01965,2024-01-07,CUST2485,Paper,Office Supplies,Paper,West,Ahmedabad,8,15390.0,2604.77,25
+ORD01966,2024-07-08,CUST4901,Phone,Technology,Phone,North,Chandigarh,9,33687.0,1879.42,5
+ORD01967,2023-04-19,CUST4201,Phone,Technology,Phone,West,Ahmedabad,4,2699.2,913.09,30
+ORD01968,2023-01-25,CUST6124,Stapler,Office Supplies,Stapler,South,Bangalore,4,2347.2,780.65,10
+ORD01969,2023-03-09,CUST5199,Chair,Furniture,Chair,South,Bangalore,3,9528.75,2981.84,25
+ORD01970,2024-07-11,CUST5572,Binder,Office Supplies,Binder,North,Chandigarh,10,4955.5,814.04,15
+ORD01971,2024-02-10,CUST9503,Monitor,Technology,Monitor,North,Lucknow,7,30781.8,2771.17,10
+ORD01972,2024-05-04,CUST5877,Notebook,Office Supplies,Notebook,East,Patna,3,4221.0,1229.04,25
+ORD01973,2023-03-26,CUST9155,Pen,Office Supplies,Pen,South,Bangalore,10,24192.0,3129.32,10
+ORD01974,2023-07-17,CUST1727,Phone,Technology,Phone,West,Pune,5,1968.0,558.09,20
+ORD01975,2023-02-07,CUST5324,Stapler,Office Supplies,Stapler,West,Mumbai,1,1697.5,555.68,30
+ORD01976,2024-12-06,CUST3707,Monitor,Technology,Monitor,North,Chandigarh,4,476.8,29.1,20
+ORD01977,2023-05-27,CUST2060,Stapler,Office Supplies,Stapler,North,Lucknow,4,8466.0,2032.9,15
+ORD01978,2023-02-21,CUST1278,Monitor,Technology,Monitor,South,Hyderabad,4,2192.0,401.74,20
+ORD01979,2023-03-13,CUST4035,Stapler,Office Supplies,Stapler,East,Patna,7,29220.1,3215.76,5
+ORD01980,2024-05-03,CUST1988,Paper,Office Supplies,Paper,East,Patna,2,264.0,91.51,25
+ORD01981,2024-02-13,CUST7194,Paper,Office Supplies,Paper,South,Chennai,6,18045.0,2757.21,25
+ORD01982,2024-12-12,CUST9454,Sofa,Furniture,Sofa,West,Pune,9,15561.0,3786.65,5
+ORD01983,2023-09-18,CUST8697,Chair,Furniture,Chair,West,Ahmedabad,8,7380.0,2168.18,25
+ORD01984,2023-05-14,CUST2530,Pen,Office Supplies,Pen,East,Bhubaneswar,7,7813.75,1274.22,5
+ORD01985,2023-05-17,CUST4222,Stapler,Office Supplies,Stapler,North,Lucknow,5,6298.5,353.12,15
+ORD01986,2023-09-17,CUST8504,Phone,Technology,Phone,East,Patna,4,12852.0,1363.45,25
+ORD01987,2024-10-04,CUST5454,Pen,Office Supplies,Pen,West,Pune,3,4488.75,452.82,25
+ORD01988,2023-11-21,CUST5463,Stapler,Office Supplies,Stapler,South,Chennai,7,5684.0,803.49,20
+ORD01989,2023-05-25,CUST5542,Sofa,Furniture,Sofa,South,Chennai,5,6643.0,1817.93,30
+ORD01990,2023-03-28,CUST3550,Laptop,Technology,Laptop,South,Chennai,7,31430.0,3279.49,0
+ORD01991,2024-05-09,CUST8236,Table,Furniture,Table,South,Hyderabad,8,2208.0,307.4,25
+ORD01992,2024-03-12,CUST3292,Table,Furniture,Table,East,Kolkata,1,1151.4,116.62,5
+ORD01993,2024-04-28,CUST7992,Binder,Office Supplies,Binder,East,Bhubaneswar,3,5719.65,1681.92,15
+ORD01994,2023-06-14,CUST9044,Pen,Office Supplies,Pen,North,Lucknow,7,6977.6,1643.78,20
+ORD01995,2024-01-04,CUST8894,Phone,Technology,Phone,West,Ahmedabad,2,815.1,261.91,5
+ORD01996,2023-11-27,CUST6777,Stapler,Office Supplies,Stapler,West,Mumbai,1,1707.0,170.66,25
+ORD01997,2023-11-23,CUST6352,Binder,Office Supplies,Binder,South,Bangalore,4,2040.0,516.5,0
+ORD01998,2024-04-08,CUST3934,Phone,Technology,Phone,East,Kolkata,8,34840.8,9418.85,10
+ORD01999,2023-09-03,CUST8136,Sofa,Furniture,Sofa,East,Kolkata,1,1892.1,538.87,30
+ORD02000,2023-06-05,CUST1549,Paper,Office Supplies,Paper,South,Chennai,4,6140.0,696.88,0
